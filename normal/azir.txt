@@ -1,7 +1,7 @@
 **Azir** *(Normal y clasificatorias)*
 *Mid*
 > **% victorias:** 48,8%
-> **Hechizos del Invocador:** Destello, Transportar
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034> 
 > **Runas**: <:pres:804451123825606657> <:bruj:804451124236648478>
  
 > :cd:<:precision12:804446921522675733>:cd::cd:

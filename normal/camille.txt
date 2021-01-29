@@ -1,7 +1,7 @@
 **Camille** *(Normal y clasificatorias)*
 *Top*
 > **% victorias:** 51,8% 
-> **Hechizos del Invocador:** Destello, Teleporte
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034> 
 > **Runas**: <:valor:804451124245561394> <:insp:804451124207681577>
  
 >   <:valor11:804449943376232509>:cd::cd:

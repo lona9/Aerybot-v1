@@ -1,7 +1,7 @@
 **Ashe** *(Normal y clasificatorias)*
 *AD carry*
 > **% victorias:** 48,7%
-> **Hechizos del Invocador:** Destello, Curar
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336> 
 > **Runas**: <:pres:804451123825606657> <:insp:804451124207681577>
  
 > :cd:<:precision12:804446921522675733>:cd::cd:

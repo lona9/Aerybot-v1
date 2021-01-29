@@ -1,7 +1,7 @@
 **Annie** *(Normal y clasificatorias)*
 *Mid*
 > **% victorias:** 53,2% 
-> **Hechizos del Invocador:** Destello, Prender
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570> 
 > **Runas**: <:dom:804451124085522442> <:bruj:804451124236648478>
  
 > <:dom11:804447179758239744>:cd::cd::cd:

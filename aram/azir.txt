@@ -1,6 +1,6 @@
 **Azir** *(ARAM)*
 > **% victorias:** 49,6%
-> **Hechizos del Invocador:** Destello, Marca
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 > **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
  
 > :cd:<:precision12:804446921522675733>:cd::cd:

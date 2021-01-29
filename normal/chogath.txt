@@ -1,7 +1,7 @@
 **Cho’gath** *(Normal y clasificatorias)*
 *Top*
 > **% victorias:** 56,3%
-> **Hechizos del Invocador:** Destello, Teleportar
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034> 
 > **Runas**: <:valor:804451124245561394> <:pres:804451123825606657>
  
 >   <:valor11:804449943376232509>:cd::cd:
