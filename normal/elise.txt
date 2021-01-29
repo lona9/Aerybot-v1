@@ -1,0 +1,21 @@
+**Elise** *(Normal)*
+*Jungla*
+> **% victorias:** 50,4%
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+> **Runas**: <:dom:804451124085522442> <:bruj:804451124236648478> 
+ 
+> <:dom14:804447179938070569>:cd::cd::cd:
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd:<:dom43:804457129183936582>:cd:
+ 
+>   :cd::cd:<:bruj23:804448797425532928>
+>   :cd::cd::cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
+>   <:5005:804451179778015303><:5008:804451180172279808><:5002:804451180104908870>
+ 
+> **Build**:
+*Iniciales:* Lente del oráculo, Espada de granizo, Poción reutilizable
+*Botas:* Botas de hechicero
+*Principales:* Alternador hextech > Cosechador nocturno > Perdición del liche > Reloj de arena de Zhonya
+*Finales:* Velo del hada de la muere, Morellonomicón, Sombrero moral de Rabadon
