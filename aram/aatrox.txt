@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870> 
 
 > **Build**:
-*Iniciales*: Poción reutilizable, Látigo puntahierro
+*Iniciales:* Poción reutilizable, Látigo puntahierro
 *Botas:* Botas de mercurio
-*Principales*: Látigo puntahierro > Chupasangre > Hidra voraz > Calibrador de Sterak
-*Finales*: Mecanoespada punki, Baile de la muerte, Malla de espinas
+*Principales:* Látigo puntahierro > Chupasangre > Hidra voraz > Calibrador de Sterak
+*Finales:* Mecanoespada punki, Baile de la muerte, Malla de espinas

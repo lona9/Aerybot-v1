@@ -1,0 +1,21 @@
+**Camille** *(Normal y clasificatorias)*
+*Top*
+> **% victorias:** 51,8% 
+> **Hechizos del Invocador:** Destello, Teleporte
+> **Runas**: <:valor:804451124245561394> <:insp:804451124207681577>
+ 
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
+ 
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd::cd:
+>   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
+ 
+> **Build**:
+*Iniciales:* Guardián invisible, Espada de Doran, Poción de vida
+*Botas:* Botas blindadas
+*Principales:* Brillo, Fuerza de trinidad, Hidra voraz, Calibrador de Sterak
+*Finales:* Ángel de la guarda, Mecanoespada punki, Baile de la muerte

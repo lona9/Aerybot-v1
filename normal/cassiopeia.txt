@@ -1,0 +1,20 @@
+**Cassiopeia** *(Normal y clasificatorias)*
+*Mid*
+> **% victorias:** 48,4%
+> **Hechizos del Invocador:** Destello, Teleportar
+> **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
+ 
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   <:precision41:804446922151690300>:cd::cd:
+ 
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5008:804451180172279808><:5008:804451180172279808><:5003:804451180100452403>
+ 
+> **Build**:
+*Iniciales:* Guardián invisible, Lágrima de la diosa, Poción de vida (x2)
+*Principales:* Capítulo perdido > Desconsuelo de Liandry > Bastón de arcángel > Reloj de arena de Zhonya
+*Finales:* Morellonomicón, Cetro de cristal de Rylai, Bastón del vacío

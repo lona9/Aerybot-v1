@@ -1,6 +1,6 @@
-**Alistar** *(Normal y clasificatorias)*
+**Blitzcrank** *(Normal y clasificatorias)*
 *Support*
-> **% victorias:** 49%
+> **% victorias:** 48%
 > **Hechizos del Invocador:** Destello, Prender
 > **Runas**: <:valor:804451124245561394> <:insp:804451124207681577>
  
@@ -9,13 +9,13 @@
 >   :cd::cd:<:valor33:804449943603118131>
 >   <:valor41:804449944298586143>:cd::cd:
  
->   <:insp21:804450563911057458>:cd::cd:
 >   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
 >   <:insp41:804450563507879947>:cd::cd:
->  <:5007:804451180164022312><:5002:804451180104908870><:5002:804451180104908870> 
+>   <:5007:804451180164022312><:5002:804451180104908870><:5002:804451180104908870>
  
 > **Build**:
 *Iniciales:* Guardián invisible, Escudo reliquia, Poción de vida (x2)
-*Botas:* Botas de movilidad 
+*Botas:* Botas de movilidad
 *Principales:* Gema avivadora > Medallón de los Solari de Hierro > Convergencia de Zeke > Promesa de caballero
-*Finales:* Promesa del caballero, Fuerza de la naturaleza, Canción de batalla de Shurelya
+*Finales:* Piedra de visión vigilante, Quimiotanque turbo, Redención

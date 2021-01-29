@@ -1,0 +1,19 @@
+**Cassiopeia** *(ARAM)*
+> **% victorias:** 51,5%
+> **Hechizos del Invocador:** Destello, Claridad
+> **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
+ 
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd:<:precision32:804446921737371648>:cd:
+>   <:precision41:804446922151690300>:cd::cd:
+ 
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd:
+>   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
+ 
+> **Build**:
+*Iniciales:* Capítulo perdido
+*Principales:* Capítulo perdido > Desconsuelo de Liandry > Bastón del arcángel > Abrazo demoníaco
+*Finales:* Morellonomicón, Reloj de arena de Zhonya, Bastón del vacío 

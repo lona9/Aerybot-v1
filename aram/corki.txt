@@ -1,0 +1,20 @@
+**Corki** *(ARAM)*
+> **% victorias:** 51,4%
+> **Hechizos del Invocador:** Destello, Curar
+> **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
+ 
+> :cd::cd:<:precision13:804446921619931187>:cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd::cd:<:precision33:804446921644179516>
+>   <:precision41:804446922151690300>:cd::cd:
+ 
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:5005:804451179778015303><:5008:804451180172279808><:5002:804451180104908870>
+ 
+> **Build**:
+*Iniciales:* Poción reutilizable, Brillo, Lágrima de la diosa
+*Botas:* Botas de hechicero
+*Principales:* Brillo > Desgarrador divino > Manamune > Cañón de fuego rápido
+*Finales:* Recordatorio letal, Sanguinaria, Filo infinito
