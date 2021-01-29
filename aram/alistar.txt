@@ -1,0 +1,20 @@
+**Alistar** *(ARAM)*
+> **% victorias:** 53,8%
+> **Hechizos del Invocador:** Destello, Marca
+> **Runas**: <:valor:804451124245561394> <:pres:804451123825606657>
+ 
+>   :cd:<:valor12:804449943775084614>:cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
+ 
+>   :cd:<:precision22:804446921414541333>:cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   :cd::cd::cd:
+>   <:5007:804451180164022312><:5002:804451180104908870> <:5002:804451180104908870> 
+ 
+> **Build**:
+*Iniciales*: Poción reutilizable, Rescoldo de Bami
+*Botas:* Botas de mercurio
+*Principales*: Rescoldo de Bami > Égida de fuego solar > Rostro espiritual > Malla de espinas
+*Finales*: Armadura de Warmog, Protector pétreo de gárgola, Presagio de Randuin

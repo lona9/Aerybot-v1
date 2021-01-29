@@ -1,0 +1,21 @@
+**Anivia** *(Normal y clasificatorias)*
+*Mid*
+> **% victorias:** 52,6%
+> **Hechizos del Invocador:** Destello, Teleportar
+> **Runas**: <:dom:804451124085522442> <:pres:804451123825606657>
+ 
+> <:dom14:804447179938070569>:cd::cd::cd:
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
+>   <:dom41:804457130379182120>:cd::cd:
+ 
+>   :cd::cd:<:precision23:804446921628057630>
+>   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+>   <:5008:804451180172279808><:5008:804451180172279808><:5003:804451180100452403>
+ 
+> **Build**:
+*Iniciales*: Guardián invisible, Anillo de Doran, Poción de vida (x2)
+*Botas:* Botas de hechicero
+*Principales*: Capítulo perdido > Desconsuelo de Liandry > Bastón de arcángel > Reloj de arena de Zhonya
+*Finales*: Sombrero moral de Rabadon, Morellonomicón, Abrazo demoníaco

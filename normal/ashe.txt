@@ -1,0 +1,21 @@
+**Ashe** *(Normal y clasificatorias)*
+*AD carry*
+> **% victorias:** 48,7%
+> **Hechizos del Invocador:** Destello, Curar
+> **Runas**: <:pres:804451123825606657> <:insp:804451124207681577>
+ 
+> :cd:<:precision12:804446921522675733>:cd::cd:
+>   :cd::cd:<:precision23:804446921628057630>
+>   <:precision31:804446921660956702>:cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
+ 
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd:<:insp42:804450563965452369>:cd:
+>   <:5005:804451179778015303><:5008:804451180172279808><:5002:804451180104908870> 
+ 
+> **Build**:
+*Iniciales*: Guardián invisible, Espada de Doran, Poción de vida (x)
+*Botas:* Grebas de berserker
+*Principales*: Carcaj de mediodía > Verdugo de krakens > Huracán de Runaan > Hoja del rey arruinado
+*Finales*: Ángel de la guarda, Recordatorio letal, Filo infinito
