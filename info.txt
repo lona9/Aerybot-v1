@@ -1,5 +1,7 @@
-Este bot fue actualizado por ultima vez el **30/01/21 a las 19:30.**
+Este bot fue actualizado por ultima vez el **31/01/21 a las 0:00**
 
 Los datos y builds fueron obtenidos de League of Graphs, para LAS, Platino+, **parche 11.2**
+
+Si quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot
 
 Si te gustó este bot, considera comprar un kofi a la creadora: https://www.ko-fi.com/lona9

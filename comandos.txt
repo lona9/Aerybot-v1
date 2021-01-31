@@ -1,8 +1,8 @@
 Los comandos que puedes usar son los siguientes:
   
-**&info**: Información general del bot.
-**&rotacion:** Rotación semanal actual.
-**&normal**: Escribir comando + nombre del champ para ver sus stats y builds para partidas normales (ej: &normal ashe)
-**&aram:** Escribir comando + nombre del champ para ver sus stats y builds para partidas ARAM (ej: &aram ashe)
+**aery info**: Información general del bot.
+**aery rotacion:** Rotación semanal actual.
+**aery normal**: Escribir comando + nombre del champ para ver sus stats y builds para partidas normales (ej: aery normal ashe)
+**aery aram:** Escribir comando + nombre del champ para ver sus stats y builds para partidas ARAM (ej: aery aram ashe)
 
 Comandos deben ser escritos en minúsculas. Los nombres de champs se deben escribir completos, con o sin mayúsculas, con o sin espacios, y con o sin caracteres especiales (Ej: Se puede escribir Cho'Gath o chogath, Lee Sin o leesin or incluso LeEsIn, se debe buscar Nunu y Willump, y no solo Nunu).
