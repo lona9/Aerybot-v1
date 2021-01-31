@@ -1,0 +1,20 @@
+**Skarner** *(ARAM)*
+> **% victorias:** 51,8%
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835> 
+> **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
+ 
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   <:valor41:804449944298586143>:cd::cd:
+ 
+>   <:bruj21:804448796972023829>:cd::cd:
+>   :cd::cd::cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+>   <:5008:804451180172279808><:5002:804451180104908870><:5002:804451180104908870>
+ 
+> **Build:**
+*Iniciales:* Poción reutilizable, Rescoldo de Bami
+*Botas:* Botas de mercurio
+*Principales:* Rescoldo de Bami > Quimiotanque turbo > Placa del hombre muerto > Fuerza de la naturaleza
+*Finales:* Armadura de Warmog, Cota de espinas, Apariencia espiritual

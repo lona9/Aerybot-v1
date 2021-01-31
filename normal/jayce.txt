@@ -1,0 +1,39 @@
+**Jayce** *(Normal)*
+*Top / Mid*
+> **% victorias:** 44% / 47,1%
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:TELEPORT:804555481699713034> / <:Flash:804555481443336202> <:Ignite:804555481167298570>
+> **Runas Top**: <:pres:804451123825606657> <:insp:804451124207681577>
+ 
+> :cd::cd::cd:<:precision14:804446921631596585>
+>   :cd::cd:<:precision23:804446921628057630>
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd:<:precision43:804446921941975080>
+ 
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd::cd:
+>   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
+ 
+> **Build Top**:
+*Iniciales:* Guardián invisible, Espada de Doran, Poción de vida
+*Botas:* Botas blindadas
+*Principales:* Daga dentada > Eclipse > Manamune > Filo fantasmal de Youmuu
+*Finales:* Ángel de la guarda, Rencor de Serylda, Recordatorio letal
+
+> **Runas Mid**: <:bruj:804451124236648478> <:pres:804451123825606657>
+ 
+>   :cd::cd:<:bruj13:804448796787474433>
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   <:bruj31:804448797395910716>:cd::cd:
+>   :cd::cd:<:bruj43:804448797631316069>
+ 
+>   :cd::cd::cd:
+>   :cd:<:precision32:804446921737371648>:cd:
+>   <:precision41:804446922151690300>:cd::cd:
+>   <:5008:804451180172279808><:5008:804451180172279808><:5003:804451180100452403>
+ 
+> **Build Mid**:
+*Iniciales:* Guardián invisible, Espada de Doran, Poción de vida
+*Botas:* Botas de mercurio
+*Principales:* Daga dentada > Eclipse > Manamune > Filo fantasmal de Youmuu
+*Finales:* Manamune, Filo de la noche

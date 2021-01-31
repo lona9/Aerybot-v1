@@ -1,0 +1,21 @@
+**Janna** *(Normal)*
+*Support*
+> **% victorias:** 50,2%
+> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+> **Runas**: <:bruj:804451124236648478> <:dom:804451124085522442>
+ 
+>   :cd:<:bruj12:804448797001252864>:cd:
+>   :cd:<:bruj22:804448796553117707>:cd:
+>   :cd:<:bruj32:804448797346234369>:cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+ 
+>   :cd:<:dom22:804457129394176020>:cd:
+>   :cd::cd::cd:
+> <:dom43:804457129183936582>:cd::cd::cd:
+>   
+ 
+> **Build**:
+*Iniciales:* Guardián invisible, Daga de hechicero, Poción de vida (x2)
+*Botas:* Botas de movilidad
+*Principales:* Espejo de cristal de Bandle > Mandato imperial > Bastón de aguas fluidas > Incensario ardiente
+*Finales:* Rendición, Bendición de Mikael,  Renovación de piedra lunar
