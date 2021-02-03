@@ -11,6 +11,11 @@ DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
 bot = commands.Bot(command_prefix="aery ")
 
+@bot.event
+async def on_ready():
+  print('We have logged in as {0.user}'.format(bot))
+  await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name='aery info'))
+
 #FOR ARAM STATS
 @bot.command()
 async def aram(ctx, *args):
@@ -65,6 +70,10 @@ async def rotacion(ctx):
 		text = f.read()
 		await ctx.channel.send(
 		    '**Los champs en rotación de esta semana son:** \n{}'.format(text))
+
+@bot.command()
+async def guilds(ctx):
+  print(bot.guilds)
 
 
 keep_alive()
