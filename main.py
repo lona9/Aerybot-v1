@@ -75,6 +75,18 @@ async def rotacion(ctx):
 async def guilds(ctx):
   print(bot.guilds)
 
+@bot.command()
+async def replace(ctx):
+  pruebas = ['prueba.txt', 'prueba2.txt']
+  for i in pruebas:
+    ori = open(i, 'r')
+    new = ori.read()
+    new = new.replace('haser', 'hacer').replace('parrafo', 'párrafo').replace('cip', 'sip')
+    ori.close()
+    ori = open(i, 'w')
+    ori.write(new)
+    ori.close()
+
 
 keep_alive()
 
