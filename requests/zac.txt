@@ -1,0 +1,20 @@
+**Zac ** *(Normal)*
+**Posición:** *Jungler*
+**Porcentaje de victorias:** 48.9%
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   :cd:<:valor12:804449943775084614>:cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   :cd:<:valor42:804449943615438919>:cd:
+
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd::cd:
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
+
+**Build**
+**Botas:** Malla de espinas
+**Objetos iniciales:** Guardián invisible
+**Objetos principales:** Espada de granizo > Poción reutilizable > Rescoldo de Bami > Égida de fuego solar
+**Objetos finales:** Espada de granizo, Poción reutilizable, Abrazo demoníaco

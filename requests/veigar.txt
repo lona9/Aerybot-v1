@@ -1,12 +1,12 @@
-**Ahri ** *(Normal)*
+**Veigar ** *(Normal)*
 **Posición:** *Mid*
-**Porcentaje de victorias:** 51.2%
+**Porcentaje de victorias:** 45.8%
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > <:dom11:804447179758239744>:cd::cd::cd:
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
-> :cd::cd::cd:<:dom44:804457129732866048>
+> <:dom41:804457130379182120>:cd::cd::cd:
 
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de hechicero
 **Objetos iniciales:** Guardián invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortal de Rabadon, Reloj de arena de Zhonya, Morellonomicón
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Sombrero mortal de Rabadon
+**Objetos finales:** Morellonomicón, Bastón del Vacío, Malla de espinas

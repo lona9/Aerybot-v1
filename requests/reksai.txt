@@ -1,0 +1,20 @@
+**Rek'Sai ** *(Normal)*
+**Posición:** *Jungler*
+**Porcentaje de victorias:** 52.8%
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
+
+> :cd::cd::cd:<:dom14:804447179938070569>
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd:<:dom43:804457129183936582>:cd:
+
+>   :cd::cd:<:bruj23:804448797425532928>
+>   :cd::cd::cd:
+>   :cd:<:bruj42:804448797572595813>:cd:
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas blindadas
+**Objetos iniciales:** Lente del oráculo, Espada de granizo, Poción reutilizable
+**Objetos principales:** Daga dentada > Garra de merodeador > Filo de la noche > Calibrador de Sterak
+**Objetos finales:** Ángel de la guarda, Calibrador de Sterak, Mecanoespada punki

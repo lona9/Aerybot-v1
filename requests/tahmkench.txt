@@ -1,0 +1,20 @@
+**Tahm Kench ** *(Normal)*
+**Posición:** *Top, Support*
+**Porcentaje de victorias:** 44.4%
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd:<:valor32:804449943959765002>:cd:
+>   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd::cd:
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Malla de espinas
+**Objetos iniciales:** Guardián invisible
+**Objetos principales:** Escudo de Doran > Poción de vida > Rescoldo de Bami > Guantelete de fuego escarchado
+**Objetos finales:** Escudo de Doran, Poción de vida, Protector pétreo de gárgola

@@ -1,0 +1,20 @@
+**Shen ** *(Normal)*
+**Posición:** *Top*
+**Porcentaje de victorias:** 50.7%
+**Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
+
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd:<:valor32:804449943959765002>:cd:
+>   :cd:<:valor42:804449943615438919>:cd:
+
+>   <:dom21:804457127800078397>:cd::cd:
+>   :cd::cd::cd:
+> :cd::cd::cd:<:dom44:804457129732866048>
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas blindadas
+**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Malla de espinas > Presagio de Randuin
+**Objetos finales:** Malla de espinas, Protector pétreo de gárgola, Armadura de Warmog

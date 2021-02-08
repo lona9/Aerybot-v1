@@ -1,0 +1,20 @@
+**Seraphine ** *(Normal)*
+**Posición:** *Support*
+**Porcentaje de victorias:** 52.6%
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+
+>   :cd::cd:<:valor13:804449943497605171>
+>   :cd::cd:<:valor23:804449943876010024>
+>   :cd::cd:<:valor33:804449943603118131>
+>   :cd:<:valor42:804449943615438919>:cd:
+
+>   :cd::cd::cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   <:insp41:804450563507879947>:cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Bastón de aguas fluidas
+**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
+**Objetos principales:** Bastón de aguas fluidas > Incensario ardiente > Botas jonias de la lucidez > Sombrero mortal de Rabadon
+**Objetos finales:** Sombrero mortal de Rabadon, Bastón de aguas fluidas, Impulso cósmico
