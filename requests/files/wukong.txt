@@ -1,0 +1,727 @@
+<html lang="es" xmlns="http://www.w3.org/1999/xhtml"><head>
+        
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet" type="text/css" media="all" onload="this.media='all'">        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.css?v=1612621172">
+        <link rel="stylesheet" type="text/css" href="//lolg-cdn.porofessor.gg/style.sprite.css?v=bd73babfc06e3b1bacd20212b70f891c">
+        <script src="https://rules.quantcount.com/rules-p-w9vzu-sGKCA0U.js" async=""></script><script type="text/javascript" src="https://s.jsrdn.com/s/1.js?p=22687&amp;r=1uqp&amp;k=dmMJMjAyMTAxMjUJdQljNDZmYmNlZi1kYzExLTRkZWEtYWJjOS05YThiZTZmZjdmNTQJdW4JMAl2CWFiZWRjYWUzLTY4YTctNDE3Zi05OTUxLWNkMDY1YjgxNDQ3Mwl0Zwljcy5qcwlidAkyMDIxLTAyLTA4VDAwOjA1OjE0LTAzOjAwCWRjCXV0Zi04CWJsCWVzCWJmCTMJZHcJMTM2NglkaAk2NTcJYmMJMQlicAkxCWJkCTI0CWJ3CTEzNjYJYmgJNzY4CWYJaHR0cHM6Ly93d3cubGVhZ3Vlb2ZncmFwaHMuY29tL2VzL2NoYW1waW9ucy9idWlsZHMvd3Vrb25nL2xhcwl1ZAkJcGIJMAlwdgkwCXBxCTAJY3cJCWFjcgl1bmRlZmluZWQJZHIJCWt3CWFuYWxpemFtb3MgbWlsbG9uZXMgZGUgcGFydGlkYXMgZGUgbG9sIGNhZGEgcGFyYSBvYnRlbmVyIGVzdGFkIHN0aWNhcyBlbXBhcmVqYW1pZW50b3MgYnVpbGRzIHkgcmFua2luZ3MgZGUgaW52b2NhZG9yZXMgZXN0YWQgc3RpY2FzIGRlIGNhbXBlb25lcyBwb3B1bGFyaWRhZCBwb3JjZW50YWplcyBkZSB2aWN0b3JpYSBtZWpvcmVzIG9iamV0b3MgeSBoZWNoaXpvcyByZWNvbWVuZGFkb3MgcmFua2luZyBkZSBlcXVpcG9zCXByZgl1bmRlZmluZWQ" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" defer="" src="https://static.developer.riotgames.com/js/rgea.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//lolg-cdn.porofessor.gg/jquery.js?v=3"></script>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="content-language" content="es">
+        <meta name="description" content="Analizamos millones de partidas de LoL cada día para obtener estadísticas, emparejamientos, builds y rankings de invocadores. Estadísticas de Campeones, popularidad, porcentajes de victoria, mejores objetos y hechizos recomendados. Ranking de equipos.">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="referrer" content="origin">
+        <meta name="theme-color" content="#2AA3CC">
+        <title>No encontrado</title>
+        <link rel="SHORTCUT ICON" href="//lolg-cdn.porofessor.gg/img/favicon_v2.png">
+        <meta property="og:image" content="https://lolg-cdn.porofessor.gg/img/logo.png">
+<link rel="apple-touch-icon" href="https://lolg-cdn.porofessor.gg/img/logo.png">        <meta name="twitter:site" content="@leagueofgraphs">
+<meta name="twitter:creator" content="@leagueofgraphs">
+<meta name="twitter:title" content="No encontrado">
+<meta name="twitter:description" content="Analizamos millones de partidas de LoL cada día para obtener estadísticas, emparejamientos, builds y rankings de invocadores. Estadísticas de Campeones, popularidad, porcentajes de victoria, mejores objetos y hechizos recomendados. Ranking de equipos.">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://lolg-cdn.porofessor.gg/img/logo.png">                
+        <link rel="alternate" href="https://www.leagueofgraphs.com/zh/champions/builds/wukong/las" hreflang="zh">
+<link rel="alternate" href="https://www.leagueofgraphs.com/vn/champions/builds/wukong/las" hreflang="vi">
+<link rel="alternate" href="https://www.leagueofgraphs.com/tr/champions/builds/wukong/las" hreflang="tr">
+<link rel="alternate" href="https://www.leagueofgraphs.com/th/champions/builds/wukong/las" hreflang="th">
+<link rel="alternate" href="https://www.leagueofgraphs.com/ru/champions/builds/wukong/las" hreflang="ru">
+<link rel="alternate" href="https://www.leagueofgraphs.com/ro/champions/builds/wukong/las" hreflang="ro">
+<link rel="alternate" href="https://www.leagueofgraphs.com/pt/champions/builds/wukong/las" hreflang="pt">
+<link rel="alternate" href="https://www.leagueofgraphs.com/pl/champions/builds/wukong/las" hreflang="pl">
+<link rel="alternate" href="https://www.leagueofgraphs.com/nl/champions/builds/wukong/las" hreflang="nl">
+<link rel="alternate" href="https://www.leagueofgraphs.com/ko/champions/builds/wukong/las" hreflang="ko">
+<link rel="alternate" href="https://www.leagueofgraphs.com/ja/champions/builds/wukong/las" hreflang="ja">
+<link rel="alternate" href="https://www.leagueofgraphs.com/it/champions/builds/wukong/las" hreflang="it">
+<link rel="alternate" href="https://www.leagueofgraphs.com/hu/champions/builds/wukong/las" hreflang="hu">
+<link rel="alternate" href="https://www.leagueofgraphs.com/fr/champions/builds/wukong/las" hreflang="fr">
+<link rel="alternate" href="https://www.leagueofgraphs.com/es/champions/builds/wukong/las" hreflang="es">
+<link rel="alternate" href="https://www.leagueofgraphs.com/champions/builds/wukong/las" hreflang="en">
+<link rel="alternate" href="https://www.leagueofgraphs.com/el/champions/builds/wukong/las" hreflang="el">
+<link rel="alternate" href="https://www.leagueofgraphs.com/de/champions/builds/wukong/las" hreflang="de">
+<link rel="alternate" href="https://www.leagueofgraphs.com/cs/champions/builds/wukong/las" hreflang="cs">
+
+        <script type="text/javascript">
+var AdblockPlus=new function(){this.detect=function(n,e){var o=!1,r=2,c=!1,t=!1;if("function"==typeof e){n+="?ch=*&rn=*";var a=11*Math.random(),i=new Image;i.onload=u,i.onerror=function(){c=!0,u()},i.src=n.replace(/\*/,1).replace(/\*/,a);var f=new Image;f.onload=u,f.onerror=function(){t=!0,u()},f.src=n.replace(/\*/,2).replace(/\*/,a),function n(e,c){0==r||c>1e3?e(0==r&&o):setTimeout(function(){n(e,2*c)},2*c)}(e,250)}function u(){--r||(o=!c&&t)}}};
+</script>
+<script type="text/javascript">
+window['nitroAds'] = window['nitroAds'] || { createAd: function () { window.nitroAds.queue.push(["createAd", arguments]) }, queue: [] };
+</script>
+<script async="" src="https://s.nitropay.com/ads-235.js"></script>
+<script async="" src="https://s.nitropay.com/aan-235.js"></script>
+
+<script type="text/javascript">
+window['nitroAds'].createAd('mobile', {
+  "refreshLimit": 10,
+  "refreshTime": 30,
+  "format": "anchor",
+  "anchor": "bottom",
+  "mediaQuery": "(min-width: 0px) and (max-width: 640px)"
+});
+</script>
+        <meta name="cv" content="CV-gBWdJQqJdVUF:"><script type="text/javascript">var cvs = (window["cvs"] || []);cvs.push("CV-gBWdJQqJdVUF:");</script>
+                    <script type="text/javascript">
+                var isDarkMode = false;
+            </script>
+        
+        <script type="text/javascript">
+            var cdnDomain = 'lolg-cdn.porofessor.gg';
+        </script>
+
+        <script type="text/javascript">
+            var wgblue = '#2796BC';
+            var wggreen = '#3CBC8D';
+            var wgred = '#E9422E';
+            var wgyellow = '#FAC552';
+        </script>
+
+        <script type="text/javascript">
+            var mediumBreakpoint = 640;
+            var largeBreakpoint = 1180;
+        </script>
+    <script async="" type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" id="nitroads-abgs"></script><script async="" type="text/javascript" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><meta http-equiv="origin-trial" content="A9ZgbRtm4pU3oZiuNzOsKcC8ppFSZdcjP2qYcdQrFKVzkmiWH1kdYY1Mi9x7G8+PS8HV9Ha9Cz0gaMdKsiVZIgMAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A3HucHUo1oW9s+9kIKz8mLkbcmdaj5lxt3eiIMp1Nh49dkkBlg1Fhg4Fd/r0vL69mRRA36YutI9P/lJUfL8csQoAAACFeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta class="foundation-data-attribute-namespace"><meta class="foundation-mq-xxlarge"><meta class="foundation-mq-xlarge-only"><meta class="foundation-mq-xlarge"><meta class="foundation-mq-large-only"><meta class="foundation-mq-large"><meta class="foundation-mq-medium-only"><meta class="foundation-mq-medium"><meta class="foundation-mq-small-only"><meta class="foundation-mq-small"><style></style><meta class="foundation-mq-topbar"><script async="" type="text/javascript" src="//c.jsrdn.com/s/cs.js?p=22687"></script></head>
+    <body class=" game-lol">
+        
+<div id="topnavbar" class="contain-to-grid nobackground">
+    <nav class="top-bar" data-topbar="" role="navigation" data-options="mobile_show_parent_link: false">
+        <ul class="title-area medium-5">
+            <li class="name">
+                <h1>
+                    <a href="/es/">
+                        <img src="//lolg-cdn.porofessor.gg/img/banner2.png" width="113" height="33" alt="LeagueOfGraphs.com">
+                    </a>
+                </h1>
+            </li>
+
+            <li class="toggle-topbar menu-icon">
+                <a href="#">
+                    <span></span>
+                </a>
+            </li>
+        </ul>
+        
+    <section class="top-bar-section medium-19">
+            <ul class="right">
+
+                <li>
+                    <div class="nightmode-toggle hide-for-small-down">
+                        <i class="fa fa-sun"></i>
+                        <label class="switch">
+                            <input type="checkbox" onclick="NightModeSwitch.switch()">
+                            <span class="slider round"></span>
+                        </label>
+                        <i class="fa fa-moon"></i>
+                    </div>
+                </li>
+
+                <li class="show-for-small-down" id="searchArea">
+                    <form id="topnavbarform-mobile" verb="search">
+                        <div class="row collapse">
+                            <div class="medium-20 small-18 columns">
+                                <input class="search_field" type="text" name="wg_q" autocomplete="off" placeholder="Campeón, Invocador..." spellcheck="false">
+                            </div>
+                            <div class="medium-4 small-6 columns">
+                                <button class="search_button" type="submit">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </li>
+
+                                                            <li class="hide-for-medium-up">
+                            <a href="/es/">
+                                Inicio                            </a>
+                        </li>
+                                                                                <li class="hide-for-medium-up has-dropdown active not-click">
+                            <a href="#">Campeones</a>
+
+                            <ul class="dropdown sidebar-links"><li class="title back js-generated"><h5><a href="javascript:void(0)">Back</a></h5></li>
+                                                                    <li class="active">
+                                        <a href="/es/champions/builds" data-link-game="" data-link-section="champions" data-link-page="builds" data-filters="">
+                                               Resumen                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/champions/stats" data-link-game="" data-link-section="champions" data-link-page="stats" data-filters="">
+                                               Estadísticas de campeones                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/champions/probuilds" data-link-game="" data-link-section="champions" data-link-page="probuilds" data-filters="">
+                                               ProBuilds                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/champions/counters" data-link-game="" data-link-section="champions" data-link-page="counters" data-filters="">
+                                               Emparejamientos                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/champions/runes" data-link-game="" data-link-section="champions" data-link-page="runes" data-filters="">
+                                               Runas                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/champions/skills-orders" data-link-game="" data-link-section="champions" data-link-page="skills-orders" data-filters="">
+                                               Orden de habilidades                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/champions/items" data-link-game="" data-link-section="champions" data-link-page="items" data-filters="">
+                                               Objetos                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/champions/spells" data-link-game="" data-link-section="champions" data-link-page="spells" data-filters="">
+                                               Hechizos de invocador                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/champions/other-stats" data-link-game="" data-link-section="champions" data-link-page="other-stats" data-filters="">
+                                               Más ...                                        </a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                                                                <li class="hide-for-medium-up has-dropdown  not-click">
+                            <a href="#">Rankings y estadísticas</a>
+
+                            <ul class="dropdown sidebar-links"><li class="title back js-generated"><h5><a href="javascript:void(0)">Back</a></h5></li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/summoners" data-link-game="" data-link-section="rankings" data-link-page="summoners" data-filters="">
+                                               Mejores jugadores                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/records" data-link-game="" data-link-section="rankings" data-link-page="records" data-filters="">
+                                               Récords                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/rank-distribution" data-link-game="" data-link-section="rankings" data-link-page="rank-distribution" data-filters="">
+                                               Distribución de rango                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/blue-vs-red" data-link-game="" data-link-section="rankings" data-link-page="blue-vs-red" data-filters="">
+                                               Azul vs Rojo                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/drakes" data-link-game="" data-link-section="rankings" data-link-page="drakes" data-filters="">
+                                               Estadísticas del dragón                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/win-stats" data-link-game="" data-link-section="rankings" data-link-page="win-stats" data-filters="">
+                                               Estadísticas de victorias                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/surrender-stats" data-link-game="" data-link-section="rankings" data-link-page="surrender-stats" data-filters="">
+                                               Estadísticas de rendiciones                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/afk-stats" data-link-game="" data-link-section="rankings" data-link-page="afk-stats" data-filters="">
+                                               Estadísticas de Afks                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/game-durations" data-link-game="" data-link-section="rankings" data-link-page="game-durations" data-filters="">
+                                               Duración de partidas                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/rankings/warding" data-link-game="" data-link-section="rankings" data-link-page="warding" data-filters="">
+                                               Colocación de wards                                        </a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                                                                <li class="hide-for-medium-up">
+                            <a href="/es/infographics">
+                                Infografías                            </a>
+                        </li>
+                                                                                <li class="hide-for-medium-up has-dropdown  not-click">
+                            <a href="#">Repeticiones</a>
+
+                            <ul class="dropdown sidebar-links"><li class="title back js-generated"><h5><a href="javascript:void(0)">Back</a></h5></li>
+                                                                    <li class="">
+                                        <a href="/es/replays/all" data-link-game="" data-link-section="replays" data-link-page="all" data-filters="">
+                                               Todas las repeticiones                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/replays/with-pentakills" data-link-game="" data-link-section="replays" data-link-page="with-pentakills" data-filters="">
+                                               Con Pentakills                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/replays/with-high-kda" data-link-game="" data-link-section="replays" data-link-page="with-high-kda" data-filters="">
+                                               Con KDAs altos                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/es/replays/with-pros" data-link-game="" data-link-section="replays" data-link-page="with-pros" data-filters="">
+                                               Con profesionales                                        </a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                                                                                <li class="hide-for-medium-up">
+                            <a href="https://porofessor.gg">
+                                Porofessor                            </a>
+                        </li>
+                                    
+                <li class="hide-for-medium-up">
+                    <a href="/es/contact">
+                        Contacto                    </a>
+                </li>
+
+                <li class="has-form show-for-medium-up" id="searchArea">
+                    <form id="topnavbarform" verb="search">
+                        <div class="row collapse">
+                            <div class="medium-20 small-18 columns relative">
+
+                                <input class="search_field" type="text" name="wg_q" autocomplete="off" placeholder="Campeón, Invocador..." spellcheck="false">
+                            <div id="autocomplete-area-topnav"></div></div>
+                            <div class="medium-4 small-6 columns">
+                                <button class="search_button" type="submit">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </li>
+
+                <li class="has-dropdown hide-for-medium-up not-click">
+                    <a href="#">Partidas</a>
+                    <ul class="dropdown"><li class="title back js-generated"><h5><a href="javascript:void(0)">Back</a></h5></li>
+                                                    <li class="">
+                                <a href="/es/">
+                                    LOL                                </a>
+                            </li>
+                                                    <li class="">
+                                <a href="/es/tft/">
+                                    TFT                                </a>
+                            </li>
+                                                    <li class="">
+                                <a href="/es/lor/">
+                                    LoR                                </a>
+                            </li>
+                                            </ul>
+                </li>
+
+                <li class="has-dropdown not-click">
+                    <a href="#">ES</a>
+                    <ul class="dropdown"><li class="title back js-generated"><h5><a href="javascript:void(0)">Back</a></h5></li>
+                                                    <li class="languageLink"><a href="/cs/champions/builds/wukong/las">CS</a></li>
+                                                        <li class="languageLink"><a href="/de/champions/builds/wukong/las">DE</a></li>
+                                                        <li class="languageLink"><a href="/el/champions/builds/wukong/las">EL</a></li>
+                                                        <li class="languageLink"><a href="/champions/builds/wukong/las">EN</a></li>
+                                                        <li class="languageLink"><a href="/es/champions/builds/wukong/las" class="active">ES</a></li>
+                                                        <li class="languageLink"><a href="/fr/champions/builds/wukong/las">FR</a></li>
+                                                        <li class="languageLink"><a href="/hu/champions/builds/wukong/las">HU</a></li>
+                                                        <li class="languageLink"><a href="/it/champions/builds/wukong/las">IT</a></li>
+                                                        <li class="languageLink"><a href="/ja/champions/builds/wukong/las">JA</a></li>
+                                                        <li class="languageLink"><a href="/ko/champions/builds/wukong/las">KO</a></li>
+                                                        <li class="languageLink"><a href="/nl/champions/builds/wukong/las">NL</a></li>
+                                                        <li class="languageLink"><a href="/pl/champions/builds/wukong/las">PL</a></li>
+                                                        <li class="languageLink"><a href="/pt/champions/builds/wukong/las">PT</a></li>
+                                                        <li class="languageLink"><a href="/ro/champions/builds/wukong/las">RO</a></li>
+                                                        <li class="languageLink"><a href="/ru/champions/builds/wukong/las">RU</a></li>
+                                                        <li class="languageLink"><a href="/th/champions/builds/wukong/las">TH</a></li>
+                                                        <li class="languageLink"><a href="/tr/champions/builds/wukong/las">TR</a></li>
+                                                        <li class="languageLink"><a href="/vn/champions/builds/wukong/las">VN</a></li>
+                                                        <li class="languageLink"><a href="/zh/champions/builds/wukong/las">ZH</a></li>
+                                                </ul>
+                </li>
+
+            </ul>
+            <!-- Left Nav Section -->
+            <ul class="left hide-for-small-down">
+                                <li class="active">
+                    <a href="/es/">
+                        <img src="//lolg-cdn.porofessor.gg/img/lol-icon.png" width="24" height="24" alt="League of Legends" title="League of Legends">
+                    </a>
+                </li>
+                <li class="">
+                    <a href="/es/tft/">
+                        <img src="//lolg-cdn.porofessor.gg/img/tft-icon.png" width="24" height="24" alt="TeamFight Tactics" title="TeamFight Tactics">
+                    </a>
+                </li>
+                <li class="">
+                    <a href="/es/lor/">
+                        <img src="//lolg-cdn.porofessor.gg/img/lor-icon.png" width="24" height="24" alt="Legends of Runeterra" title="Legends of Runeterra">
+                    </a>
+                </li>
+            </ul>
+        </section></nav>
+</div>
+        <div id="pageContainer" class="row">
+            <div id="leftStaticSlot" class="text-center hidden"></div>
+                <script>
+                    (function() {
+                        if(window.innerWidth >= 1550){
+                            $('#leftStaticSlot').removeClass('hidden');
+                            var repositionStaticVertical2 = () => {
+                                var horizontal = ($(window).width()-$('#pageContainer').width())/2-170;
+                                $('#leftStaticSlot').css('left', horizontal);
+                            }
+                            $(window).resize(repositionStaticVertical2);
+                            repositionStaticVertical2();
+                        
+                            if(window['nitroAds']){
+                                window['nitroAds'].createAd("leftStaticSlot", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[160,600]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
+                            } 
+                        } 
+                    })();
+                </script>
+            <div id="sidebar-container" class="medium-5 hide-for-small-down columns nopadding">
+    <div id="sidebar" style="width: 254px;">
+        <dl id="sidebar-accordion" class="accordion" data-accordion="">
+                                                <dd class="sidebar-navigation ">
+                        <a href="/es/" target="">
+                            <i class="fa fa-home"></i>
+                            Inicio                        </a>
+                    </dd>
+                                                                <dd class="sidebar-navigation accordion-navigation active">
+                        <a href="/es/champions/builds" data-deploy="true" data-link-game="" data-link-section="champions">
+                            <i class="fa fa-users"></i>
+                            Campeones                        </a>
+                        <div class="content active sidebar-subnavigation">
+                            <dl>
+                                                                    <dd class="active">
+                                        <a href="/es/champions/builds" data-link-game="" data-link-section="champions" data-link-page="builds" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Resumen                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/champions/stats" data-link-game="" data-link-section="champions" data-link-page="stats" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Estadísticas de campeones                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/champions/probuilds" data-link-game="" data-link-section="champions" data-link-page="probuilds" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            ProBuilds                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/champions/counters" data-link-game="" data-link-section="champions" data-link-page="counters" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Emparejamientos                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/champions/runes" data-link-game="" data-link-section="champions" data-link-page="runes" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Runas                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/champions/skills-orders" data-link-game="" data-link-section="champions" data-link-page="skills-orders" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Orden de habilidades                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/champions/items" data-link-game="" data-link-section="champions" data-link-page="items" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Objetos                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/champions/spells" data-link-game="" data-link-section="champions" data-link-page="spells" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Hechizos de invocador                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/champions/other-stats" data-link-game="" data-link-section="champions" data-link-page="other-stats" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Más ...                                                                                                                                </a>
+                                    </dd>
+                                                            </dl>
+                        </div>
+                    </dd>
+                                                                <dd class="sidebar-navigation accordion-navigation ">
+                        <a href="/es/rankings/summoners" data-deploy="true" data-link-game="" data-link-section="rankings">
+                            <i class="fa fa-bar-chart"></i>
+                            Rankings y estadísticas                        </a>
+                        <div class="content  sidebar-subnavigation">
+                            <dl>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/summoners" data-link-game="" data-link-section="rankings" data-link-page="summoners" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Mejores jugadores                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/records" data-link-game="" data-link-section="rankings" data-link-page="records" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Récords                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/rank-distribution" data-link-game="" data-link-section="rankings" data-link-page="rank-distribution" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Distribución de rango                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/blue-vs-red" data-link-game="" data-link-section="rankings" data-link-page="blue-vs-red" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Azul vs Rojo                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/drakes" data-link-game="" data-link-section="rankings" data-link-page="drakes" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Estadísticas del dragón                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/win-stats" data-link-game="" data-link-section="rankings" data-link-page="win-stats" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Estadísticas de victorias                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/surrender-stats" data-link-game="" data-link-section="rankings" data-link-page="surrender-stats" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Estadísticas de rendiciones                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/afk-stats" data-link-game="" data-link-section="rankings" data-link-page="afk-stats" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Estadísticas de Afks                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/game-durations" data-link-game="" data-link-section="rankings" data-link-page="game-durations" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Duración de partidas                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/rankings/warding" data-link-game="" data-link-section="rankings" data-link-page="warding" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Colocación de wards                                                                                                                                </a>
+                                    </dd>
+                                                            </dl>
+                        </div>
+                    </dd>
+                                                                <dd class="sidebar-navigation ">
+                        <a href="/es/infographics" target="">
+                            <i class="fa fa-chart-area"></i>
+                            Infografías                        </a>
+                    </dd>
+                                                                <dd class="sidebar-navigation accordion-navigation ">
+                        <a href="/es/replays/all" data-deploy="true" data-link-game="" data-link-section="replays">
+                            <i class="fa fa-play"></i>
+                            Repeticiones                        </a>
+                        <div class="content  sidebar-subnavigation">
+                            <dl>
+                                                                    <dd class="">
+                                        <a href="/es/replays/all" data-link-game="" data-link-section="replays" data-link-page="all" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Todas las repeticiones                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/replays/with-pentakills" data-link-game="" data-link-section="replays" data-link-page="with-pentakills" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Con Pentakills                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/replays/with-high-kda" data-link-game="" data-link-section="replays" data-link-page="with-high-kda" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Con KDAs altos                                                                                                                                </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/es/replays/with-pros" data-link-game="" data-link-section="replays" data-link-page="with-pros" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            Con profesionales                                                                                                                                </a>
+                                    </dd>
+                                                            </dl>
+                        </div>
+                    </dd>
+                                                                <dd class="sidebar-navigation ">
+                        <a href="https://porofessor.gg" target="_blank">
+                            <i class="fa fa-porofessor"></i>
+                            Porofessor                        </a>
+                    </dd>
+                                    </dl>
+
+        <div id="sidebar-bottom">
+    <div id="site-infos">
+    <div class="patch">Parche: 11.3</div>
+    <div>
+        11,205,530 partidas        (Últimos 2 días)
+    </div>
+</div>
+    <div id="site-links">
+        <a href="/es/contact">Contacto</a>
+        -
+        <a href="/privacy">Privacy</a>
+        -
+        <a href="/es/terms-of-use">TOS</a>
+        -
+        <a href="https://www.facebook.com/pages/League-of-Graphs/814590001962812" target="_blank" onclick="WgHelpers.sendGaEvent('SocialButton', 'Facebook Button Click', '')"><i class="fa fa-facebook"></i></a>
+        -
+        <a href="https://twitter.com/leagueofgraphs" target="_blank" onclick="WgHelpers.sendGaEvent('SocialButton', 'Twitter Button Click', '')"><i class="fa fa-twitter"></i></a>
+        -
+        <a href="https://discord.gg/sETupGR" target="_blank" onclick="WgHelpers.sendGaEvent('SocialButton', 'Discord Button Click', '')"><i class="fa fa-discord"></i></a>
+    </div>
+</div>    </div>
+    ... <!-- fix reflow on chrome Oo -->
+</div>
+            <div class="medium-19 small-24 columns" id="pageContent">
+                                                <div id="filters-menu" class="row " style="position: relative;">
+    
+    <div class="breadcrumb left hide-for-small-down">
+        <ul>
+            <li>
+                <a href="/es/" onclick="WgHelpers.sendGaEvent('Breadcrumb', 'Click on lvl1 link', 'Home')">
+                    <span>Inicio</span>
+                </a>
+            </li>
+
+            
+                    </ul>
+    </div>
+
+    
+    
+    <div class="hide-for-small-down">
+        <div class="spinnerContainer left"></div>    </div>
+
+    
+    <div class="show-for-small-down">
+        <div class="spinnerContainer left"></div>    </div>
+</div>
+                <div id="mainContentSuperContainer">
+                    
+                    <div id="mainContentContainer">
+                        <div style="margin-top:0px; margin-bottom:15px; position: relative;">
+                        <div id="adasync727581" class="text-center"><div id="horizTop"></div></div>
+                        <script>
+                            (function() {
+                                if(window['nitroAds']){
+                                    if(window.innerWidth >= 640){
+                                        if(true){
+                                            document.getElementById('adasync727581').innerHTML = '<div id="horizTop"></div>';
+                                            window['nitroAds'].createAd("horizTop", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[728, 90]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
+                                        }
+                                    } else {
+                                        if(false) {
+                                            document.getElementById('adasync727581').innerHTML = '<div id="horizTop-mobile"></div>';
+                                            window['nitroAds'].createAd("horizTop-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250], [320, 50]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
+                                        }
+                                    }
+                                }
+                            })();
+                        </script>
+                    </div>
+                        <div id="mainContent">
+                            <div class="box box-padding-10">
+    <div class="solo-text">No encontrado</div>
+</div><script type="text/javascript">
+    var newTooltipData = [];
+    if (window.tooltipData) {
+        window.tooltipData = Object.assign(window.tooltipData, newTooltipData);
+    } else {
+        window.tooltipData = newTooltipData;
+    }
+</script>                        </div>
+
+                        <div style="margin-top:0px; margin-bottom:0px; position: relative;">
+                        <div id="adasync628967" class="text-center"><div id="horizBottom"></div></div>
+                        <script>
+                            (function() {
+                                if(window['nitroAds']){
+                                    if(window.innerWidth >= 640){
+                                        if(true){
+                                            document.getElementById('adasync628967').innerHTML = '<div id="horizBottom"></div>';
+                                            window['nitroAds'].createAd("horizBottom", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[728, 90]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
+                                        }
+                                    } else {
+                                        if(true) {
+                                            document.getElementById('adasync628967').innerHTML = '<div id="horizBottom-mobile"></div>';
+                                            window['nitroAds'].createAd("horizBottom-mobile", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[300, 250], [320, 50]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
+                                        }
+                                    }
+                                }
+                            })();
+                        </script>
+                    </div>
+                        
+                    </div>
+
+                    <div id="footer">
+                        © Copyright 2013-2021 www.leagueofgraphs.com. All rights reserved.
+                        <br>
+                        LeagueOfGraphs.com isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
+                        Also available on <a href="https://play.google.com/store/apps/details?id=leagueofgraphs.com.leagueofgraphs" target="_blank">Android</a>.
+                        <span class="ccpaLink" data-ccpa-link="1"></span>.
+                        <u><a href="/legal">Legal</a></u>.
+                        Página cargada en 0.002 segundos                        <br>
+                    </div>
+                </div>
+
+                <div id="rightStaticSlot" class="text-center hidden"></div>
+                <script>
+                    (function() {
+                        if(window.innerWidth >= 1550){
+                            $('#rightStaticSlot').removeClass('hidden');
+                            var repositionStaticVertical = () => {
+                                var horizontal = ($(window).width()+$('#pageContainer').width())/2+10;
+                                $('#rightStaticSlot').css('left', horizontal);
+                            }
+                            $(window).resize(repositionStaticVertical);
+                            repositionStaticVertical();
+                        
+                            if(window['nitroAds']){
+                                window['nitroAds'].createAd("rightStaticSlot", {"floor": 0.2, "refreshLimit": 10, "refreshTime": 30, "sizes": [[160,600],[300,600]], "report":{"enabled":false,"wording":"Report Ad","position":"bottom-right"}});
+                            } 
+                        } 
+                    })();
+                </script>            </div>
+        </div><iframe name="__uspapiLocator" style="display: none;"></iframe>
+
+        <script type="text/javascript">
+            var urlLanguagePrefix = '/es';
+            var urlGamePrefix = '';
+            var ajaxManager;
+            $(function () {
+                var basePageStatus = {"lang":"es","page":"builds","game":null,"section":"champions","regions":null,"summonerRegions":null,"champions":"all","ratings":"platinum","durations":null,"roles":null,"sortBy":null,"queueIds":null,"recordId":null,"last30daysOnly":null,"vs":"all"};
+                var pageFilters = [];
+                ajaxManager = new LoLGAjaxManager(basePageStatus, pageFilters);
+            });
+        </script>
+
+        <!-- Autocomplete -->
+        <script type="text/javascript">
+    $(function () {
+
+        var allChampions = [{"championId":"1","championSlug":"annie","championName":"Annie","championNameWithBuild":"Builds de Annie "},{"championId":"2","championSlug":"olaf","championName":"Olaf","championNameWithBuild":"Builds de Olaf "},{"championId":"3","championSlug":"galio","championName":"Galio","championNameWithBuild":"Builds de Galio "},{"championId":"4","championSlug":"twistedfate","championName":"Twisted Fate","championNameWithBuild":"Builds de Twisted Fate "},{"championId":"5","championSlug":"xinzhao","championName":"Xin Zhao","championNameWithBuild":"Builds de Xin Zhao "},{"championId":"6","championSlug":"urgot","championName":"Urgot","championNameWithBuild":"Builds de Urgot "},{"championId":"7","championSlug":"leblanc","championName":"LeBlanc","championNameWithBuild":"Builds de LeBlanc "},{"championId":"8","championSlug":"vladimir","championName":"Vladimir","championNameWithBuild":"Builds de Vladimir "},{"championId":"9","championSlug":"fiddlesticks","championName":"Fiddlesticks","championNameWithBuild":"Builds de Fiddlesticks "},{"championId":"10","championSlug":"kayle","championName":"Kayle","championNameWithBuild":"Builds de Kayle "},{"championId":"11","championSlug":"masteryi","championName":"Maestro Yi","championNameWithBuild":"Builds de Maestro Yi "},{"championId":"12","championSlug":"alistar","championName":"Alistar","championNameWithBuild":"Builds de Alistar "},{"championId":"13","championSlug":"ryze","championName":"Ryze","championNameWithBuild":"Builds de Ryze "},{"championId":"14","championSlug":"sion","championName":"Sion","championNameWithBuild":"Builds de Sion "},{"championId":"15","championSlug":"sivir","championName":"Sivir","championNameWithBuild":"Builds de Sivir "},{"championId":"16","championSlug":"soraka","championName":"Soraka","championNameWithBuild":"Builds de Soraka "},{"championId":"17","championSlug":"teemo","championName":"Teemo","championNameWithBuild":"Builds de Teemo "},{"championId":"18","championSlug":"tristana","championName":"Tristana","championNameWithBuild":"Builds de Tristana "},{"championId":"19","championSlug":"warwick","championName":"Warwick","championNameWithBuild":"Builds de Warwick "},{"championId":"20","championSlug":"nunu","championName":"Nunu y Willump","championNameWithBuild":"Builds de Nunu y Willump "},{"championId":"21","championSlug":"missfortune","championName":"Miss Fortune","championNameWithBuild":"Builds de Miss Fortune "},{"championId":"22","championSlug":"ashe","championName":"Ashe","championNameWithBuild":"Builds de Ashe "},{"championId":"23","championSlug":"tryndamere","championName":"Tryndamere","championNameWithBuild":"Builds de Tryndamere "},{"championId":"24","championSlug":"jax","championName":"Jax","championNameWithBuild":"Builds de Jax "},{"championId":"25","championSlug":"morgana","championName":"Morgana","championNameWithBuild":"Builds de Morgana "},{"championId":"26","championSlug":"zilean","championName":"Zilean","championNameWithBuild":"Builds de Zilean "},{"championId":"27","championSlug":"singed","championName":"Singed","championNameWithBuild":"Builds de Singed "},{"championId":"28","championSlug":"evelynn","championName":"Evelynn","championNameWithBuild":"Builds de Evelynn "},{"championId":"29","championSlug":"twitch","championName":"Twitch","championNameWithBuild":"Builds de Twitch "},{"championId":"30","championSlug":"karthus","championName":"Karthus","championNameWithBuild":"Builds de Karthus "},{"championId":"31","championSlug":"chogath","championName":"Cho'Gath","championNameWithBuild":"Builds de Cho'Gath "},{"championId":"32","championSlug":"amumu","championName":"Amumu","championNameWithBuild":"Builds de Amumu "},{"championId":"33","championSlug":"rammus","championName":"Rammus","championNameWithBuild":"Builds de Rammus "},{"championId":"34","championSlug":"anivia","championName":"Anivia","championNameWithBuild":"Builds de Anivia "},{"championId":"35","championSlug":"shaco","championName":"Shaco","championNameWithBuild":"Builds de Shaco "},{"championId":"36","championSlug":"drmundo","championName":"Dr. Mundo","championNameWithBuild":"Builds de Dr. Mundo "},{"championId":"37","championSlug":"sona","championName":"Sona","championNameWithBuild":"Builds de Sona "},{"championId":"38","championSlug":"kassadin","championName":"Kassadin","championNameWithBuild":"Builds de Kassadin "},{"championId":"39","championSlug":"irelia","championName":"Irelia","championNameWithBuild":"Builds de Irelia "},{"championId":"40","championSlug":"janna","championName":"Janna","championNameWithBuild":"Builds de Janna "},{"championId":"41","championSlug":"gangplank","championName":"Gangplank","championNameWithBuild":"Builds de Gangplank "},{"championId":"42","championSlug":"corki","championName":"Corki","championNameWithBuild":"Builds de Corki "},{"championId":"43","championSlug":"karma","championName":"Karma","championNameWithBuild":"Builds de Karma "},{"championId":"44","championSlug":"taric","championName":"Taric","championNameWithBuild":"Builds de Taric "},{"championId":"45","championSlug":"veigar","championName":"Veigar","championNameWithBuild":"Builds de Veigar "},{"championId":"48","championSlug":"trundle","championName":"Trundle","championNameWithBuild":"Builds de Trundle "},{"championId":"50","championSlug":"swain","championName":"Swain","championNameWithBuild":"Builds de Swain "},{"championId":"51","championSlug":"caitlyn","championName":"Caitlyn","championNameWithBuild":"Builds de Caitlyn "},{"championId":"53","championSlug":"blitzcrank","championName":"Blitzcrank","championNameWithBuild":"Builds de Blitzcrank "},{"championId":"54","championSlug":"malphite","championName":"Malphite","championNameWithBuild":"Builds de Malphite "},{"championId":"55","championSlug":"katarina","championName":"Katarina","championNameWithBuild":"Builds de Katarina "},{"championId":"56","championSlug":"nocturne","championName":"Nocturne","championNameWithBuild":"Builds de Nocturne "},{"championId":"57","championSlug":"maokai","championName":"Maokai","championNameWithBuild":"Builds de Maokai "},{"championId":"58","championSlug":"renekton","championName":"Renekton","championNameWithBuild":"Builds de Renekton "},{"championId":"59","championSlug":"jarvaniv","championName":"Jarvan IV","championNameWithBuild":"Builds de Jarvan IV "},{"championId":"60","championSlug":"elise","championName":"Elise","championNameWithBuild":"Builds de Elise "},{"championId":"61","championSlug":"orianna","championName":"Orianna","championNameWithBuild":"Builds de Orianna "},{"championId":"62","championSlug":"monkeyking","championName":"Wukong","championNameWithBuild":"Builds de Wukong "},{"championId":"63","championSlug":"brand","championName":"Brand","championNameWithBuild":"Builds de Brand "},{"championId":"64","championSlug":"leesin","championName":"Lee Sin","championNameWithBuild":"Builds de Lee Sin "},{"championId":"67","championSlug":"vayne","championName":"Vayne","championNameWithBuild":"Builds de Vayne "},{"championId":"68","championSlug":"rumble","championName":"Rumble","championNameWithBuild":"Builds de Rumble "},{"championId":"69","championSlug":"cassiopeia","championName":"Cassiopeia","championNameWithBuild":"Builds de Cassiopeia "},{"championId":"72","championSlug":"skarner","championName":"Skarner","championNameWithBuild":"Builds de Skarner "},{"championId":"74","championSlug":"heimerdinger","championName":"Heimerdinger","championNameWithBuild":"Builds de Heimerdinger "},{"championId":"75","championSlug":"nasus","championName":"Nasus","championNameWithBuild":"Builds de Nasus "},{"championId":"76","championSlug":"nidalee","championName":"Nidalee","championNameWithBuild":"Builds de Nidalee "},{"championId":"77","championSlug":"udyr","championName":"Udyr","championNameWithBuild":"Builds de Udyr "},{"championId":"78","championSlug":"poppy","championName":"Poppy","championNameWithBuild":"Builds de Poppy "},{"championId":"79","championSlug":"gragas","championName":"Gragas","championNameWithBuild":"Builds de Gragas "},{"championId":"80","championSlug":"pantheon","championName":"Pantheon","championNameWithBuild":"Builds de Pantheon "},{"championId":"81","championSlug":"ezreal","championName":"Ezreal","championNameWithBuild":"Builds de Ezreal "},{"championId":"82","championSlug":"mordekaiser","championName":"Mordekaiser","championNameWithBuild":"Builds de Mordekaiser "},{"championId":"83","championSlug":"yorick","championName":"Yorick","championNameWithBuild":"Builds de Yorick "},{"championId":"84","championSlug":"akali","championName":"Akali","championNameWithBuild":"Builds de Akali "},{"championId":"85","championSlug":"kennen","championName":"Kennen","championNameWithBuild":"Builds de Kennen "},{"championId":"86","championSlug":"garen","championName":"Garen","championNameWithBuild":"Builds de Garen "},{"championId":"89","championSlug":"leona","championName":"Leona","championNameWithBuild":"Builds de Leona "},{"championId":"90","championSlug":"malzahar","championName":"Malzahar","championNameWithBuild":"Builds de Malzahar "},{"championId":"91","championSlug":"talon","championName":"Talon","championNameWithBuild":"Builds de Talon "},{"championId":"92","championSlug":"riven","championName":"Riven","championNameWithBuild":"Builds de Riven "},{"championId":"96","championSlug":"kogmaw","championName":"Kog'Maw","championNameWithBuild":"Builds de Kog'Maw "},{"championId":"98","championSlug":"shen","championName":"Shen","championNameWithBuild":"Builds de Shen "},{"championId":"99","championSlug":"lux","championName":"Lux","championNameWithBuild":"Builds de Lux "},{"championId":"101","championSlug":"xerath","championName":"Xerath","championNameWithBuild":"Builds de Xerath "},{"championId":"102","championSlug":"shyvana","championName":"Shyvana","championNameWithBuild":"Builds de Shyvana "},{"championId":"103","championSlug":"ahri","championName":"Ahri","championNameWithBuild":"Builds de Ahri "},{"championId":"104","championSlug":"graves","championName":"Graves","championNameWithBuild":"Builds de Graves "},{"championId":"105","championSlug":"fizz","championName":"Fizz","championNameWithBuild":"Builds de Fizz "},{"championId":"106","championSlug":"volibear","championName":"Volibear","championNameWithBuild":"Builds de Volibear "},{"championId":"107","championSlug":"rengar","championName":"Rengar","championNameWithBuild":"Builds de Rengar "},{"championId":"110","championSlug":"varus","championName":"Varus","championNameWithBuild":"Builds de Varus "},{"championId":"111","championSlug":"nautilus","championName":"Nautilus","championNameWithBuild":"Builds de Nautilus "},{"championId":"112","championSlug":"viktor","championName":"Viktor","championNameWithBuild":"Builds de Viktor "},{"championId":"113","championSlug":"sejuani","championName":"Sejuani","championNameWithBuild":"Builds de Sejuani "},{"championId":"114","championSlug":"fiora","championName":"Fiora","championNameWithBuild":"Builds de Fiora "},{"championId":"115","championSlug":"ziggs","championName":"Ziggs","championNameWithBuild":"Builds de Ziggs "},{"championId":"117","championSlug":"lulu","championName":"Lulu","championNameWithBuild":"Builds de Lulu "},{"championId":"119","championSlug":"draven","championName":"Draven","championNameWithBuild":"Builds de Draven "},{"championId":"120","championSlug":"hecarim","championName":"Hecarim","championNameWithBuild":"Builds de Hecarim "},{"championId":"121","championSlug":"khazix","championName":"Kha'Zix","championNameWithBuild":"Builds de Kha'Zix "},{"championId":"122","championSlug":"darius","championName":"Darius","championNameWithBuild":"Builds de Darius "},{"championId":"126","championSlug":"jayce","championName":"Jayce","championNameWithBuild":"Builds de Jayce "},{"championId":"127","championSlug":"lissandra","championName":"Lissandra","championNameWithBuild":"Builds de Lissandra "},{"championId":"131","championSlug":"diana","championName":"Diana","championNameWithBuild":"Builds de Diana "},{"championId":"133","championSlug":"quinn","championName":"Quinn","championNameWithBuild":"Builds de Quinn "},{"championId":"134","championSlug":"syndra","championName":"Syndra","championNameWithBuild":"Builds de Syndra "},{"championId":"136","championSlug":"aurelionsol","championName":"Aurelion Sol","championNameWithBuild":"Builds de Aurelion Sol "},{"championId":"141","championSlug":"kayn","championName":"Kayn","championNameWithBuild":"Builds de Kayn "},{"championId":"142","championSlug":"zoe","championName":"Zoe","championNameWithBuild":"Builds de Zoe "},{"championId":"143","championSlug":"zyra","championName":"Zyra","championNameWithBuild":"Builds de Zyra "},{"championId":"145","championSlug":"kaisa","championName":"Kai'Sa","championNameWithBuild":"Builds de Kai'Sa "},{"championId":"147","championSlug":"seraphine","championName":"Seraphine","championNameWithBuild":"Builds de Seraphine "},{"championId":"150","championSlug":"gnar","championName":"Gnar","championNameWithBuild":"Builds de Gnar "},{"championId":"154","championSlug":"zac","championName":"Zac","championNameWithBuild":"Builds de Zac "},{"championId":"157","championSlug":"yasuo","championName":"Yasuo","championNameWithBuild":"Builds de Yasuo "},{"championId":"161","championSlug":"velkoz","championName":"Vel'Koz","championNameWithBuild":"Builds de Vel'Koz "},{"championId":"163","championSlug":"taliyah","championName":"Taliyah","championNameWithBuild":"Builds de Taliyah "},{"championId":"164","championSlug":"camille","championName":"Camille","championNameWithBuild":"Builds de Camille "},{"championId":"201","championSlug":"braum","championName":"Braum","championNameWithBuild":"Builds de Braum "},{"championId":"202","championSlug":"jhin","championName":"Jhin","championNameWithBuild":"Builds de Jhin "},{"championId":"203","championSlug":"kindred","championName":"Kindred","championNameWithBuild":"Builds de Kindred "},{"championId":"222","championSlug":"jinx","championName":"Jinx","championNameWithBuild":"Builds de Jinx "},{"championId":"223","championSlug":"tahmkench","championName":"Tahm Kench","championNameWithBuild":"Builds de Tahm Kench "},{"championId":"234","championSlug":"viego","championName":"Viego","championNameWithBuild":"Builds de Viego "},{"championId":"235","championSlug":"senna","championName":"Senna","championNameWithBuild":"Builds de Senna "},{"championId":"236","championSlug":"lucian","championName":"Lucian","championNameWithBuild":"Builds de Lucian "},{"championId":"238","championSlug":"zed","championName":"Zed","championNameWithBuild":"Builds de Zed "},{"championId":"240","championSlug":"kled","championName":"Kled","championNameWithBuild":"Builds de Kled "},{"championId":"245","championSlug":"ekko","championName":"Ekko","championNameWithBuild":"Builds de Ekko "},{"championId":"246","championSlug":"qiyana","championName":"Qiyana","championNameWithBuild":"Builds de Qiyana "},{"championId":"254","championSlug":"vi","championName":"Vi","championNameWithBuild":"Builds de Vi "},{"championId":"266","championSlug":"aatrox","championName":"Aatrox","championNameWithBuild":"Builds de Aatrox "},{"championId":"267","championSlug":"nami","championName":"Nami","championNameWithBuild":"Builds de Nami "},{"championId":"268","championSlug":"azir","championName":"Azir","championNameWithBuild":"Builds de Azir "},{"championId":"350","championSlug":"yuumi","championName":"Yuumi","championNameWithBuild":"Builds de Yuumi "},{"championId":"360","championSlug":"samira","championName":"Samira","championNameWithBuild":"Builds de Samira "},{"championId":"412","championSlug":"thresh","championName":"Thresh","championNameWithBuild":"Builds de Thresh "},{"championId":"420","championSlug":"illaoi","championName":"Illaoi","championNameWithBuild":"Builds de Illaoi "},{"championId":"421","championSlug":"reksai","championName":"Rek'Sai","championNameWithBuild":"Builds de Rek'Sai "},{"championId":"427","championSlug":"ivern","championName":"Ivern","championNameWithBuild":"Builds de Ivern "},{"championId":"429","championSlug":"kalista","championName":"Kalista","championNameWithBuild":"Builds de Kalista "},{"championId":"432","championSlug":"bard","championName":"Bardo","championNameWithBuild":"Builds de Bardo "},{"championId":"497","championSlug":"rakan","championName":"Rakan","championNameWithBuild":"Builds de Rakan "},{"championId":"498","championSlug":"xayah","championName":"Xayah","championNameWithBuild":"Builds de Xayah "},{"championId":"516","championSlug":"ornn","championName":"Ornn","championNameWithBuild":"Builds de Ornn "},{"championId":"517","championSlug":"sylas","championName":"Sylas","championNameWithBuild":"Builds de Sylas "},{"championId":"518","championSlug":"neeko","championName":"Neeko","championNameWithBuild":"Builds de Neeko "},{"championId":"523","championSlug":"aphelios","championName":"Aphelios","championNameWithBuild":"Builds de Aphelios "},{"championId":"526","championSlug":"rell","championName":"Rell","championNameWithBuild":"Builds de Rell "},{"championId":"555","championSlug":"pyke","championName":"Pyke","championNameWithBuild":"Builds de Pyke "},{"championId":"777","championSlug":"yone","championName":"Yone","championNameWithBuild":"Builds de Yone "},{"championId":"875","championSlug":"sett","championName":"Sett","championNameWithBuild":"Builds de Sett "},{"championId":"876","championSlug":"lillia","championName":"Lillia","championNameWithBuild":"Builds de Lillia "}];
+        var topChampions = [145,235,234,202,99];
+        var locales = {"champions": 'Campeones', "builds": 'Builds', "summoners": 'Jugadores', "recent": 'Reciente', "proPlayers": 'Jugadores profesionales', "cards": 'Cartas'};
+        var autocompleteManager = new AutoCompleteManager('lol', '/es', $('#topnavbarform .search_field')[0], 'autocomplete-area-topnav', 100, locales, topChampions, allChampions, isMobile, false);
+        var autocompleteManagerHomepage = new AutoCompleteManager('lol', '/es', $('#homepageForm .search_field')[0], 'autocomplete-area-homepage', 100, locales, topChampions, allChampions, isMobile, false);
+    });
+</script>
+        <script src="//lolg-cdn.porofessor.gg/app.js?v=1612621172"></script>
+            <!-- Google Analytics -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-12568563-8', 'leagueofgraphs.com');
+        ga('require', 'linkid', 'linkid.js');
+
+        ga('set', 'contentGroup1', 'es');
+        ga('set', 'contentGroup2', 'champions/builds');
+        ga('set', 'contentGroup3', 'champions/builds');
+
+        ga('set', 'dimension1', 'light');
+
+                ga('send', 'pageview');
+        </script>
+    <!-- Fin Google Analytics -->
+
+    <!-- Rito Analytics -->
+    <script type="text/javascript">
+        (function (t, l) {
+            let w = window, d = document, s = d.createElement('script'), f = d.getElementsByTagName('script')[0];
+            w[t] = w[t] || function () {
+                (w["_rgea"] = w["_rgea"] || [["uts", new Date()]]).push(Array.prototype.slice.call(arguments));
+                w.RGEA && w.RGEA.p();
+            };
+            s.type = 'text/javascript';
+            s.async = true;
+            s.defer = true;
+            s.src = l;
+            f.parentNode.insertBefore(s, f);
+        })("rgea", "https://static.developer.riotgames.com/js/rgea.min.js");
+
+        rgea("propertyId", "RGEA0002-978d2d65-0db7-4d5b-8d78-f99526bb04ed");
+        rgea("anonymous", true);
+    </script>
+    <!-- Rito Analytics -->
+    
+</body></html>
