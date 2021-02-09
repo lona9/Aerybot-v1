@@ -1,6 +1,6 @@
-**Cassiopeia** *(Normal y clasificatorias)*
-*Mid*
-> **% victorias:** 48,4%
+**Cassiopeia**  *(Normal)*
+**Posición:** *Mid*
+> **% victorias:** 48,6%
 > **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034> 
 > **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
  
@@ -17,5 +17,5 @@
 > **Build**:
 *Iniciales:* Guardián invisible, Lágrima de la diosa, Poción de vida (x2)
 *Botas:* -
-*Principales:* Capítulo perdido > Desconsuelo de Liandry > Bastón de arcángel > Reloj de arena de Zhonya
-*Finales:* Morellonomicón, Cetro de cristal de Rylai, Bastón del vacío
+*Principales:* Capítulo perdido > Desconsuelo de Liandry > Bastón del arcángel > Cetro de cristal de Rylai
+*Finales:* Morellonomicón, Abrazo demoníaco, Sombrero mortal de Rabadon

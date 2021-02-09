@@ -1,7 +1,9 @@
 import os
 from bs4 import BeautifulSoup
 
-for champ in os.listdir('files'):
+missing = ['bardo.txt', 'wukong.txt']
+
+for champ in missing:
   with open(os.path.join('files', champ)) as file:
     print(champ, 'iniciando')
     soup = BeautifulSoup(file, features='html5lib')
@@ -449,5 +451,3 @@ for champ in os.listdir('files'):
     f.write(texto)
     f.close()
     print(champ, 'terminado')
-
-#wukong cassiopeia, bardo

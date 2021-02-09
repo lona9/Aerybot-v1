@@ -17,4 +17,4 @@
 **Botas:** Botas de hechicero
 **Objetos iniciales:** Guardián invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Capítulo perdido > Desconsuelo de Liandry > Diente de Nashor > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortal de Rabadon, Morellonomicón, Reloj de arena de Zhonya
