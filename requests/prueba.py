@@ -1,9 +1,7 @@
 import os
 from bs4 import BeautifulSoup
 
-missing = ['bardo.txt', 'wukong.txt']
-
-for champ in missing:
+for champ in os.listdir('files'):
   with open(os.path.join('files', champ)) as file:
     print(champ, 'iniciando')
     soup = BeautifulSoup(file, features='html5lib')
@@ -11,6 +9,7 @@ for champ in missing:
     ## NOMBRE
     nombre = soup.find('meta', attrs={'name': "twitter:title"})
     nombre = str(nombre).replace('<meta content="Builds de ', '').replace(' - Objetos / Runas / Emparejamientos - League of Legends" name="twitter:title"/>', '')
+    print(nombre)
 
     ## POSICIÓN
     posicion = soup.find('div', 'bannerSubtitle').contents
@@ -20,7 +19,59 @@ for champ in missing:
     ## PORCENTAJE DE VICTORIAS
     victorias = soup.find('div', "pie-chart small", id="graphDD2").contents[0]
     victorias = "".join(victorias).strip()
-    
+
+    ## HECHIZOS DEL INVOCADOR
+    hechizos = []
+    hechinv = soup.find_all('div', "iconsRow")[-1]
+    hechizos1  = hechinv.find_all('img', alt=True)[-2]
+    hechizos2 = hechinv.find_all('img', alt=True)[-1]
+    alt1 = str(hechizos1.get('alt'))
+    alt2 = str(hechizos2.get('alt'))
+    hechizos.append(alt1)
+    hechizos.append(alt2)
+    if 'Destello' == hechizos[0]:
+      hechizo1 = '<:Flash:804555481443336202>'
+    elif 'Teleportar' == hechizos[0]:
+      hechizo1 = '<:Teleport:804555481699713034>'
+    elif 'Aplastar' == hechizos[0]:
+      hechizo1 = '<:Smite:804555481494061086>'
+    elif 'Marca' == hechizos[0]:
+      hechizo1 = '<:Mark:804555480965709835>'
+    elif 'Prender' == hechizos[0]:
+      hechizo1 = '<:Ignite:804555481167298570>'
+    elif 'Curar' == hechizos[0]:
+      hechizo1 = '<:Heal:804555480819040336>'
+    elif 'Fantasmal' == hechizos[0]:
+      hechizo1 = '<:Ghost:804555480856002610>'
+    elif 'Claridad' == hechizos[0]:
+      hechizo1 = '<:Clarity:804555481489080370>'
+    elif 'Limpiar' == hechizos[0]:
+      hechizo1 = '<:Cleanse:804555480730304514>'
+    elif 'Extenuación' == hechizos[0]:
+      hechizo1 = '<:Exhaust:804555480843288586>'
+
+    if 'Destello' == hechizos[1]:
+      hechizo2 = '<:Flash:804555481443336202>'
+    elif 'Teleportar' == hechizos[1]:
+      hechizo2 = '<:Teleport:804555481699713034>'
+    elif 'Aplastar' == hechizos[1]:
+      hechizo2 = '<:Smite:804555481494061086>'
+    elif 'Marca' == hechizos[1]:
+      hechizo2 = '<:Mark:804555480965709835>'
+    elif 'Prender' == hechizos[1]:
+      hechizo2 = '<:Ignite:804555481167298570>'
+    elif 'Curar' == hechizos[1]:
+      hechizo2 = '<:Heal:804555480819040336>'
+    elif 'Fantasmal' == hechizos[1]:
+      hechizo2 = '<:Ghost:804555480856002610>'
+    elif 'Claridad' == hechizos[1]:
+      hechizo2 = '<:Clarity:804555481489080370>'
+    elif 'Limpiar' == hechizos[1]:
+      hechizo2 = '<:Cleanse:804555480730304514>'
+    elif 'Extenuación' == hechizos[1]:
+      hechizo2 = '<:Exhaust:804555480843288586>'
+
+
     ## RUNAS PRINCIPALES
     opaqueprrunes = soup.find('table', "perksTableOverview").find_all('div', attrs={'style': "opacity: 0.2;"})
     runasprincipales = []
@@ -445,7 +496,7 @@ for champ in missing:
     objpr = objs[-8:-4]
     objpr = " > ".join(objpr)
 
-    texto = ("**{}** *(Normal)*\n**Posición:** *{}*\n**Porcentaje de victorias:** {}\n**Runas:** {} {}\n\n>{}\n>{}\n>{}\n>{}\n\n>{}\n>{}\n>{}\n>   {} {} {}\n\n**Build**\n**Botas:** {}\n**Objetos iniciales:** {}\n**Objetos principales:** {}\n**Objetos finales:** {}".format(nombre, posicion, victorias, runa1, runa2, linea1pr, linea2pr, linea3pr, linea4pr, linea2sec, linea3sec, linea4sec, fragmento1, fragmento2, fragmento3, botas, objin, objpr, objfin))
+    texto = ("**{}** *(Normal)*\n**Posición:** *{}*\n**Porcentaje de victorias:** {}\n**Hechizos del Invocador:** {} {}\n**Runas:** {} {}\n\n>{}\n>{}\n>{}\n>{}\n\n>{}\n>{}\n>{}\n>   {} {} {}\n\n**Build**\n**Botas:** {}\n**Objetos iniciales:** {}\n**Objetos principales:** {}\n**Objetos finales:** {}".format(nombre, posicion, victorias, hechizo1, hechizo2, runa1, runa2, linea1pr, linea2pr, linea3pr, linea4pr, linea2sec, linea3sec, linea4sec, fragmento1, fragmento2, fragmento3, botas, objin, objpr, objfin))
 
     f = open(champ, 'w+')
     f.write(texto)

@@ -1,6 +1,7 @@
 **Taric ** *(Normal)*
 **Posición:** *Support*
 **Porcentaje de victorias:** 57.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
 >   :cd::cd:<:valor13:804449943497605171>

@@ -1,6 +1,7 @@
 **Azir ** *(Normal)*
 **Posición:** *Mid*
 **Porcentaje de victorias:** 48.5%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -17,4 +18,4 @@
 **Botas:** Botas de hechicero
 **Objetos iniciales:** Guardián invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Capítulo perdido > Desconsuelo de Liandry > Diente de Nashor > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortal de Rabadon, Morellonomicón, Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Reloj de arena de Zhonya

@@ -1,6 +1,7 @@
 **Pyke ** *(Normal)*
 **Posición:** *Support*
 **Porcentaje de victorias:** 50.5%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:valor:804451124245561394>
 
 > :cd::cd::cd:<:dom14:804447179938070569>

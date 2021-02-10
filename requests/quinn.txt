@@ -1,6 +1,7 @@
 **Quinn ** *(Normal)*
 **Posición:** *Top*
 **Porcentaje de victorias:** 45.4%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
 > <:precision11:804445926906658886>:cd::cd::cd:
