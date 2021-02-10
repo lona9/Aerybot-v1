@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Abrazo demoníaco
-**Objetos iniciales:** Guardián invisible
+**Objetos iniciales:** Centinela invisible
 **Objetos principales:** Escudo reliquia > Poción de vida > Espejo de cristal de Bandle > Mandato imperial
 **Objetos finales:** Escudo reliquia, Poción de vida, Máscara abisal

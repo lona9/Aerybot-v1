@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
-**Objetos principales:** Látigo puntahierro > Chupasangre > Cuchilla negra > Baile de la muerte
-**Objetos finales:** Ángel de la guarda, Mecanoespada punki, Hidra voraz
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla negra > Danza de la muerte
+**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Hidra voraz

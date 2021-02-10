@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Bastón de aguas fluidas
-**Objetos iniciales:** Guardián invisible
-**Objetos principales:** Daga de hechicero > Poción de vida > Espejo de cristal de Bandle > Renovación de piedra lunar
-**Objetos finales:** Daga de hechicero, Poción de vida, Reloj de arena de Zhonya
+**Botas:** Báculo de agua fluyente
+**Objetos iniciales:** Centinela invisible
+**Objetos principales:** Filo del Robahechizos > Poción de vida > Espejo de cristal de Bandle > Renovación de piedra lunar
+**Objetos finales:** Filo del Robahechizos, Poción de vida, Reloj de arena de Zhonya

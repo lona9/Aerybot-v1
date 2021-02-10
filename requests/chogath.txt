@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Rescoldo de Bami > Guantelete de fuego escarchado > Malla de espinas > Fuerza de la naturaleza
-**Objetos finales:** Armadura de Warmog, Malla de espinas, Coraza del muerto
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Rescoldo de Bami > Guantelete de fuego escarchado > Cota de espinas > Fuerza de la naturaleza
+**Objetos finales:** Armadura de Warmog, Cota de espinas, Coraza del muerto

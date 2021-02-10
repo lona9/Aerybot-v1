@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Guardián invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Capítulo perdido > Desconsuelo de Liandry > Reloj de arena de Zhonya > Morellonomicón
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomicón
 **Objetos finales:** Morellonomicón, Bastón del Vacío, Reloj de arena de Zhonya

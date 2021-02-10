@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Canción de batalla de Shurelya
 **Objetos iniciales:** 
-**Objetos principales:** Guardián invisible > Escudo reliquia > Poción de vida > Espejo de cristal de Bandle
-**Objetos finales:** Guardián invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Centinela invisible > Escudo reliquia > Poción de vida > Espejo de cristal de Bandle
+**Objetos finales:** Centinela invisible, Escudo reliquia, Poción de vida

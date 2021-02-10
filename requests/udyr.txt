@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Lente del oráculo, Espada de granizo, Poción reutilizable
+**Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
 **Objetos principales:** Rescoldo de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
-**Objetos finales:** Malla de espinas, Fuerza de la naturaleza, Perdición del liche
+**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Maldición del liche

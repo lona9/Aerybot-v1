@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj del mediodía > Viento huracanado > Segador de esencia > Filo infinito
-**Objetos finales:** Recordatorio letal, Sanguinaria, Ángel de la guarda
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Segador de esencia > Filo del infinito
+**Objetos finales:** Recordatorio mortal, Sanguinaria, Ángel Guardián

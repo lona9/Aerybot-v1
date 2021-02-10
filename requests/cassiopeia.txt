@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808><:5008:804451180172279808><:5003:804451180100452403>
  
 > **Build**:
-*Iniciales:* Guardián invisible, Lágrima de la diosa, Poción de vida (x2)
+*Iniciales:* Centinela invisible, Lágrima de la diosa, Poción de vida (x2)
 *Botas:* -
-*Principales:* Capítulo perdido > Desconsuelo de Liandry > Bastón del arcángel > Cetro de cristal de Rylai
-*Finales:* Morellonomicón, Abrazo demoníaco, Sombrero mortal de Rabadon
+*Principales:* Capítulo perdido > Angustia de Liandry > Báculo del arcángel > Cetro de cristal de Rylai
+*Finales:* Morellonomicón, Abrazo demoníaco, Sombrero mortífero de Rabadon

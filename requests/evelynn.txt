@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Perdición del liche > Bastón del Vacío
-**Objetos finales:** Sombrero mortal de Rabadon, Velo del hada de la muerte, Robaalmas de Mejai
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Bastón del Vacío
+**Objetos finales:** Sombrero mortífero de Rabadon, Velo del hada de la muerte, Robaalmas de Mejai

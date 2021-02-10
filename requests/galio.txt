@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Guardián invisible, Anillo de Doran, Poción de vida
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Morellonomicón, Sombrero mortal de Rabadon, Reloj de arena de Zhonya
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya

@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Látigo puntahierro > Chupasangre > Cuchilla negra > Calibrador de Sterak
-**Objetos finales:** Mecanoespada punki, Calibrador de Sterak, Baile de la muerte
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla negra > Guantelete de Sterak
+**Objetos finales:** Sierraespada Quimopunk, Guantelete de Sterak, Danza de la muerte

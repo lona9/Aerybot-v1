@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Poción de corrupción
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Lapa maliciosa > Creagrietas > Cetro de cristal de Rylai > Abrazo demoníaco
 **Objetos finales:** Morellonomicón, Cetro de cristal de Rylai, Abrazo demoníaco

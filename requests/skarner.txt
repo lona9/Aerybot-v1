@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Rescoldo de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
-**Objetos finales:** Malla de espinas, Presagio de Randuin, Armadura de Warmog
+**Objetos finales:** Cota de espinas, Presagio de Randuin, Armadura de Warmog

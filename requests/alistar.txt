@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Convergencia de Zeke
-**Objetos iniciales:** Guardián invisible
-**Objetos principales:** Escudo reliquia > Poción de vida > Gema avivadora > Medallón de los Solari de Hierro
-**Objetos finales:** Escudo reliquia, Poción de vida, Medallón de los Solari de Hierro
+**Objetos iniciales:** Centinela invisible
+**Objetos principales:** Escudo reliquia > Poción de vida > Gemaluz > Relicario de los Solari de Hierro
+**Objetos finales:** Escudo reliquia, Poción de vida, Relicario de los Solari de Hierro

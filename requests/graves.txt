@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Lente del oráculo, Cuchillo de ascuas, Poción reutilizable
-**Objetos principales:** Carcaj del mediodía > Viento huracanado > Recaudadora > Filo infinito
-**Objetos finales:** Ángel de la guarda, Recordatorio letal, Filo infinito
+**Objetos iniciales:** Lente del oráculo, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > El Coleccionista > Filo del infinito
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Filo del infinito

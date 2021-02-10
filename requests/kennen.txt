@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Velo del hada de la muerte, Abrazo demoníaco, Sombrero mortal de Rabadon
+**Objetos finales:** Velo del hada de la muerte, Abrazo demoníaco, Sombrero mortífero de Rabadon

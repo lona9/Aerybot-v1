@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Guardián invisible, Espada larga, Poción de vida
+**Objetos iniciales:** Centinela invisible, Espada larga, Poción de vida
 **Objetos principales:** Daga dentada > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Mecanoespada punki, Rencor de Serylda, Ángel de la guarda
+**Objetos finales:** Sierraespada Quimopunk, Rencor de Serylda, Ángel Guardián

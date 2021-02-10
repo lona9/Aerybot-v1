@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Cortasendas > Calibrador de Sterak
-**Objetos finales:** Malla de espinas, Calibrador de Sterak, Coraza del muerto
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Cortasendas > Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Coraza del muerto

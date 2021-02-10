@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Látigo puntahierro > Cortasendas > Calibrador de Sterak > Coraza del muerto
-**Objetos finales:** Protector pétreo de gárgola, Malla de espinas, Rostro espiritual
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Látigo férreo > Cortasendas > Guantelete de Sterak > Coraza del muerto
+**Objetos finales:** Armadura pétrea, Cota de espinas, Apariencia espiritual

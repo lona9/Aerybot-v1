@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Lapa maliciosa > Creagrietas > Abrazo demoníaco > Reloj de arena de Zhonya
-**Objetos finales:** Reloj de arena de Zhonya, Rostro espiritual, Malla de espinas
+**Objetos finales:** Reloj de arena de Zhonya, Apariencia espiritual, Cota de espinas

@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Daga dentada > Eclipse > Manamune > Filo fantasmal de Youmuu
-**Objetos finales:** Mecanoespada punki, Ángel de la guarda, Rencor de Serylda
+**Objetos finales:** Sierraespada Quimopunk, Ángel Guardián, Rencor de Serylda

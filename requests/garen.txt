@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Látigo puntahierro > Cortasendas > Coraza del muerto > Calibrador de Sterak
-**Objetos finales:** Calibrador de Sterak, Fuerza de la naturaleza, Malla de espinas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Látigo férreo > Cortasendas > Coraza del muerto > Guantelete de Sterak
+**Objetos finales:** Guantelete de Sterak, Fuerza de la naturaleza, Cota de espinas

@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Bastón de aguas fluidas
-**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
-**Objetos principales:** Bastón de aguas fluidas > Incensario ardiente > Botas jonias de la lucidez > Sombrero mortal de Rabadon
-**Objetos finales:** Sombrero mortal de Rabadon, Bastón de aguas fluidas, Impulso cósmico
+**Botas:** Báculo de agua fluyente
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos principales:** Báculo de agua fluyente > Pebetero ardiente > Botas jonias de la lucidez > Sombrero mortífero de Rabadon
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo de agua fluyente, Impulso cósmico

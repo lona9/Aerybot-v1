@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Medallón de los Solari de Hierro
+**Botas:** Relicario de los Solari de Hierro
 **Objetos iniciales:** 
-**Objetos principales:** Guardián invisible > Escudo reliquia > Poción de vida > Protección de la legión
-**Objetos finales:** Guardián invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Centinela invisible > Escudo reliquia > Poción de vida > Protección de la legión
+**Objetos finales:** Centinela invisible, Escudo reliquia, Poción de vida

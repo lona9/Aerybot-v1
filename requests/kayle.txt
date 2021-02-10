@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Arco curvo > Diente de Nashor > Creagrietas > Perdición del liche
-**Objetos finales:** Sombrero mortal de Rabadon, Cimitarra mercurial, Cañón de fuego rápido
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Arco curvo > Diente de Nashor > Creagrietas > Maldición del liche
+**Objetos finales:** Sombrero mortífero de Rabadon, Cimitarra mercurial, Cañón de fuego rápido

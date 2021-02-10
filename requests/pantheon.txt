@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Poción de corrupción
-**Objetos principales:** Daga dentada > Eclipse > Cuchilla negra > Calibrador de Sterak
-**Objetos finales:** Mecanoespada punki, Ángel de la guarda, Baile de la muerte
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Daga dentada > Eclipse > Cuchilla negra > Guantelete de Sterak
+**Objetos finales:** Sierraespada Quimopunk, Ángel Guardián, Danza de la muerte

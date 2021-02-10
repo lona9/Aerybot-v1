@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Brillo > Desgarrador divino > Corazón de hielo > Rostro espiritual
-**Objetos finales:** Presagio de Randuin, Baile de la muerte, Fuerza de la naturaleza
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Brillo > Cercenador divino > Corazón de hielo > Apariencia espiritual
+**Objetos finales:** Presagio de Randuin, Danza de la muerte, Fuerza de la naturaleza

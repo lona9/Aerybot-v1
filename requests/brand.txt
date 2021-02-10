@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
-**Objetos principales:** Capítulo perdido > Desconsuelo de Liandry > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Morellonomicón, Sombrero mortal de Rabadon, Robaalmas de Mejai
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Morellonomicón
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Robaalmas de Mejai

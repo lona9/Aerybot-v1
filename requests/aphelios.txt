@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Ángel de la guarda
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Verdugo de krakens > Huracán de Runaan > Filo infinito > Grebas de berserker
-**Objetos finales:** Ángel de la guarda, Recordatorio letal, Sanguinaria
+**Botas:** Ángel Guardián
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Verdugo de krakens > Huracán de Runaan > Filo del infinito > Grebas de berserker
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Sanguinaria

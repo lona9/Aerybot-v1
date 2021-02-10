@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Guardián invisible, Poción de corrupción
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Perdición del liche > Reloj de arena de Zhonya
-**Objetos finales:** Bastón del Vacío, Morellonomicón, Sombrero mortal de Rabadon
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Reloj de arena de Zhonya
+**Objetos finales:** Bastón del Vacío, Morellonomicón, Sombrero mortífero de Rabadon

@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Cuchillo de ascuas, Poción reutilizable
-**Objetos principales:** Daga dentada > Eclipse > Hoja del rey arruinado > Calibrador de Sterak
-**Objetos finales:** Malla de espinas, Mecanoespada punki, Calibrador de Sterak
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Daga dentada > Eclipse > Hoja del rey arruinado > Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Sierraespada Quimopunk, Guantelete de Sterak

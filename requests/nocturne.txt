@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Cuchillo de ascuas, Poción reutilizable
-**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Recaudadora > Filo de la noche
-**Objetos finales:** Ángel de la guarda, Recuerdos de lord Dominik, Mecanoespada punki
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Daga dentada > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
+**Objetos finales:** Ángel Guardián, Recuerdos de lord Dominik, Sierraespada Quimopunk

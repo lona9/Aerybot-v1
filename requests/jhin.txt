@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Vayne
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Recordatorio letal > Filo infinito > Ezreal > Senna
-**Objetos finales:** Ángel de la guarda, Recordatorio letal, Filo infinito
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Recordatorio mortal > Filo del infinito > Ezreal > Senna
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Filo del infinito

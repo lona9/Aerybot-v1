@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Guardián invisible, Poción de corrupción
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Daga dentada > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Ángel de la guarda, Rencor de Serylda, Guja sombría
+**Objetos finales:** Ángel Guardián, Rencor de Serylda, Guja sombría

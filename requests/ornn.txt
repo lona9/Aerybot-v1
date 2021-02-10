@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Malla de espinas > Máscara abisal
-**Objetos finales:** Presagio de Randuin, Protector pétreo de gárgola, Corazón de hielo
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Cota de espinas > Máscara abisal
+**Objetos finales:** Presagio de Randuin, Armadura pétrea, Corazón de hielo

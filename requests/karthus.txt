@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Lente del oráculo, Espada de granizo, Poción reutilizable
-**Objetos principales:** Capítulo perdido > Desconsuelo de Liandry > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Bastón del Vacío, Morellonomicón, Sombrero mortal de Rabadon
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Reloj de arena de Zhonya > Morellonomicón
+**Objetos finales:** Bastón del Vacío, Morellonomicón, Sombrero mortífero de Rabadon

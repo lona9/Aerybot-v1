@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
-**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Recaudadora > Segador de esencia
-**Objetos finales:** Ángel de la guarda, Recordatorio letal, Hidra voraz
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
+**Objetos principales:** Daga dentada > Filoscuro de Draktharr > El Coleccionista > Segador de esencia
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Hidra voraz

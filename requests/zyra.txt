@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Desconsuelo de Liandry
+**Botas:** Angustia de Liandry
 **Objetos iniciales:** 
-**Objetos principales:** Guardián invisible > Daga de hechicero > Poción de vida > Capítulo perdido
-**Objetos finales:** Guardián invisible, Daga de hechicero, Poción de vida
+**Objetos principales:** Centinela invisible > Filo del Robahechizos > Poción de vida > Capítulo perdido
+**Objetos finales:** Centinela invisible, Filo del Robahechizos, Poción de vida

@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Mandato imperial
 **Objetos iniciales:** 
-**Objetos principales:** Guardián invisible > Daga de hechicero > Poción de vida > Espejo de cristal de Bandle
-**Objetos finales:** Guardián invisible, Daga de hechicero, Poción de vida
+**Objetos principales:** Centinela invisible > Filo del Robahechizos > Poción de vida > Espejo de cristal de Bandle
+**Objetos finales:** Centinela invisible, Filo del Robahechizos, Poción de vida

@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Lente del oráculo, Espada de granizo, Poción reutilizable
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Perdición del liche > Reloj de arena de Zhonya
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Reloj de arena de Zhonya
 **Objetos finales:** Morellonomicón, Velo del hada de la muerte, Bastón del Vacío

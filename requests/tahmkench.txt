@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Malla de espinas
-**Objetos iniciales:** Guardián invisible
+**Botas:** Cota de espinas
+**Objetos iniciales:** Centinela invisible
 **Objetos principales:** Escudo de Doran > Poción de vida > Rescoldo de Bami > Guantelete de fuego escarchado
-**Objetos finales:** Escudo de Doran, Poción de vida, Protector pétreo de gárgola
+**Objetos finales:** Escudo de Doran, Poción de vida, Armadura pétrea

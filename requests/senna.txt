@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Recuerdos de lord Dominik
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Cañón de fuego rápido > Botas de rapidez > Ángel de la guarda > Recordatorio letal
-**Objetos finales:** Ángel de la guarda, Recordatorio letal, Recuerdos de lord Dominik
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Cañón de fuego rápido > Botas de rapidez > Ángel Guardián > Recordatorio mortal
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Recuerdos de lord Dominik

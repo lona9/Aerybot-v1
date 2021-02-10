@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Lente del oráculo, Espada de granizo, Poción reutilizable
-**Objetos principales:** Daga dentada > Garra de merodeador > Filo de la noche > Calibrador de Sterak
-**Objetos finales:** Ángel de la guarda, Calibrador de Sterak, Mecanoespada punki
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
+**Objetos principales:** Daga dentada > Garra de merodeador > Filo de la noche > Guantelete de Sterak
+**Objetos finales:** Ángel Guardián, Guantelete de Sterak, Sierraespada Quimopunk

@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Guardián invisible, Espada larga, Poción reutilizable
+**Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
 **Objetos principales:** Daga dentada > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Mecanoespada punki, Ángel de la guarda, Recaudadora
+**Objetos finales:** Sierraespada Quimopunk, Ángel Guardián, El Coleccionista

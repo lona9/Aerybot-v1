@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de movilidad
-**Objetos iniciales:** Guardián invisible, Hombreras de acero, Poción de vida
+**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
 **Objetos principales:** Daga dentada > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Ángel de la guarda, Filo de la noche, Filo fantasmal de Youmuu
+**Objetos finales:** Ángel Guardián, Filo de la noche, Filo fantasmal de Youmuu

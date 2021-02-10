@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Poción de corrupción
-**Objetos principales:** Brillo > Segador de esencia > Arcoescudo inmortal > Filo infinito
-**Objetos finales:** Recordatorio letal, Filo infinito, Recuerdos de lord Dominik
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Brillo > Segador de esencia > Arcoescudo inmortal > Filo del infinito
+**Objetos finales:** Recordatorio mortal, Filo del infinito, Recuerdos de lord Dominik

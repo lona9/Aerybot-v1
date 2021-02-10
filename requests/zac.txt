@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Malla de espinas
-**Objetos iniciales:** Guardián invisible
-**Objetos principales:** Espada de granizo > Poción reutilizable > Rescoldo de Bami > Égida de fuego solar
-**Objetos finales:** Espada de granizo, Poción reutilizable, Abrazo demoníaco
+**Botas:** Cota de espinas
+**Objetos iniciales:** Centinela invisible
+**Objetos principales:** Hoja granizo > Poción reutilizable > Rescoldo de Bami > Égida de fuego solar
+**Objetos finales:** Hoja granizo, Poción reutilizable, Abrazo demoníaco

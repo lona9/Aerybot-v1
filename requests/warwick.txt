@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Cuchillo de ascuas, Poción reutilizable
-**Objetos principales:** Tiamat > Égida de fuego solar > Hidra titánica > Malla de espinas
-**Objetos finales:** Rostro espiritual, Calibrador de Sterak, Presagio de Randuin
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Tiamat > Égida de fuego solar > Hidra titánica > Cota de espinas
+**Objetos finales:** Apariencia espiritual, Guantelete de Sterak, Presagio de Randuin

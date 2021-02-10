@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de movilidad
-**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Sombrero mortal de Rabadon, Redención, Morellonomicón
+**Objetos finales:** Sombrero mortífero de Rabadon, Redención, Morellonomicón

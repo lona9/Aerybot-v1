@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Lente del oráculo, Espada de granizo, Poción reutilizable
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Coraza del muerto > Malla de espinas
-**Objetos finales:** Protector pétreo de gárgola, Presagio de Randuin, Corazón de hielo
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Lente del oráculo, Hoja granizo, Poción reutilizable
+**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Coraza del muerto > Cota de espinas
+**Objetos finales:** Armadura pétrea, Presagio de Randuin, Corazón de hielo

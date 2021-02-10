@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Cuchillo de ascuas, Poción reutilizable
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Navaja de asalto > Cañón de fuego rápido
-**Objetos finales:** Filo infinito, Sanguinaria, Recordatorio letal
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Carcaj de mediodía > Verdugo de krakens > Navaja de asalto > Cañón de fuego rápido
+**Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal

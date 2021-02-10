@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Poción de corrupción
-**Objetos principales:** Brillo > Desgarrador divino > Calibrador de Sterak > Baile de la muerte
-**Objetos finales:** Malla de espinas, Baile de la muerte, Protector pétreo de gárgola
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Poción de corrupción
+**Objetos principales:** Brillo > Cercenador divino > Guantelete de Sterak > Danza de la muerte
+**Objetos finales:** Cota de espinas, Danza de la muerte, Armadura pétrea

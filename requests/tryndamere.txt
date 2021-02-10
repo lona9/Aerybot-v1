@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj del mediodía > Viento huracanado > Filoveloz de Navori > Filo infinito
-**Objetos finales:** Hoja del rey arruinado, Recordatorio letal, Hidra voraz
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Filoveloz de Navori > Filo del infinito
+**Objetos finales:** Hoja del rey arruinado, Recordatorio mortal, Hidra voraz

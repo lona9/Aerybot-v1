@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Cuchillo de ascuas, Poción reutilizable
-**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Recaudadora > Segador de esencia
-**Objetos finales:** Ángel de la guarda, Filo infinito, Filoveloz de Navori
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Daga dentada > Filoscuro de Draktharr > El Coleccionista > Segador de esencia
+**Objetos finales:** Ángel Guardián, Filo del infinito, Filoveloz de Navori

@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Malla de espinas > Máscara abisal
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Cota de espinas > Máscara abisal
 **Objetos finales:** Abrazo demoníaco, Fuerza de la naturaleza, Armadura de Warmog

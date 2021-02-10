@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Botas de hechicero
-**Objetos iniciales:** Guardián invisible, Sello oscuro, Poción reutilizable
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Robaalmas de Mejai > Sombrero mortal de Rabadon
-**Objetos finales:** Reloj de arena de Zhonya, Robaalmas de Mejai, Sombrero mortal de Rabadon
+**Botas:** Botas del hechicero
+**Objetos iniciales:** Centinela invisible, Sello oscuro, Poción reutilizable
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Robaalmas de Mejai > Sombrero mortífero de Rabadon
+**Objetos finales:** Reloj de arena de Zhonya, Robaalmas de Mejai, Sombrero mortífero de Rabadon

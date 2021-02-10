@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Redención
-**Objetos iniciales:** Guardián invisible, Hombreras de acero, Poción de vida
-**Objetos principales:** Convergencia de Zeke > Promesa de caballero > Botas de movilidad > Bendición de Mikael
-**Objetos finales:** Bendición de Mikael, Redención, Malla de espinas
+**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
+**Objetos principales:** Convergencia de Zeke > Promesa del caballero > Botas de movilidad > Bendición de Mikael
+**Objetos finales:** Bendición de Mikael, Redención, Cota de espinas
