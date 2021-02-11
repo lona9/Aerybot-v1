@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Desconsuelo de Liandry > Abrazo demoníaco > Cetro de cristal de Rylai
-**Objetos finales:** Malla de espinas, Fuerza de la naturaleza, Calibrador de Sterak
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Cetro de cristal de Rylai
+**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Guantelete de Sterak

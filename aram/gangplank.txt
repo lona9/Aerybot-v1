@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Recaudadora
+**Botas:** El Coleccionista
 **Objetos iniciales:** Botas, Espada larga, Brillo
-**Objetos principales:** Espada larga > Brillo > Brillo > Desgarrador divino
-**Objetos finales:** Recordatorio letal, Filo infinito, Filoveloz de Navori
+**Objetos principales:** Espada larga > Brillo > Brillo > Cercenador divino
+**Objetos finales:** Recordatorio mortal, Filo del infinito, Filoveloz de Navori

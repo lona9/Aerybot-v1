@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
 **Objetos principales:** Rescoldo de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
-**Objetos finales:** Malla de espinas, Armadura de Warmog, Fuerza de la naturaleza
+**Objetos finales:** Cota de espinas, Armadura de Warmog, Fuerza de la naturaleza

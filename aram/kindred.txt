@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Navaja de asalto > Cañón de fuego rápido
-**Objetos finales:** Sanguinaria, Filo infinito, Recordatorio letal
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Verdugo de krakens > Navaja de asalto > Cañón de fuego rápido
+**Objetos finales:** Sanguinaria, Filo del infinito, Recordatorio mortal

@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Daga dentada
-**Objetos iniciales:** Poción reutilizable, Daga dentada
-**Objetos principales:** Salto > Saborea su miedo > Poción reutilizable > Daga dentada
-**Objetos finales:** Rencor de Serylda, Mecanoespada punki, Hidra voraz
+**Botas:** Puñal serrado
+**Objetos iniciales:** Poción reutilizable, Puñal serrado
+**Objetos principales:** Salto > Saborea su miedo > Poción reutilizable > Puñal serrado
+**Objetos finales:** Rencor de Serylda, Sierraespada Quimopunk, Hidra voraz

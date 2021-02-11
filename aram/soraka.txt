@@ -17,4 +17,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Redención > Armadura de Warmog
-**Objetos finales:** Armadura de Warmog, Bastón de aguas fluidas, Rostro espiritual
+**Objetos finales:** Armadura de Warmog, Báculo de agua fluyente, Apariencia espiritual

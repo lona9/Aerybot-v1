@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Lapa maliciosa > Creagrietas > Diente de Nashor > Perdición del liche
-**Objetos finales:** Sombrero mortal de Rabadon, Hoja del rey arruinado, Hoja de furia de Guinsoo
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Lapa maliciosa > Creagrietas > Diente de Nashor > Maldición del liche
+**Objetos finales:** Sombrero mortífero de Rabadon, Hoja del rey arruinado, Hoja de furia de Guinsoo

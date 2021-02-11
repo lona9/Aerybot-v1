@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Recaudadora > Sanguinaria
-**Objetos finales:** Recordatorio letal, Filo infinito, Sanguinaria
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Verdugo de krakens > El Coleccionista > Sanguinaria
+**Objetos finales:** Recordatorio mortal, Filo del infinito, Sanguinaria

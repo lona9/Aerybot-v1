@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Daga dentada > Eclipse > Recaudadora > Filo de la noche
-**Objetos finales:** Recordatorio letal, Sanguinaria, Filo infinito
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Puñal serrado > Eclipse > El Coleccionista > Filo de la noche
+**Objetos finales:** Recordatorio mortal, Sanguinaria, Filo del infinito

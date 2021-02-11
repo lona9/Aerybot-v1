@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Verdugo de krakens
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Supercarga > Buscador del Vacío > Carcaj del mediodía > Carcaj del mediodía
-**Objetos finales:** Filo infinito, Sanguinaria, Recordatorio letal
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Supercarga > Buscador del Vacío > Carcaj de mediodía > Carcaj de mediodía
+**Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal

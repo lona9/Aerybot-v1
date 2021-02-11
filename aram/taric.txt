@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
-**Objetos principales:** Gema avivadora > Medallón de los Solari de Hierro > Convergencia de Zeke > Promesa de caballero
-**Objetos finales:** Malla de espinas, Rostro espiritual, Promesa de caballero
+**Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Promesa del caballero

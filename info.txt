@@ -1,8 +1,8 @@
 Escribe aery comandos para ver qué puede hacer Aerybot.
 
-Este bot fue actualizado por ultima vez el **08/02/21 a las 22:52**
+Este bot fue actualizado por ultima vez el **11/02/21 a las 11:29**
 
-Los datos y builds fueron obtenidos de League of Graphs, para LAS, Platino+, **parche 11.2**.
+Los datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.3**.
 
 Si quieres invitar a este bot a otro server, puedes hacerlo con este link: https://discord.com/oauth2/authorize?client_id=804475973579833374&permissions=1074121728&scope=bot
 

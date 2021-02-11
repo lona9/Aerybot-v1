@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Hoja del rey arruinado
 **Objetos iniciales:** Daga, Cetro vampírico, Poción reutilizable
-**Objetos principales:** Cetro vampírico > Poción reutilizable > Hacha hogareña > Fuerza de trinidad
-**Objetos finales:** Baile de la muerte, Rostro espiritual, Hidra voraz
+**Objetos principales:** Cetro vampírico > Poción reutilizable > Hacha hogareña > Fuerza de la trinidad
+**Objetos finales:** Danza de la muerte, Apariencia espiritual, Hidra voraz

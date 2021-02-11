@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Hacha hogareña
-**Objetos principales:** Hacha hogareña > Fuerza de trinidad > Hoja del rey arruinado > Calibrador de Sterak
-**Objetos finales:** Rostro espiritual, Baile de la muerte, Final del ingenio
+**Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Hoja del rey arruinado > Guantelete de Sterak
+**Objetos finales:** Apariencia espiritual, Danza de la muerte, Final del ingenio

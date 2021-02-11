@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Arcoescudo inmortal > Filo infinito > Sanguinaria
-**Objetos finales:** Recordatorio letal, Baile de la muerte, Rostro espiritual
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Filo del infinito > Sanguinaria
+**Objetos finales:** Recordatorio mortal, Danza de la muerte, Apariencia espiritual

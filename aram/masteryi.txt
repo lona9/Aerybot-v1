@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Poción reutilizable, Daga dentada
-**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Recaudadora > Filoveloz de Navori
-**Objetos finales:** Sanguinaria, Filo infinito, Hoja del rey arruinado
+**Objetos iniciales:** Poción reutilizable, Puñal serrado
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filoveloz de Navori
+**Objetos finales:** Sanguinaria, Filo del infinito, Hoja del rey arruinado

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Poción reutilizable, Daga dentada
-**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Mecanoespada punki, Rencor de Serylda, Filo de la noche
+**Objetos iniciales:** Poción reutilizable, Puñal serrado
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
+**Objetos finales:** Sierraespada Quimopunk, Rencor de Serylda, Filo de la noche

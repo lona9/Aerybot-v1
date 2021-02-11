@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo puntahierro
-**Objetos principales:** Hacha hogareña > Fuerza de trinidad > Calibrador de Sterak > Baile de la muerte
-**Objetos finales:** Malla de espinas, Rostro espiritual, Fuerza de la naturaleza
+**Objetos iniciales:** Poción reutilizable, Látigo férreo
+**Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Guantelete de Sterak > Danza de la muerte
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Fuerza de la naturaleza

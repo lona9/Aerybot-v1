@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Manamune
 **Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
-**Objetos principales:** Brillo > Lágrima de la diosa > Brillo > Desgarrador divino
-**Objetos finales:** Filo infinito, Sanguinaria, Recordatorio letal
+**Objetos principales:** Brillo > Lágrima de la diosa > Brillo > Cercenador divino
+**Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal

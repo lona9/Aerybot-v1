@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5001:804451180112642088>
 
 **Build**
-**Botas:** Malla de espinas
+**Botas:** Cota de espinas
 **Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
-**Objetos principales:** Rescoldo de Bami > Rescoldo de Bami > Égida de fuego solar > Rostro espiritual
-**Objetos finales:** Protector pétreo de gárgola, Armadura de Warmog, Malla de espinas
+**Objetos principales:** Rescoldo de Bami > Rescoldo de Bami > Égida de fuego solar > Apariencia espiritual
+**Objetos finales:** Armadura pétrea, Armadura de Warmog, Cota de espinas

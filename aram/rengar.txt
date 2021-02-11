@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo puntahierro
-**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Recaudadora > Filo de la noche
+**Objetos iniciales:** Poción reutilizable, Látigo férreo
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
 **Objetos finales:** Hidra voraz, Filo de la noche, Filo fantasmal de Youmuu

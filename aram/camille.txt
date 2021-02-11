@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
-**Objetos principales:** Brillo > Fuerza de trinidad > Hidra voraz > Calibrador de Sterak
-**Objetos finales:** Mecanoespada punki, Rostro espiritual, Baile de la muerte
+**Objetos principales:** Brillo > Fuerza de la trinidad > Hidra voraz > Guantelete de Sterak
+**Objetos finales:** Sierraespada Quimopunk, Apariencia espiritual, Danza de la muerte

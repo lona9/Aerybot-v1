@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Manamune
 **Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
-**Objetos principales:** Brillo > Lágrima de la diosa > Brillo > Desgarrador divino
-**Objetos finales:** Rencor de Serylda, Mecanoespada punki, Hoja del rey arruinado
+**Objetos principales:** Brillo > Lágrima de la diosa > Brillo > Cercenador divino
+**Objetos finales:** Rencor de Serylda, Sierraespada Quimopunk, Hoja del rey arruinado

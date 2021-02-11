@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Manamune
 **Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
-**Objetos principales:** Poción reutilizable > Espada larga > Daga dentada > Eclipse
-**Objetos finales:** Mecanoespada punki, Rencor de Serylda, Filo de la noche
+**Objetos principales:** Poción reutilizable > Espada larga > Puñal serrado > Eclipse
+**Objetos finales:** Sierraespada Quimopunk, Rencor de Serylda, Filo de la noche

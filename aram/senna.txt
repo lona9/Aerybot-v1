@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de rapidez
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Hoja de furia de Guinsoo > Cañón de fuego rápido
-**Objetos finales:** Recordatorio letal, Filo infinito, Cañón de fuego rápido
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Verdugo de krakens > Hoja de furia de Guinsoo > Cañón de fuego rápido
+**Objetos finales:** Recordatorio mortal, Filo del infinito, Cañón de fuego rápido

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo puntahierro
-**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Recaudadora > Filo fantasmal de Youmuu
-**Objetos finales:** Mecanoespada punki, Baile de la muerte, Filo de la noche
+**Objetos iniciales:** Poción reutilizable, Látigo férreo
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo fantasmal de Youmuu
+**Objetos finales:** Sierraespada Quimopunk, Danza de la muerte, Filo de la noche

@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Manamune
 **Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
-**Objetos principales:** Poción reutilizable > Espada larga > Daga dentada > Filoscuro de Draktharr
-**Objetos finales:** Rencor de Serylda, Filo de la noche, Mecanoespada punki
+**Objetos principales:** Poción reutilizable > Espada larga > Puñal serrado > Filoscuro de Draktharr
+**Objetos finales:** Rencor de Serylda, Filo de la noche, Sierraespada Quimopunk

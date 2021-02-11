@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Malla de espinas > Presagio de Randuin
-**Objetos finales:** Armadura de Warmog, Protector pétreo de gárgola, Presagio de Randuin
+**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Cota de espinas > Presagio de Randuin
+**Objetos finales:** Armadura de Warmog, Armadura pétrea, Presagio de Randuin

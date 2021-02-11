@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Botas, Alternador hextech
 **Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Armadura de Warmog, Protector pétreo de gárgola, Malla de espinas
+**Objetos finales:** Armadura de Warmog, Armadura pétrea, Cota de espinas
