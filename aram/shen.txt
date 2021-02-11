@@ -1,20 +1,20 @@
-**Shen** *(ARAM)*
-> **% victorias:** 48,8%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835> 
-> **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
- 
+**Shen ** *(Normal)*
+**Porcentaje de victorias:** 46.7%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
+
 >   <:valor11:804449943376232509>:cd::cd:
 >   :cd::cd:<:valor23:804449943876010024>
 >   :cd:<:valor32:804449943959765002>:cd:
 >   <:valor41:804449944298586143>:cd::cd:
- 
+
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
 > :cd::cd::cd:<:dom44:804457129732866048>
->   <:5005:804451179778015303><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build:**
-*Iniciales:* Poción reutilizable, Rescoldo de Bami
-*Botas:* Botas de mercurio
-*Principales:* Rescoldo de Bami > Capa solar > Cota de espinas > Apariencia espiritual
-*Finales:* Armadura de Warmog, Protector pétreo, Apariencia espiritual
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
+**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Malla de espinas > Presagio de Randuin
+**Objetos finales:** Armadura de Warmog, Protector pétreo de gárgola, Presagio de Randuin

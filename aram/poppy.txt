@@ -1,20 +1,20 @@
-**Poppy** *(ARAM)*
-> **% victorias:** 46,2%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835> 
-> **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
- 
+**Poppy ** *(Normal)*
+**Porcentaje de victorias:** 45.8%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
+
 >   :cd:<:valor12:804449943775084614>:cd:
 >   :cd::cd:<:valor23:804449943876010024>
 >   :cd::cd:<:valor33:804449943603118131>
 >   <:valor41:804449944298586143>:cd::cd:
- 
+
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
->   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build:**
-*Iniciales:* Poción reutilizable, Rescoldo de Bami
-*Botas:* Botas de mercurio
-*Principales:* Rescoldo de Bami > Capa solar > Cota de espinas > Fuerza de la naturaleza
-*Finales:* Armadura de Warmog, Protector pétreo de gárgola, Fuerza de la naturaleza
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
+**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Malla de espinas > Fuerza de la naturaleza
+**Objetos finales:** Protector pétreo de gárgola, Armadura de Warmog, Malla de espinas

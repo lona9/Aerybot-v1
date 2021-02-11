@@ -1,20 +1,20 @@
-**Rakan** *(ARAM)*
-> **% victorias:** 49,1%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835> 
-> **Runas:** <:valor:804451124245561394> <:bruj:804451124236648478>
- 
+**Rakan ** *(Normal)*
+**Porcentaje de victorias:** 50.0%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
+
 >   :cd::cd:<:valor13:804449943497605171>
->   <:valor21:804449943984537690>:cd::cd:
+>   :cd:<:valor22:804449944018223104>:cd:
 >   :cd::cd:<:valor33:804449943603118131>
->   :cd:<:valor42:804449943615438919>:cd:
- 
->   :cd::cd:<:bruj23:804448797425532928>
->   :cd:<:bruj32:804448797346234369>:cd:
+>   :cd::cd:<:valor43:804449944001708043>
+
 >   :cd::cd::cd:
->   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build:**
-*Iniciales:* Cristal de rubí, Espejo de cristal de Bandle
-*Botas:* Botas de mercurio
-*Principales:* Espejo de cristal de Bandle > Mandato imperial > Bastón de aguas fluidas > Rendición
-*Finales:* Cota de espinas, Convergencia de Zeke, Promesa de caballero
+>   :cd::cd:<:dom33:804457129578332160>
+> :cd::cd::cd:<:dom44:804457129732866048>
+>   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
+**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Convergencia de Zeke > Redención
+**Objetos finales:** Malla de espinas, Redención, Promesa de caballero

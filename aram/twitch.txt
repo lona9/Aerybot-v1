@@ -1,20 +1,20 @@
-**Twitch** *(ARAM)*
-> **% victorias:** 49,7%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
-> **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
- 
+**Twitch ** *(Normal)*
+**Porcentaje de victorias:** 49.1%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+
 > :cd::cd::cd:<:dom14:804447179938070569>
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > <:dom41:804457130379182120>:cd::cd::cd:
- 
+
 >   :cd::cd:<:precision23:804446921628057630>
 >   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd::cd:
->   <:5005:804451179778015303><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build:**
-*Iniciales:* Carcaj de mediodía
-*Botas:* Grebas de berserker
-*Principales:* Carcaj de mediodía > Matakrakens > Huracán de Runaan > Hoja del rey arruinado
-*Finales:* Recordatorio letal, Sanguinaria, Filo infinito
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Carcaj del mediodía
+**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Huracán de Runaan > Filo infinito
+**Objetos finales:** Recordatorio letal, Sanguinaria, Filo infinito

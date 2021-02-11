@@ -1,20 +1,20 @@
-**Udyr** *(ARAM)*
-> **% victorias:** 49,8%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835> 
-> **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
- 
-> :cd::cd::cd:<:precision14:804446921631596585>
+**Udyr ** *(Normal)*
+**Porcentaje de victorias:** 43.8%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:bruj:804451124236648478> <:pres:804451123825606657>
+
+>   :cd::cd:<:bruj13:804448796787474433>
+>   :cd::cd:<:bruj23:804448797425532928>
+>   :cd:<:bruj32:804448797346234369>:cd:
+>   <:bruj41:804448797597499402>:cd::cd:
+
 >   :cd:<:precision22:804446921414541333>:cd:
->   :cd:<:precision32:804446921737371648>:cd:
->   <:precision41:804446922151690300>:cd::cd:
- 
->   <:dom21:804457127800078397>:cd::cd:
+>   <:precision31:804446921660956702>:cd::cd:
 >   :cd::cd::cd:
-> <:dom41:804457130379182120>:cd::cd::cd:
->   <:5005:804451179778015303><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build:**
-*Iniciales:* Poción reutilizable, Rescoldo de Bami
-*Botas:* Bota de mercurio
-*Principales:* Rescoldo de Bami > Quimiotanque turbo > Placa del hombre muerto > Fuerza de la naturaleza
-*Finales:* Cota de espinas, Apariencia espirtual, Fuerza de la naturaleza
+>   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
+**Objetos principales:** Rescoldo de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
+**Objetos finales:** Malla de espinas, Armadura de Warmog, Fuerza de la naturaleza

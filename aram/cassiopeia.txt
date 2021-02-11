@@ -1,5 +1,5 @@
 **Cassiopeia** *(ARAM)*
-> **% victorias:** 51,5%
+> **% victorias:** 48.4%
 > **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 > **Runas**: <:pres:804451123825606657> <:dom:804451124085522442>
  
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
  
 > **Build**:
-*Iniciales:* Capítulo perdido
+*Iniciales:* Cristal de zafiro, Tomo amplificador, Poción reutilizable, Lágrima de la diosa
 *Botas:* -
 *Principales:* Capítulo perdido > Desconsuelo de Liandry > Bastón del arcángel > Abrazo demoníaco
-*Finales:* Morellonomicón, Reloj de arena de Zhonya, Bastón del vacío 
+*Finales:* Morellonomicón, Bastón del vacío, Reloj de arena de Zhonya

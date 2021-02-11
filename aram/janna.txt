@@ -1,20 +1,20 @@
-**Janna** *(ARAM)*
-> **% victorias:** 50,7%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
-> **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
- 
+**Janna ** *(Normal)*
+**Porcentaje de victorias:** 53.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
+**Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
+
 >   :cd:<:bruj12:804448797001252864>:cd:
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd:<:bruj43:804448797631316069>
- 
+
 >   :cd::cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > :cd::cd:<:dom43:804457129183936582>:cd:
->   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build:** 
-*Iniciales:* Capítulo principal
-*Botas:* Botas jonias de la lucidez
-*Principales:* Espejo de cristal de Bandle, Bastón de aguas fluidas, Incensario ardiente
-*Finales:* Bastón de aguas fluidas, Putrificador tecnoquímico, Bendición de Mikael
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5001:804451180112642088>
+
+**Build**
+**Botas:** Botas jonias de la lucidez
+**Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
+**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Bastón de aguas fluidas > Incensario ardiente
+**Objetos finales:** Putrificador tecnoquímico, Redención, Incensario ardiente

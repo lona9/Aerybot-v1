@@ -1,20 +1,20 @@
-**Jayce** *(ARAM)*
-> **% victorias:** 50,8%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835> 
-> **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
- 
+**Jayce ** *(Normal)*
+**Porcentaje de victorias:** 50.3%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > <:dom41:804457130379182120>:cd::cd::cd:
- 
+
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
->   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build:**
-*Iniciales:* Lágrima de la diosa, Poción reutilizable, Espada larga (x2)
-*Botas:* Botas jonias de la lucidez
-*Principales:* Daga dentada > Eclipse > Manamune > Recaudadora
-*Finales:* Mecanoespada punki, Filo de la noche, Rencor de Serylda
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Manamune
+**Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
+**Objetos principales:** Poción reutilizable > Espada larga > Daga dentada > Eclipse
+**Objetos finales:** Mecanoespada punki, Rencor de Serylda, Filo de la noche

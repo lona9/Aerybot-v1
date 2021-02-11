@@ -1,20 +1,20 @@
-**Urgot** *(ARAM)*
-> **% victorias:** 52,5%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835> 
-> **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
- 
-> :cd::cd::cd:<:precision14:804446921631596585>
+**Urgot ** *(Normal)*
+**Porcentaje de victorias:** 50.0%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
+**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+
+> :cd::cd:<:precision13:804446921619931187>:cd:
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd:<:precision32:804446921737371648>:cd:
 >   <:precision41:804446922151690300>:cd::cd:
- 
+
 >   :cd:<:dom22:804457129394176020>:cd:
 >   :cd::cd::cd:
 > <:dom41:804457130379182120>:cd::cd::cd:
->   <:5008:804451180172279808><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build:**
-*Iniciales:* Poción reutilizable, Látigo puntahierro
-*Botas:* Botas de mercurio
-*Principales:* Látigo puntahierro > Chupasangre > Danza de la muerte > Calibrador de Sterak
-*Finales:* Cota de espinas, Apariencia espiritual > Danza de la muerte
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Botas de mercurio
+**Objetos iniciales:** Poción reutilizable, Látigo puntahierro
+**Objetos principales:** Látigo puntahierro > Chupasangre > Hidra voraz > Rostro espiritual
+**Objetos finales:** Malla de espinas, Rostro espiritual, Calibrador de Sterak

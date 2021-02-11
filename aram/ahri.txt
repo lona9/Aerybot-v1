@@ -1,7 +1,7 @@
-**Ahri** *(ARAM)*
-> **% victorias:** 52,6%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570> 
-> **Runas**: 
+**Ahri ** *(Normal)*
+**Porcentaje de victorias:** 50.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
 > <:dom11:804447179758239744>:cd::cd::cd:
 >   :cd:<:dom22:804457129394176020>:cd:
@@ -11,10 +11,10 @@
 >   :cd:<:bruj22:804448796553117707>:cd:
 >   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd::cd:
->   <:5008:804451180172279808><:5008:804451180172279808><:5003:804451180100452403>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
-> **Build**:
-*Iniciales*: Capítulo perdido
-*Botas:* Botas de hechicero 
-*Principales*: Capítulo perdido > Tempestad de Luden > Morellonomicón > Reloj de arena de Zhonya 
-*Finales*: Bastón del vacío, Sombrero mortal de Rabadon, Velo del hada de la muerte
+**Build**
+**Botas:** Botas de hechicero
+**Objetos iniciales:** Capítulo perdido
+**Objetos principales:** Tempestad de Luden > Morellonomicón > Reloj de arena de Zhonya
+**Objetos finales:** Bastón del Vacío, Sombrero mortal de Rabadon, Morellonomicón

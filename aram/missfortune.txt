@@ -1,20 +1,20 @@
-**Miss Fortune** *(ARAM)*
-> **% victorias:** 54%
-> **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
-> **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
- 
+**Miss Fortune ** *(Normal)*
+**Porcentaje de victorias:** 53.0%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+
 > :cd::cd:<:dom13:804447179828625438>:cd:
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd:<:dom33:804457129578332160>
 > <:dom41:804457130379182120>:cd::cd::cd:
- 
+
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
->   <:precision41:804446922151690300>:cd::cd:
->   <:5005:804451179778015303><:5008:804451180172279808><:5002:804451180104908870>
- 
-> **Build:**
-*Iniciales:* Poción reutilizable, Daga dentada
-*Botas:* Grebas de berserker
-*Principales:* Daga dentada > Eclipse > Recaudadora > Filo de la noche
-*Finales:* Recordatorio letal, Sanguinaria, Filo infinito
+>   :cd::cd::cd:
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+
+**Build**
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Carcaj del mediodía
+**Objetos principales:** Daga dentada > Eclipse > Recaudadora > Filo de la noche
+**Objetos finales:** Recordatorio letal, Sanguinaria, Filo infinito
