@@ -1,4 +1,4 @@
-**Jax ** *(Normal)*
+**Jax ** *(ARAM)*
 **Porcentaje de victorias:** 47.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Hacha hogareña
 **Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Hoja del rey arruinado > Guantelete de Sterak
-**Objetos finales:** Apariencia espiritual, Danza de la muerte, Final del ingenio
+**Objetos finales:** Apariencia espiritual, Danza de la muerte, Al Filo de la Cordura

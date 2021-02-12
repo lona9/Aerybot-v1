@@ -1,4 +1,4 @@
-**Evelynn ** *(Normal)*
+**Evelynn ** *(ARAM)*
 **Porcentaje de victorias:** 45.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Sombrero mortífero de Rabadon
-**Objetos finales:** Bastón del Vacío, Velo del hada de la muerte, Morellonomicón
+**Objetos finales:** Báculo del vacío, Velo del hada de la muerte, Morellonomicón

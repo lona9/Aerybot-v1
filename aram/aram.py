@@ -510,7 +510,7 @@ for champ in filestofix:
         objpr = " > ".join(objpr)
 
         texto = (
-            "**{}** *(Normal)*\n**Porcentaje de victorias:** {}\n**Hechizos del Invocador:** {} {}\n**Runas:** {} {}\n\n>{}\n>{}\n>{}\n>{}\n\n>{}\n>{}\n>{}\n>   {} {} {}\n\n**Build**\n**Botas:** {}\n**Objetos iniciales:** {}\n**Objetos principales:** {}\n**Objetos finales:** {}"
+            "**{}** *(ARAM)*\n**Porcentaje de victorias:** {}\n**Hechizos del Invocador:** {} {}\n**Runas:** {} {}\n\n>{}\n>{}\n>{}\n>{}\n\n>{}\n>{}\n>{}\n>   {} {} {}\n\n**Build**\n**Botas:** {}\n**Objetos iniciales:** {}\n**Objetos principales:** {}\n**Objetos finales:** {}"
             .format(nombre, victorias, hechizo1, hechizo2, runa1, runa2,
                     linea1pr, linea2pr, linea3pr, linea4pr, linea2sec,
                     linea3sec, linea4sec, fragmento1, fragmento2, fragmento3,

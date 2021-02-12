@@ -1,4 +1,4 @@
-**Zilean ** *(Normal)*
+**Zilean ** *(ARAM)*
 **Porcentaje de victorias:** 47.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Clarity:804555481489080370>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Morellonomicón > Reloj de arena de Zhonya
-**Objetos finales:** Bastón del Vacío, Morellonomicón, Sombrero mortífero de Rabadon
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

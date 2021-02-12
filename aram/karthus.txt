@@ -1,4 +1,4 @@
-**Karthus ** *(Normal)*
+**Karthus ** *(ARAM)*
 **Porcentaje de victorias:** 54.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Sombrero mortífero de Rabadon
-**Objetos finales:** Bastón del Vacío, Morellonomicón, Sombrero mortífero de Rabadon
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

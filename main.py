@@ -41,7 +41,7 @@ async def aram(ctx, *args):
   with open(path) as f:
     text = f.read()
     await ctx.channel.send(text)
-  print(str(ctx.message.content))
+  print(str(ctx.message.content), ctx.guild)
 
 
 #FOR NORMAL/RANKED STATS
@@ -60,19 +60,19 @@ async def normal(ctx, *args):
   with open(path) as f:
     text = f.read()
     await ctx.channel.send(text)
-  print(str(ctx.message.content))
+  print(str(ctx.message.content), ctx.guild)
 
 
 @bot.command()
 async def info(ctx):
-  print(str(ctx.message.content))
+  print(str(ctx.message.content), ctx.guild)
   with open("info.txt") as f:
     text = f.read()
     await ctx.channel.send(text)
 
 @bot.command()
 async def comandos(ctx):
-  print(str(ctx.message.content))
+  print(str(ctx.message.content), ctx.guild)
   with open("comandos.txt") as f:
     text = f.read()
     await ctx.channel.send(text)
@@ -80,11 +80,16 @@ async def comandos(ctx):
 
 @bot.command()
 async def rotacion(ctx):
-  print(str(ctx.message.content))
+  print(str(ctx.message.content), ctx.guild)
   with open("rotacion.txt") as f:
     text = f.read()
     await ctx.channel.send(
 		    '**Los champs en rotación de esta semana son:** \n{}'.format(text))
+
+@bot.command()
+async def comentario(ctx):
+  lona = await bot.fetch_user(485054727755792410)
+  await lona.send('{} dice: {}'.format(ctx.message.author, ctx.message.content))
 
 @bot.command()
 async def guilds(ctx):
