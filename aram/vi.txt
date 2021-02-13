@@ -10,11 +10,11 @@
 
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd::cd:
->   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
+**Botas:** Danza de la muerte
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Guantelete de Sterak > Danza de la muerte
+**Objetos principales:** Látigo férreo > Látigo férreo > Bebedor de sangre > Guantelete de Sterak
 **Objetos finales:** Cota de espinas, Apariencia espiritual, Danza de la muerte

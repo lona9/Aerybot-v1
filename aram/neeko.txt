@@ -9,12 +9,12 @@
 > :cd::cd::cd:<:dom44:804457129732866048>
 
 >   :cd::cd:<:precision23:804446921628057630>
->   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos finales:** Bastón del Vacío, Sombrero mortífero de Rabadon, Morellonomicón

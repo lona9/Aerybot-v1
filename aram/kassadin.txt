@@ -10,11 +10,11 @@
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
->   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Báculo del arcángel > Maldición del liche
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya
+**Objetos finales:** Bastón del Vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya

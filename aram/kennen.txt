@@ -10,11 +10,11 @@
 
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd::cd:
->   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
+**Botas:** Morellonomicón
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon
+**Objetos principales:** Alternador hextech > Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya
+**Objetos finales:** Bastón del Vacío, Morellonomicón, Sombrero mortífero de Rabadon

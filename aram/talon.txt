@@ -10,11 +10,11 @@
 
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd::cd:
->   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
+**Botas:** Filo de la noche
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
+**Objetos principales:** Puñal serrado > Puñal serrado > Filoscuro de Draktharr > El Coleccionista
 **Objetos finales:** Rencor de Serylda, Sierraespada Quimopunk, Filo de la noche

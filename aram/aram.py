@@ -1,7 +1,7 @@
 import os
 from bs4 import BeautifulSoup
 
-fix = ['ryze']
+fix = ['neeko', 'bardo', 'diana', 'elise', 'fizz', 'gangplank', 'gragas', 'graves', 'jayce', 'jhin', 'kaisa', 'karma', 'karthus', 'kassadin', 'katarina', 'kennen', 'khazix', 'leblanc', 'leesin', 'lissandra', 'malzahar', 'missfortune', 'morgana', 'nami', 'nasus', 'nidalee', 'nocturne', 'orianna', 'pyke', 'qiyana', 'reksai', 'rengar', 'senna', 'seraphine', 'shaco', 'sona', 'swain', 'taliyah', 'talon', 'teemo', 'twistedfate', 'varus', 'velkoz', 'vi', 'viktor', 'xerath', 'xinzhao', 'yuumi', 'zed', 'ziggs', 'zoe']
 
 filestofix = []
 
@@ -257,7 +257,7 @@ for champ in filestofix:
                 linea2pr = '   <:insp21:804450563911057458>:cd::cd:'
             elif 'Calzado mágico' not in runasprincipales:
                 linea2pr = '   :cd:<:insp22:804450563793747989>:cd:'
-            if 'Momento oportuno' not in runasprincipales:
+            elif 'Momento oportuno' not in runasprincipales:
                 linea2pr = '   :cd::cd:<:insp23:804450563948675112>'
 
             #LINEA 3
@@ -349,9 +349,9 @@ for champ in filestofix:
             #LINEA 4
             if 'Golpe de gracia' not in runassecundarias:
                 linea4sec = '   <:precision41:804446922151690300>:cd::cd:'
-            if 'Derribado' not in runassecundarias:
+            elif 'Derribado' not in runassecundarias:
                 linea4sec = '   :cd:<:precision42:804446921636053043>:cd:'
-            if 'Último esfuerzo' not in runassecundarias:
+            elif 'Último esfuerzo' not in runassecundarias:
                 linea4sec = '   :cd::cd:<:precision43:804446921941975080>'
             else:
                 linea4sec = '   :cd::cd::cd:'

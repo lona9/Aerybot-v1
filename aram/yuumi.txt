@@ -10,11 +10,11 @@
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
->   :cd::cd::cd:
+>   :cd:<:precision42:804446921636053043>:cd:
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas
+**Botas:** Pebetero ardiente
 **Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente > Pebetero ardiente
+**Objetos principales:** Espejo de cristal de Bandle > Espejo de cristal de Bandle > Renovación de piedra lunar > Báculo de agua fluyente
 **Objetos finales:** Putrificador tecnoquímico, Bendición de Mikael, Redención

@@ -1,7 +1,7 @@
 import os
 from bs4 import BeautifulSoup
 
-fix = ['riven', 'rumble', 'ryze']
+fix = ['anivia', 'fizz', 'karthus', 'katarina', 'qiyana', 'shaco', 'yuumi']
 filestofix = []
 
 for champ in fix:
@@ -17,7 +17,6 @@ for champ in filestofix:
     ## NOMBRE
     nombre = soup.find('meta', attrs={'name': "twitter:title"})
     nombre = str(nombre).replace('<meta content="Builds de ', '').replace(' - Objetos / Runas / Emparejamientos - League of Legends" name="twitter:title"/>', '')
-    print(nombre)
 
     ## POSICIÓN
     posicion = soup.find('div', 'bannerSubtitle').contents
@@ -161,9 +160,9 @@ for champ in filestofix:
       #LINEA 4
       if 'Golpe de gracia' not in runasprincipales:
         linea4pr = '   <:precision41:804446922151690300>:cd::cd:'
-      if 'Derribado' not in runasprincipales:
+      elif 'Derribado' not in runasprincipales:
         linea4pr = '   :cd:<:precision42:804446921636053043>:cd:'
-      if 'Último esfuerzo' not in runasprincipales:
+      elif 'Último esfuerzo' not in runasprincipales:
         linea4pr = '   :cd::cd:<:precision43:804446921941975080>'
 
     # VALOR
@@ -344,9 +343,9 @@ for champ in filestofix:
       #LINEA 4
       if 'Golpe de gracia' not in runassecundarias:
         linea4sec = '   <:precision41:804446922151690300>:cd::cd:'
-      if 'Derribado' not in runassecundarias:
+      elif 'Derribado' not in runassecundarias:
         linea4sec = '   :cd:<:precision42:804446921636053043>:cd:'
-      if 'Último esfuerzo' not in runassecundarias:
+      elif 'Último esfuerzo' not in runassecundarias:
         linea4sec = '   :cd::cd:<:precision43:804446921941975080>'
       else:
         linea4sec = '   :cd::cd::cd:'

@@ -10,11 +10,11 @@
 
 >   :cd:<:precision22:804446921414541333>:cd:
 >   :cd::cd::cd:
->   :cd::cd::cd:
+>   <:precision41:804446922151690300>:cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
+**Botas:** Diente de Nashor
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Diente de Nashor
+**Objetos principales:** Alternador hextech > Alternador hextech > Cosechador nocturno > Maldición del liche
 **Objetos finales:** Sombrero mortífero de Rabadon, Morellonomicón, Cañón de fuego rápido
