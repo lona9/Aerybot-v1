@@ -1,9 +1,9 @@
 Los comandos que puedes usar son los siguientes:
   
-**aery info**: Información general del bot.
-**aery rotacion:** Rotación semanal actual.
-**aery normal**: Escribir comando + nombre del champ para ver sus stats y builds para partidas normales (ej: aery normal ashe).
-**aery aram:** Escribir comando + nombre del champ para ver sus stats y builds para partidas ARAM (ej: aery aram ashe)
-**aery comentario:** ¡Puedes dejar un comentario o sugerencia a la creadora a través de este comando! Sé cortés, y si hay algo que te gustaría que se implementara o arreglara, intenta explicar tu idea lo mejor posible.
+:small_blue_diamond: **aery info**: Información general del bot.
+:small_blue_diamond: **aery rotacion:** Rotación semanal actual.
+:small_blue_diamond: **aery normal**: Escribir comando + nombre del champ para ver sus stats y builds para partidas normales (ej: aery normal ashe).
+:small_blue_diamond: **aery aram:** Escribir comando + nombre del champ para ver sus stats y builds para partidas ARAM (ej: aery aram ashe)
+:small_blue_diamond: **aery comentario:** ¡Puedes dejar un comentario o sugerencia a la creadora a través de este comando! Sé cortés, y si hay algo que te gustaría que se implementara o arreglara, intenta explicar tu idea lo mejor posible. Escribe aery comentario *tu mensaje*.
 
 Comandos deben ser escritos en minúsculas. Los nombres de champs se deben escribir completos, con o sin mayúsculas, con o sin espacios, y con o sin caracteres especiales (Ej: Se puede escribir Cho'Gath o chogath, Lee Sin o leesin or incluso LeEsIn, se debe buscar Nunu y Willump, y no solo Nunu).

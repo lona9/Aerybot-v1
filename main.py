@@ -11,6 +11,9 @@ DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
 bot = commands.Bot(command_prefix="aery ")
 
+## STATUS = ALL FILES UP TO DATE, NAMES REPLACED.
+## REPLACE LIST NEEDS UPDATING
+
 @bot.event
 async def on_ready():
   print('We have logged in as {0.user}'.format(bot))
@@ -38,10 +41,13 @@ async def aram(ctx, *args):
     return file
     
   path = filename(charname)
-  with open(path) as f:
-    text = f.read()
-    await ctx.channel.send(text)
-  print(str(ctx.message.content), ctx.guild)
+  if os.path.exists(path):
+    with open(path) as f:
+      text = f.read()
+      await ctx.channel.send(text)
+    print(str(ctx.message.content), ctx.guild)
+  else:
+    await ctx.channel.send("¡No existe ese archivo! ¿Escribiste bien el nombre?\nLa forma correcta de escribir el comando es *aery aram champ*, usa el nombre completo, sin importar mayúsculas ni carácteres especiales (Ej: Se puede escribir *aery aram Cho'Gath* o *aery aram chogath*, *aery aram Lee Sin* o *aery aram leesin* or incluso *aery aram LeEsIn*, se debe buscar *aery aram Nunu y Willump*, y no solo *aery aram Nunu*)")
 
 
 #FOR NORMAL/RANKED STATS
@@ -56,11 +62,14 @@ async def normal(ctx, *args):
     return file
     
   path = filename(charname)
-  
-  with open(path) as f:
-    text = f.read()
-    await ctx.channel.send(text)
-  print(str(ctx.message.content), ctx.guild)
+
+  if os.path.exists(path):
+    with open(path) as f:
+      text = f.read()
+      await ctx.channel.send(text)
+    print(str(ctx.message.content), ctx.guild)
+  else:
+    await ctx.channel.send("¡No existe ese archivo! ¿Escribiste bien el nombre?\nLa forma correcta de escribir el comando es *aery normal champ*, usa el nombre completo, sin importar mayúsculas ni carácteres especiales (Ej: Se puede escribir *aery normal Cho'Gath* o *aery normal chogath*, *aery normal Lee Sin* o *aery normal leesin* or incluso *aery normal LeEsIn*, se debe buscar *aery normal Nunu y Willump*, y no solo *aery normal Nunu*)")
 
 
 @bot.command()
