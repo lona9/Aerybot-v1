@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla negra > Guantelete de Sterak
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Guantelete de Sterak
 **Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk

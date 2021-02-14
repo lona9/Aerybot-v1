@@ -17,4 +17,4 @@
 **Botas:** Morellonomicón
 **Objetos iniciales:** Botas, Alternador hextech
 **Objetos principales:** Alternador hextech > Alternador hextech > Cintomisil hextech > Reloj de arena de Zhonya
-**Objetos finales:** Bastón del Vacío, Morellonomicón, Sombrero mortífero de Rabadon
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

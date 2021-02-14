@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Carcaj de mediodía > Verdugo de krakens > Hoja del rey arruinado > El Coleccionista
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > El Coleccionista
 **Objetos finales:** Guantelete de Sterak, Danza de la muerte, Sierraespada Quimopunk

@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Verdugo de krakens > Filoveloz de Navori > Filo del infinito
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Filoveloz de Navori > Filo del infinito
 **Objetos finales:** Rencor de Serylda, Recordatorio mortal, Hoja del rey arruinado

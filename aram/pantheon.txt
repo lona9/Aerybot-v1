@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
-**Objetos principales:** Puñal serrado > Eclipse > Cuchilla negra > Guantelete de Sterak
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Guantelete de Sterak
 **Objetos finales:** Sierraespada Quimopunk, Danza de la muerte, Hidra voraz

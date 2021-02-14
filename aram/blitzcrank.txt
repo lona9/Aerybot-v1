@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Máscara abisal > Cota de espinas
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Máscara abisal > Cota de espinas
 **Objetos finales:** Armadura de Warmog, Cota de espinas, Corazón de hielo

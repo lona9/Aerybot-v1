@@ -17,4 +17,4 @@
 **Botas:** Maldición del liche
 **Objetos iniciales:** Botas, Alternador hextech
 **Objetos principales:** Alternador hextech > Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya
-**Objetos finales:** Bastón del Vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Abrazo demoníaco > Cota de espinas
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Abrazo demoníaco > Cota de espinas
 **Objetos finales:** Armadura pétrea, Presagio de Randuin, Máscara abisal

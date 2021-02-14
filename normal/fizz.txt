@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Bastón del Vacío
+**Botas:** Báculo del vacío
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Cosechador nocturno > Maldición del liche > Reloj de arena de Zhonya > Botas del hechicero
-**Objetos finales:** Bastón del Vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

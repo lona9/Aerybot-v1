@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Sello oscuro, Poción reutilizable
-**Objetos principales:** Alternador hextech > Cintomisil hextech > Robaalmas de Mejai > Bastón del Vacío
-**Objetos finales:** Reloj de arena de Zhonya, Bastón del Vacío, Morellonomicón
+**Objetos principales:** Alternador hextech > Cintomisil hextech > Robaalmas de Mejai > Báculo del vacío
+**Objetos finales:** Reloj de arena de Zhonya, Báculo del vacío, Morellonomicón

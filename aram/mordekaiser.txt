@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Lapa maliciosa
-**Objetos principales:** Lapa maliciosa > Creagrietas > Abrazo demoníaco > Cetro de cristal de Rylai
+**Objetos principales:** Lapa maliciosa > Agrietador > Abrazo demoníaco > Cetro de cristal de Rylai
 **Objetos finales:** Morellonomicón, Apariencia espiritual, Reloj de arena de Zhonya

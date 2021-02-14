@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Rescoldo de Bami > Guantelete de fuego escarchado > Cota de espinas > Fuerza de la naturaleza
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Fuerza de la naturaleza
 **Objetos finales:** Armadura de Warmog, Armadura pétrea, Presagio de Randuin

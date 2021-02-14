@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Reloj de arena de Zhonya
-**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Bastón del Vacío
+**Objetos finales:** Morellonomicón, Sombrero mortífero de Rabadon, Báculo del vacío

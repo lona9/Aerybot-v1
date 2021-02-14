@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Arco curvo > Diente de Nashor > Creagrietas > Maldición del liche
+**Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Maldición del liche
 **Objetos finales:** Sombrero mortífero de Rabadon, Reloj de arena de Zhonya, Morellonomicón

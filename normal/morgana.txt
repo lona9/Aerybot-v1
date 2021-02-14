@@ -18,4 +18,4 @@
 **Botas:** Botas de movilidad
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Reloj de arena de Zhonya > Morellonomicón
-**Objetos finales:** Morellonomicón, Bastón del Vacío, Abrazo demoníaco
+**Objetos finales:** Morellonomicón, Báculo del vacío, Abrazo demoníaco

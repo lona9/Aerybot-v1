@@ -18,4 +18,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Putrificador tecnoquímico > Reloj de arena de Zhonya
-**Objetos finales:** Reloj de arena de Zhonya, Bastón del Vacío, Morellonomicón
+**Objetos finales:** Reloj de arena de Zhonya, Báculo del vacío, Morellonomicón

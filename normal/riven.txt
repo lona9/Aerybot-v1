@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra voraz > Cuchilla negra
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra voraz > Cuchilla oscura
 **Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Guantelete de Sterak

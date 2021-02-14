@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Carcaj de mediodía > Verdugo de krakens > Segador de esencia > Filoveloz de Navori
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Segador de esencia > Filoveloz de Navori
 **Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal

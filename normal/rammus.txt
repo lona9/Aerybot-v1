@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Rescoldo de Bami > Quimiotanque turbo > Cota de espinas > Coraza del muerto
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Cota de espinas > Coraza del muerto
 **Objetos finales:** Presagio de Randuin, Armadura pétrea, Fuerza de la naturaleza

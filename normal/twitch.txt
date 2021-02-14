@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Vara explosiva > Diente de Nashor > Sombrero mortífero de Rabadon > Creagrietas
-**Objetos finales:** Reloj de arena de Zhonya, Bastón del Vacío, Robaalmas de Mejai
+**Objetos principales:** Vara explosiva > Diente de Nashor > Sombrero mortífero de Rabadon > Agrietador
+**Objetos finales:** Reloj de arena de Zhonya, Báculo del vacío, Robaalmas de Mejai

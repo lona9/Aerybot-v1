@@ -18,4 +18,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Reloj de arena de Zhonya
-**Objetos finales:** Bastón del Vacío, Morellonomicón, Velo del hada de la muerte
+**Objetos finales:** Báculo del vacío, Morellonomicón, Velo de la banshee

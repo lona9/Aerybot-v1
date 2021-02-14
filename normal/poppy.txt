@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Cota de espinas > Presagio de Randuin
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Presagio de Randuin
 **Objetos finales:** Presagio de Randuin, Armadura pétrea, Cota de espinas

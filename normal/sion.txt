@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Hidra titánica > Cota de espinas
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Hidra titánica > Cota de espinas
 **Objetos finales:** Armadura pétrea, Cota de espinas, Hidra titánica

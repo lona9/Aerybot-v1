@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Reloj de arena de Zhonya
-**Objetos finales:** Bastón del Vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya

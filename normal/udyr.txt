@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Rescoldo de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
 **Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Maldición del liche

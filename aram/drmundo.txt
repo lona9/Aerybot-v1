@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Cota de espinas
-**Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
-**Objetos principales:** Rescoldo de Bami > Rescoldo de Bami > Égida de fuego solar > Apariencia espiritual
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
+**Objetos principales:** Ceniza de Bami > Ceniza de Bami > Égida de fuego solar > Apariencia espiritual
 **Objetos finales:** Armadura pétrea, Armadura de Warmog, Cota de espinas

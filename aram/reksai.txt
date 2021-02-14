@@ -17,4 +17,4 @@
 **Botas:** Guantelete de Sterak
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Látigo férreo > Látigo férreo > Bebedor de sangre > Hidra voraz
-**Objetos finales:** Cuchilla negra, Sierraespada Quimopunk, Danza de la muerte
+**Objetos finales:** Cuchilla oscura, Sierraespada Quimopunk, Danza de la muerte

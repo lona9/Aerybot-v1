@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Apariencia espiritual
 **Objetos finales:** Cota de espinas, Guantelete de Sterak, Coraza del muerto

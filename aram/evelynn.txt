@@ -17,4 +17,4 @@
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
 **Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Sombrero mortífero de Rabadon
-**Objetos finales:** Báculo del vacío, Velo del hada de la muerte, Morellonomicón
+**Objetos finales:** Báculo del vacío, Velo de la banshee, Morellonomicón

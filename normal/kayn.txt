@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla negra > Danza de la muerte
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Cuchilla oscura > Danza de la muerte
 **Objetos finales:** Ángel Guardián, Rencor de Serylda, Sierraespada Quimopunk

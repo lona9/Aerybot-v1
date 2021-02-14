@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Puñal serrado > Eclipse > Cuchilla negra > Guantelete de Sterak
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Guantelete de Sterak
 **Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte

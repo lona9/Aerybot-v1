@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj de mediodía > Verdugo de krakens > Hoja de furia de Guinsoo > Huracán de Runaan
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja de furia de Guinsoo > Huracán de Runaan
 **Objetos finales:** Cimitarra mercurial, Ángel Guardián, Recordatorio mortal

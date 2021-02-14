@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Lapa maliciosa > Creagrietas > Abrazo demoníaco > Reloj de arena de Zhonya
+**Objetos principales:** Lapa maliciosa > Agrietador > Abrazo demoníaco > Reloj de arena de Zhonya
 **Objetos finales:** Cetro de cristal de Rylai, Cota de espinas, Apariencia espiritual

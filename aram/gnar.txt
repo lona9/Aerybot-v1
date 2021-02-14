@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
-**Objetos principales:** Bacteriófago > Cercenador divino > Cuchilla negra > Guantelete de Sterak
+**Objetos principales:** Bacteriófago > Cercenador divino > Cuchilla oscura > Guantelete de Sterak
 **Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Apariencia espiritual
