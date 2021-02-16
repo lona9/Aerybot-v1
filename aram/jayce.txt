@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Manamune
+**Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
-**Objetos principales:** Poción reutilizable > Espada larga > Puñal serrado > Eclipse
+**Objetos principales:** Espada larga > Puñal serrado > Eclipse > Manamune
 **Objetos finales:** Sierraespada Quimopunk, Rencor de Serylda, Filo de la noche

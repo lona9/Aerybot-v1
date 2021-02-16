@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Maldición del liche
+**Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Reloj de arena de Zhonya > Maldición del liche
 **Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

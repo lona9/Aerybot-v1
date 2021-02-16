@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Hoja del rey arruinado
+**Botas:** Botas de mercurio
 **Objetos iniciales:** Daga, Cetro vampírico, Poción reutilizable
-**Objetos principales:** Cetro vampírico > Poción reutilizable > Hacha hogareña > Fuerza de la trinidad
+**Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Hoja del rey arruinado > Guantelete de Sterak
 **Objetos finales:** Danza de la muerte, Apariencia espiritual, Hidra voraz

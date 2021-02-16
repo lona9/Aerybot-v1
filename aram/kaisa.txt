@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Matakrakens
+**Botas:** Grebas de mediodía
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Supercarga > Buscador del Vacío > Carcaj de mediodía > Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Huracán de Runaan 
 **Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal

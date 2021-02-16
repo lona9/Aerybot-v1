@@ -16,5 +16,5 @@
 **Build**
 **Botas:** El Coleccionista
 **Objetos iniciales:** Botas, Espada larga, Brillo
-**Objetos principales:** Espada larga > Brillo > Brillo > Cercenador divino
+**Objetos principales:** Espada larga > Brillo > Brillo > Cercenador divino > El Coleccionista
 **Objetos finales:** Recordatorio mortal, Filo del infinito, Filoveloz de Navori
