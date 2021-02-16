@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Armadura pétrea
+**Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Égida de fuego solar > Cota de espinas > Fuerza de la naturaleza > Punteras de acero revestidas
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Cota de espinas > Fuerza de la naturaleza > 
 **Objetos finales:** Armadura pétrea, Presagio de Randuin, Corazón de hielo
