@@ -1,5 +1,5 @@
 **Kha'Zix ** *(ARAM)*
-**Porcentaje de victorias:** 45.8%
+**Porcentaje de victorias:** 44.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Puñal serrado
+**Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Puñal serrado
-**Objetos principales:** Salto > Saborea su miedo > Poción reutilizable > Puñal serrado
-**Objetos finales:** Rencor de Serylda, Sierraespada Quimopunk, Hidra voraz
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
+**Objetos finales:** Rencor de Serylda, Sierraespada Quimopunk, Filo de la noche

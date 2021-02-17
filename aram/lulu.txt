@@ -17,4 +17,4 @@
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
 **Objetos principales:** Espejo de cristal de Bandle > Renovación de piedra lunar > Pebetero ardiente > Báculo de agua fluyente
-**Objetos finales:** Redención, Bendición de Mikael, Putrificador tecnoquímico
+**Objetos finales:** Putrificador tecnoquímico, Bendición de Mikael, Redención

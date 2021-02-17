@@ -1,5 +1,5 @@
 **Singed ** *(ARAM)*
-**Porcentaje de victorias:** 50.5%
+**Porcentaje de victorias:** 50.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Capítulo perdido
+**Objetos iniciales:** Lapa maliciosa
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Cetro de cristal de Rylai
-**Objetos finales:** Fuerza de la naturaleza, Morellonomicón, Coraza del muerto
+**Objetos finales:** Morellonomicón, Fuerza de la naturaleza, Coraza del muerto

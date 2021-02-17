@@ -1,7 +1,7 @@
 import os
 from bs4 import BeautifulSoup
 
-fix = ['neeko', 'bardo', 'diana', 'elise', 'fizz', 'gangplank', 'gragas', 'graves', 'jayce', 'jhin', 'kaisa', 'karma', 'karthus', 'kassadin', 'katarina', 'kennen', 'khazix', 'leblanc', 'leesin', 'lissandra', 'malzahar', 'missfortune', 'morgana', 'nami', 'nasus', 'nidalee', 'nocturne', 'orianna', 'pyke', 'qiyana', 'reksai', 'rengar', 'senna', 'seraphine', 'shaco', 'sona', 'swain', 'taliyah', 'talon', 'teemo', 'twistedfate', 'varus', 'velkoz', 'vi', 'viktor', 'xerath', 'xinzhao', 'yuumi', 'zed', 'ziggs', 'zoe']
+fix = ['khazix']
 
 filestofix = []
 
@@ -496,7 +496,7 @@ for champ in filestofix:
 
         ## BOTAS
         botas = soup.find_all('div', "championSpell")
-        imgbotas = botas[8].find('img', alt=True)
+        imgbotas = botas[12].find('img', alt=True)
         botas = imgbotas.get('alt')
 
         ### OBJETOS PRINCIPALES
@@ -506,7 +506,7 @@ for champ in filestofix:
             imgprincipales = principales[obj].find('img', alt=True)
             principalts = imgprincipales.get('alt')
             objs.append(principalts)
-        objpr = objs[4:8]
+        objpr = objs[8:12]
         objpr = " > ".join(objpr)
 
         texto = (
