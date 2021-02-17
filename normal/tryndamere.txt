@@ -1,7 +1,7 @@
 **Tryndamere ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 49.5%
-**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
+**Porcentaje de victorias:** 50.2%
+**Hechizos del Invocador:** <:Flash:804555481443336202> <:Ghost:804555480856002610>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
 > :cd:<:precision12:804446921522675733>:cd::cd:
@@ -18,4 +18,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Filoveloz de Navori > Filo del infinito
-**Objetos finales:** Rencor de Serylda, Recordatorio mortal, Hoja del rey arruinado
+**Objetos finales:** Rencor de Serylda, Recordatorio mortal, Filo del infinito

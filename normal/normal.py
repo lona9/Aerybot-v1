@@ -1,7 +1,7 @@
 import os
 from bs4 import BeautifulSoup
 
-fix = ['anivia', 'fizz', 'karthus', 'katarina', 'qiyana', 'shaco', 'yuumi']
+fix = ['viktor', 'kaisa', 'khazix']
 filestofix = []
 
 for champ in fix:
@@ -490,7 +490,7 @@ for champ in filestofix:
 
     ## BOTAS
     botas = soup.find_all('div', "championSpell")
-    imgbotas = botas[10].find('img', alt=True)
+    imgbotas = botas[13].find('img', alt=True)
     botas = imgbotas.get('alt')
 
     ### OBJETOS PRINCIPALES
@@ -500,7 +500,7 @@ for champ in filestofix:
       imgprincipales = principales[obj].find('img', alt=True)
       principalts = imgprincipales.get('alt')
       objs.append(principalts)
-    objpr = objs[6:10]
+    objpr = objs[9:13]
     objpr = " > ".join(objpr)
 
     texto = ("**{}** *(Normal)*\n**Posición:** *{}*\n**Porcentaje de victorias:** {}\n**Hechizos del Invocador:** {} {}\n**Runas:** {} {}\n\n>{}\n>{}\n>{}\n>{}\n\n>{}\n>{}\n>{}\n>   {} {} {}\n\n**Build**\n**Botas:** {}\n**Objetos iniciales:** {}\n**Objetos principales:** {}\n**Objetos finales:** {}".format(nombre, posicion, victorias, hechizo1, hechizo2, runa1, runa2, linea1pr, linea2pr, linea3pr, linea4pr, linea2sec, linea3sec, linea4sec, fragmento1, fragmento2, fragmento3, botas, objin, objpr, objfin))

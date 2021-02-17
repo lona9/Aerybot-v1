@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Guantelete de Sterak
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Coraza del muerto > Cota de espinas
+**Objetos finales:** Coraza del muerto, Apariencia espiritual, Cota de espinas

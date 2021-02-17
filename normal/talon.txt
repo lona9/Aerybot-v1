@@ -1,6 +1,6 @@
 **Talon ** *(Normal)*
 **Posición:** *Mid*
-**Porcentaje de victorias:** 50.5%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
-**Objetos principales:** Puñal serrado > Garra de merodeador > Colmillo de serpiente > Manamune
-**Objetos finales:** Rencor de Serylda, Filo de la noche, Sierraespada Quimopunk
+**Objetos principales:** Puñal serrado > Garra de merodeador > Colmillo de serpiente > Filo de la noche
+**Objetos finales:** Rencor de Serylda, Ángel Guardián, Filo de la noche

@@ -1,6 +1,6 @@
 **Zed ** *(Normal)*
 **Posición:** *Mid*
-**Porcentaje de victorias:** 50.7%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Centinela invisible, Espada larga, Poción de vida
-**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Sierraespada Quimopunk, Ángel Guardián, Rencor de Serylda
+**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Rencor de Serylda
+**Objetos finales:** Sierraespada Quimopunk, Ángel Guardián, Filo de la noche
