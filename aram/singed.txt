@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Lapa maliciosa
+**Objetos iniciales:** Mirada absorbente
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Cetro de cristal de Rylai
 **Objetos finales:** Morellonomicón, Fuerza de la naturaleza, Coraza del muerto

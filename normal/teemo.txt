@@ -17,5 +17,5 @@
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Lapa maliciosa > Agrietador > Diente de Nashor > Abrazo demoníaco
+**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Abrazo demoníaco
 **Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Reloj de arena de Zhonya
