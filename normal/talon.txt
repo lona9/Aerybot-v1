@@ -1,6 +1,6 @@
 **Talon ** *(Normal)*
 **Posición:** *Mid*
-**Porcentaje de victorias:** 50.2%
+**Porcentaje de victorias:** 51.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
-**Objetos principales:** Puñal serrado > Garra de merodeador > Colmillo de serpiente > Filo de la noche
-**Objetos finales:** Rencor de Serylda, Ángel Guardián, Filo de la noche
+**Objetos iniciales:** Guardián invisible, Espada larga, Poción reutilizable
+**Objetos principales:** Daga dentada > Garra de merodeador > Colmillo de serpiente > Filo de la noche
+**Objetos finales:** Rencor de Serylda, Ángel de la guarda, Filo de la noche

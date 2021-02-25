@@ -1,6 +1,6 @@
 **Gnar ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 51.1%
+**Porcentaje de victorias:** 51.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Hacha hogareña > Cortasendas > Guantelete de Sterak > Coraza del muerto
-**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Coraza del muerto
+**Botas:** Botas blindadas
+**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Hacha hogareña > Cortasendas > Calibrador de Sterak > Coraza del muerto
+**Objetos finales:** Malla de espinas, Presagio de Randuin, Fuerza de la naturaleza

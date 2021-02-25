@@ -1,6 +1,6 @@
 **Riven ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 51.2%
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:bruj:804451124236648478>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra voraz > Cuchilla oscura
-**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Danza de la muerte
+**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Látigo puntahierro > Chupasangre > Hidra voraz > Cuchilla negra
+**Objetos finales:** Ángel de la guarda, Mecanoespada punki, Calibrador de Sterak

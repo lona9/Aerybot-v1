@@ -1,13 +1,13 @@
 **Alistar ** *(Normal)*
 **Posición:** *Support*
-**Porcentaje de victorias:** 50.1%
+**Porcentaje de victorias:** 49.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
-**Runas:** <:bruj:804451124236648478> <:insp:804451124207681577>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
->   :cd::cd:<:bruj13:804448796787474433>
->   :cd::cd:<:bruj23:804448797425532928>
->   :cd:<:bruj32:804448797346234369>:cd:
->   :cd:<:bruj42:804448797572595813>:cd:
+>   :cd:<:valor12:804449943775084614>:cd:
+>   <:valor21:804449943984537690>:cd::cd:
+>   :cd::cd:<:valor33:804449943603118131>
+>   <:valor41:804449944298586143>:cd::cd:
 
 >   <:insp21:804450563911057458>:cd::cd:
 >   :cd::cd::cd:
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de movilidad
-**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
-**Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Redención, Promesa del caballero, Cota de espinas
+**Objetos iniciales:** Guardián invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Gema avivadora > Medallón de los Solari de Hierro > Convergencia de Zeke > Promesa de caballero
+**Objetos finales:** Convergencia de Zeke, Promesa de caballero, Corazón de hielo

@@ -1,7 +1,7 @@
 import os
 from bs4 import BeautifulSoup
 
-fix = ['viktor', 'kaisa', 'khazix']
+fix = ['khazix', 'kaisa', 'viego', 'viktor']
 filestofix = []
 
 for champ in fix:

@@ -1,6 +1,6 @@
 **Nautilus ** *(Normal)*
 **Posición:** *Support*
-**Porcentaje de victorias:** 49.5%
+**Porcentaje de victorias:** 49.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas de movilidad
-**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
-**Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Abrazo demoníaco, Convergencia de Zeke, Robaalmas de Mejai
+**Objetos iniciales:** Guardián invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Gema avivadora > Medallón de los Solari de Hierro > Convergencia de Zeke > Promesa de caballero
+**Objetos finales:** Protector pétreo de gárgola, Bailarín espectral, Convergencia de Zeke

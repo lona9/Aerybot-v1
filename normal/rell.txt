@@ -1,11 +1,11 @@
 **Rell ** *(Normal)*
 **Posición:** *Support*
-**Porcentaje de victorias:** 52.1%
+**Porcentaje de victorias:** 52.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
 >   :cd:<:valor12:804449943775084614>:cd:
->   :cd:<:valor22:804449944018223104>:cd:
+>   :cd::cd:<:valor23:804449943876010024>
 >   :cd::cd:<:valor33:804449943603118131>
 >   :cd::cd:<:valor43:804449944001708043>
 
@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo reliquia, Poción de vida
-**Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Convergencia de Zeke, Relicario de los Solari de Hierro, Coraza del muerto
+**Botas:** Botas blindadas
+**Objetos iniciales:** Guardián invisible, Escudo reliquia, Poción de vida
+**Objetos principales:** Gema avivadora > Medallón de los Solari de Hierro > Convergencia de Zeke > Promesa de caballero
+**Objetos finales:** Malla de espinas, Máscara abisal, Promesa de caballero

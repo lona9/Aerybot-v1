@@ -1,6 +1,6 @@
 **Amumu ** *(Normal)*
 **Posición:** *Jungler*
-**Porcentaje de victorias:** 46.6%
+**Porcentaje de victorias:** 48.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
-**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Abrazo demoníaco > Cota de espinas
-**Objetos finales:** Presagio de Randuin, Corazón de hielo, Máscara abisal
+**Botas:** Botas blindadas
+**Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
+**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Abrazo demoníaco > Malla de espinas
+**Objetos finales:** Protector pétreo de gárgola, Malla de espinas, Presagio de Randuin

@@ -1,6 +1,6 @@
 **Yorick ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 47.5%
+**Porcentaje de victorias:** 48.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
@@ -10,12 +10,12 @@
 >   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd:<:insp33:804450564049731594>
 >   :cd::cd::cd:
->   :cd:<:insp42:804450563965452369>:cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Poción de corrupción
-**Objetos principales:** Brillo > Fuerza de la trinidad > Hidra titánica > Coraza del muerto
-**Objetos finales:** Apariencia espiritual, Cota de espinas, Danza de la muerte
+**Botas:** Botas blindadas
+**Objetos iniciales:** Guardián invisible, Poción de corrupción
+**Objetos principales:** Brillo > Fuerza de trinidad > Hidra titánica > Coraza del muerto
+**Objetos finales:** Rostro espiritual, Malla de espinas, Calibrador de Sterak

@@ -1,21 +1,21 @@
 **Nasus ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 50.8%
+**Porcentaje de victorias:** 50.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
+**Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
 
->   <:valor11:804449943376232509>:cd::cd:
->   <:valor21:804449943984537690>:cd::cd:
->   <:valor31:804449943666425907>:cd::cd:
->   <:valor41:804449944298586143>:cd::cd:
-
->   :cd::cd::cd:
+>   :cd:<:insp12:804450563680501801>:cd:
+>   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
 >   <:insp41:804450563507879947>:cd::cd:
+
+>   :cd::cd:<:bruj23:804448797425532928>
+>   <:bruj31:804448797395910716>:cd::cd:
+>   :cd::cd::cd:
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
-**Objetos principales:** Brillo > Cercenador divino > Corazón de hielo > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Guantelete de Sterak, Coraza del muerto
+**Botas:** Botas blindadas
+**Objetos iniciales:** Guardián invisible, Escudo de Doran, Poción de vida
+**Objetos principales:** Brillo > Desgarrador divino > Corazón de hielo > Rostro espiritual
+**Objetos finales:** Malla de espinas, Protector pétreo de gárgola, Calibrador de Sterak
