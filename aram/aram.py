@@ -1,7 +1,7 @@
 import os
 from bs4 import BeautifulSoup
 
-fix = ['khazix']
+fix = ['viktor']
 
 filestofix = []
 
@@ -496,7 +496,7 @@ for champ in filestofix:
 
         ## BOTAS
         botas = soup.find_all('div', "championSpell")
-        imgbotas = botas[12].find('img', alt=True)
+        imgbotas = botas[11].find('img', alt=True)
         botas = imgbotas.get('alt')
 
         ### OBJETOS PRINCIPALES
@@ -506,7 +506,7 @@ for champ in filestofix:
             imgprincipales = principales[obj].find('img', alt=True)
             principalts = imgprincipales.get('alt')
             objs.append(principalts)
-        objpr = objs[8:12]
+        objpr = objs[7:11]
         objpr = " > ".join(objpr)
 
         texto = (

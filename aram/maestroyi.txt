@@ -1,20 +1,20 @@
-**Wukong ** *(ARAM)*
-**Porcentaje de victorias:** 49.4%
+**Maestro Yi ** *(ARAM)*
+**Porcentaje de victorias:** 46.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
-**Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
+**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
-> :cd::cd:<:precision13:804446921619931187>:cd:
->   :cd:<:precision22:804446921414541333>:cd:
->   :cd:<:precision32:804446921737371648>:cd:
->   <:precision41:804446922151690300>:cd::cd:
-
+> :cd::cd::cd:<:dom14:804447179938070569>
 >   :cd::cd:<:dom23:804457130307485707>
->   :cd::cd::cd:
+>   :cd::cd:<:dom33:804457129578332160>
 > <:dom41:804457130379182120>:cd::cd::cd:
+
+>   :cd:<:precision22:804446921414541333>:cd:
+>   <:precision31:804446921660956702>:cd::cd:
+>   :cd::cd::cd:
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo férreo
-**Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra voraz > Guantelete de Sterak
-**Objetos finales:** Sierraespada Quimopunk, Danza de la muerte, Cuchilla oscura
+**Botas:** Grebas de berserker
+**Objetos iniciales:** Poción reutilizable, Puñal serrado
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filoveloz de Navori
+**Objetos finales:** Filo del infinito, Sanguinaria, Hoja del rey arruinado

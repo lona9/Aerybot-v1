@@ -17,4 +17,4 @@
 **Botas:** Botas de rapidez
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Fuerza del Viento > El Coleccionista > Cañón de fuego rápido
-**Objetos finales:** Recordatorio mortal, Sanguinaria, Filo del infinito
+**Objetos finales:** Recuerdos de lord Dominik, Recordatorio mortal, Filo del infinito

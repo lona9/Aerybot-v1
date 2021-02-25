@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Puñal serrado > Eclipse > El Coleccionista > Sanguinaria
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > El Coleccionista > Filo del infinito
 **Objetos finales:** Recordatorio mortal, Filo del infinito, Sanguinaria
