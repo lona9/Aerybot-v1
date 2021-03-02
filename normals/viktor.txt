@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5003:804451180100452403>
 
 **Build**
-**Botas:** Tempestad de Luden
+**Botas:** Botas de hechicero
 **Objetos iniciales:** Guardián invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Guardián invisible > Anillo de Doran > Poción de vida > Capítulo perdido
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Perdición del liche > Reloj de arena de Zhonya
 **Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Morellonomicón

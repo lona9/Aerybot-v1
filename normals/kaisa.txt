@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Verdugo de krakens
+**Botas:** Grebas de berserker
 **Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Guardián invisible > Espada de Doran > Poción de vida > Carcaj del mediodía
+**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Recaudadora > Huracán de Runaan
 **Objetos finales:** Ángel de la guarda, Filo infinito, Recordatorio letal

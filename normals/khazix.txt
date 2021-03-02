@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Filoscuro de Draktharr
+**Botas:** Botas blindadas
 **Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
-**Objetos principales:** Guardián invisible > Espada de granizo > Poción reutilizable > Daga dentada
+**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
 **Objetos finales:** Ángel de la guarda, Rencor de Serylda, Mecanoespada punki
