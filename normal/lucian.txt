@@ -1,6 +1,6 @@
 **Lucian ** *(Normal)*
 **Posición:** *AD Carry, Mid*
-**Porcentaje de victorias:** 47.2%
+**Porcentaje de victorias:** 46.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Segador de esencia > Filoveloz de Navori
-**Objetos finales:** Ángel de la guarda, Recordatorio letal, Filo infinito
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Segador de esencia > Filoveloz de Navori
+**Objetos finales:** Ángel Guardián, Recordatorio mortal, Filo del infinito

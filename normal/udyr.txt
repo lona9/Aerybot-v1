@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Espada de granizo, Poción reutilizable
-**Objetos principales:** Rescoldo de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
-**Objetos finales:** Malla de espinas, Presagio de Randuin, Fuerza de la naturaleza
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Coraza del muerto > Fuerza de la naturaleza
+**Objetos finales:** Cota de espinas, Presagio de Randuin, Fuerza de la naturaleza

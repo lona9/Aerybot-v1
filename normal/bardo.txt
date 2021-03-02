@@ -1,6 +1,6 @@
 **Bardo ** *(Normal)*
 **Posición:** *Support*
-**Porcentaje de victorias:** 51.7%
+**Porcentaje de victorias:** 51.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:valor:804451124245561394> <:dom:804451124085522442>
 
@@ -12,10 +12,10 @@
 >   :cd::cd::cd:
 >   <:dom31:804457128914976788>:cd::cd:
 > :cd::cd:<:dom43:804457129183936582>:cd:
->   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas de rapidez
-**Objetos iniciales:** Guardián invisible, Daga de hechicero, Poción de vida
+**Objetos iniciales:** Centinela invisible, Filo del Robahechizos, Poción de vida
 **Objetos principales:** Espejo de cristal de Bandle > Mandato imperial > Coraza del muerto > Cañón de fuego rápido
-**Objetos finales:** Putrificador tecnoquímico, Redención, Piedra de visión vigilante
+**Objetos finales:** Cañón de fuego rápido, Putrificador tecnoquímico, Coraza del muerto

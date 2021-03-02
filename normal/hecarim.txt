@@ -1,6 +1,6 @@
 **Hecarim ** *(Normal)*
 **Posición:** *Jungler*
-**Porcentaje de victorias:** 51.3%
+**Porcentaje de victorias:** 51.4%
 **Hechizos del Invocador:** <:Ghost:804555480856002610> <:Smite:804555481494061086>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -15,7 +15,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Cuchillo de ascuas, Poción reutilizable
-**Objetos principales:** Brillo > Fuerza de trinidad > Calibrador de Sterak > Baile de la muerte
-**Objetos finales:** Malla de espinas, Rostro espiritual, Coraza del muerto
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Cuchillo Ámbar, Poción reutilizable
+**Objetos principales:** Brillo > Fuerza de la trinidad > Guantelete de Sterak > Danza de la muerte
+**Objetos finales:** Cota de espinas, Apariencia espiritual, Danza de la muerte

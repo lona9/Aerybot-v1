@@ -15,7 +15,7 @@
 >   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Anillo de Doran, Poción de vida
-**Objetos principales:** Rescoldo de Bami > Quimiotanque turbo > Reloj de arena de Zhonya > Rostro espiritual
-**Objetos finales:** Malla de espinas, Calibrador de Sterak, Rostro espiritual
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Reloj de arena de Zhonya > Apariencia espiritual
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Armadura pétrea

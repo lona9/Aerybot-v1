@@ -1,6 +1,6 @@
 **Kai'Sa ** *(Normal)*
 **Posición:** *AD Carry*
-**Porcentaje de victorias:** 50.8%
+**Porcentaje de victorias:** 50.7%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Recaudadora > Huracán de Runaan
-**Objetos finales:** Ángel de la guarda, Filo infinito, Recordatorio letal
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Carcaj de mediodía > Matakrakens > El Coleccionista > Huracán de Runaan
+**Objetos finales:** Ángel Guardián, Filo del infinito, Recordatorio mortal

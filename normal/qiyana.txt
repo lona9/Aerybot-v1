@@ -1,6 +1,6 @@
 **Qiyana ** *(Normal)*
 **Posición:** *Mid*
-**Porcentaje de victorias:** 47.3%
+**Porcentaje de victorias:** 47.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Ignite:804555481167298570>
 **Runas:** <:dom:804451124085522442> <:insp:804451124207681577>
 
@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Botas jonias de la lucidez
-**Objetos iniciales:** Guardián invisible, Espada larga, Poción reutilizable
-**Objetos principales:** Daga dentada > Garra de merodeador > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Ángel de la guarda, Rencor de Serylda, Filo de la noche
+**Objetos iniciales:** Centinela invisible, Espada larga, Poción reutilizable
+**Objetos principales:** Puñal serrado > Garra de merodeador > Filo fantasmal de Youmuu > Filo de la noche
+**Objetos finales:** Filo de la noche, Rencor de Serylda, Ángel Guardián

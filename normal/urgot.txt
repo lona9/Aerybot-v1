@@ -1,6 +1,6 @@
 **Urgot ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 52.1%
+**Porcentaje de victorias:** 53.1%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
 **Runas:** <:pres:804451123825606657> <:valor:804451124245561394>
 
@@ -15,7 +15,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas blindadas
-**Objetos iniciales:** Guardián invisible, Espada de Doran, Poción de vida
-**Objetos principales:** Tiamat > Hidra titánica > Guantelete de fuego escarchado > Cuchilla negra
-**Objetos finales:** Malla de espinas, Protector pétreo de gárgola, Calibrador de Sterak
+**Botas:** Punteras de acero revestidas
+**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos principales:** Tiamat > Hidra titánica > Guantelete de fuego escarchado > Cuchilla oscura
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Sierraespada Quimopunk
