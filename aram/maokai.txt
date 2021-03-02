@@ -11,10 +11,10 @@
 >   <:dom21:804457127800078397>:cd::cd:
 >   :cd::cd::cd:
 > :cd::cd::cd:<:dom44:804457129732866048>
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5001:804451180112642088>
 
 **Build**
 **Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Báculo del vacío, Morellonomicón, Armadura de Warmog
+**Objetos finales:** Báculo del vacío, Armadura de Warmog, Cota de espinas

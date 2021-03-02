@@ -1,5 +1,5 @@
 **Sivir ** *(ARAM)*
-**Porcentaje de victorias:** 58.1%
+**Porcentaje de victorias:** 58.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Segador de esencia > Filo del infinito
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Manamune > El Coleccionista
 **Objetos finales:** Recordatorio mortal, Sanguinaria, Filo del infinito

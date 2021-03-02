@@ -1,8 +1,9 @@
 import os
 from bs4 import BeautifulSoup
 
-fix1 = ['khazix', 'kaisa', 'viego', 'viktor']
-fix2 = ['aurelionsol', 'ekko', 'fizz', 'gangplank', 'jax', 'illaoi', 'irelia', 'leblanc', 'malphite', 'poppy', 'pantheon', 'singed', 'sion', 'twistedfate', 'yorick', 'zoe']
+#first bulk [6:10]
+fix1 = ['khazix', 'kaisa', 'viego', 'viktor'] #[9:13]
+fix2 = ['aurelionsol', 'ekko', 'fizz', 'gangplank', 'jax', 'illaoi', 'irelia', 'leblanc', 'malphite', 'poppy', 'pantheon', 'singed', 'sion', 'twistedfate', 'yorick', 'zoe'] #[5:9]
 
 filestofix = []
 

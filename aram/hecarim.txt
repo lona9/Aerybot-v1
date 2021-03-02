@@ -17,4 +17,4 @@
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Látigo férreo
 **Objetos principales:** Hacha hogareña > Fuerza de la trinidad > Guantelete de Sterak > Danza de la muerte
-**Objetos finales:** Coraza del muerto, Apariencia espiritual, Cota de espinas
+**Objetos finales:** Cota de espinas, Coraza del muerto, Danza de la muerte

@@ -1,5 +1,5 @@
 **Corki ** *(ARAM)*
-**Porcentaje de victorias:** 49.7%
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
+**Botas:** Botas de hechicero
 **Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
-**Objetos principales:** Brillo > Cercenador divino > Manamune > Cañón de fuego rápido
-**Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal
+**Objetos principales:** Brillo > Desgarrador divino > Manamune > Cañón de fuego rápido
+**Objetos finales:** Filo infinito, Sanguinaria, Recordatorio letal

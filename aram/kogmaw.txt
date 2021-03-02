@@ -1,5 +1,5 @@
 **Kog'Maw ** *(ARAM)*
-**Porcentaje de victorias:** 51.7%
+**Porcentaje de victorias:** 51.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
+**Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Hoja del rey arruinado
 **Objetos finales:** Sanguinaria, Sombrero mortífero de Rabadon, Recordatorio mortal

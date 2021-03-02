@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > El Coleccionista > Sanguinaria
-**Objetos finales:** Filo del infinito, Cañón de fuego rápido, Sanguinaria
+**Objetos finales:** Filo del infinito, Cañón de fuego rápido, Recuerdos de lord Dominik
