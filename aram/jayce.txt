@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
-**Objetos principales:** Daga dentada > Eclipse > Manamune > Recaudadora
-**Objetos finales:** Mecanoespada punki, Rencor de Serylda, Filo de la noche
+**Objetos principales:** Puñal serrado > Eclipse > Manamune > El Coleccionista
+**Objetos finales:** Sierraespada Quimopunk, Rencor de Serylda, Filo de la noche

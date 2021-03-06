@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
+**Botas:** Botas del hechicero
 **Objetos iniciales:** Cristal de zafiro, Tomo amplificador, Poción reutilizable, Lágrima de la diosa
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Bastón del arcángel > Reloj de arena de Zhonya
-**Objetos finales:** Bastón del Vacío, Sombrero mortal de Rabadon, Morellonomicón
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Báculo del arcángel > Reloj de arena de Zhonya
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón

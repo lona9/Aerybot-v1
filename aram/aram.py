@@ -8,9 +8,11 @@ fix2 = ['ahri', 'anivia', 'annie', 'aphelios', 'ashe', 'aurelionsol', 'azir', 'b
 fix3 = ['corki', 'ezreal', 'gangplank', 'irelia', 'jayce', 'varus'] #[6:10]
 fix4 = ['khazix'] #[8:12]
 
+testheim = ['heimerdinger']
+
 filestofix = []
 
-for champ in fix4:
+for champ in testheim:
     filename = champ + '.txt'
     filestofix.append(filename)
 
@@ -325,7 +327,7 @@ for champ in filestofix:
             elif 'Cazador definitivo' not in runassecundarias:
                 linea4sec = ' :cd::cd::cd:<:dom44:804457129732866048>'
             else:
-                linea3sec = ' :cd::cd::cd::cd:'
+                linea4sec = ' :cd::cd::cd::cd:'
 
         #PRECISION
         elif 'Supercuración' in runassecundarias or 'Triunfo' in runassecundarias or 'Claridad mental' in runassecundarias or 'Leyenda: Presteza' in runassecundarias or 'Leyenda: Tenacidad' in runassecundarias or 'Leyenda: Linaje' in runassecundarias:
@@ -501,7 +503,7 @@ for champ in filestofix:
 
         ## BOTAS
         botas = soup.find_all('div', "championSpell")
-        imgbotas = botas[12].find('img', alt=True)
+        imgbotas = botas[8].find('img', alt=True)
         botas = imgbotas.get('alt')
 
         ### OBJETOS PRINCIPALES
@@ -511,7 +513,7 @@ for champ in filestofix:
             imgprincipales = principales[obj].find('img', alt=True)
             principalts = imgprincipales.get('alt')
             objs.append(principalts)
-        objpr = objs[8:12]
+        objpr = objs[4:8]
         objpr = " > ".join(objpr)
 
         texto = (

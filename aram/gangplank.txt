@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Botas, Espada larga, Brillo
-**Objetos principales:** Brillo > Segador de esencia > Filoscuro de Draktharr > Recaudadora
-**Objetos finales:** Recordatorio letal, Filo infinito, Recuerdos de lord Dominik
+**Objetos principales:** Brillo > Segador de esencia > Filoscuro de Draktharr > El Coleccionista
+**Objetos finales:** Recordatorio mortal, Filo del infinito, Recuerdos de lord Dominik
