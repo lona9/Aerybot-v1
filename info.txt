@@ -1,6 +1,6 @@
 Escribe aery comandos para ver qué puede hacer Aerybot.
 
-Este bot fue actualizado por ultima vez el **02/03/21 a las 17:17**
+Este bot fue actualizado por ultima vez el **08/03/21 a las 17:13**
 
 Los datos y builds fueron obtenidos de League of Graphs, para Todas las regiones, Platino+, **parche 11.4**.
 
