@@ -56,7 +56,7 @@ async def normal(ctx, *args):
   charname = "".join(args).lower().replace("'", "").replace(".", "")
   
   def filename(x):
-    normalpath = '/home/runner/Aerybot/normal/'
+    normalpath = '/home/runner/Aerybot/normal1/'
     extension = '.txt'
     file = normalpath + x + extension
     return file

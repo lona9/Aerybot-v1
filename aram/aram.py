@@ -2,9 +2,8 @@ import os
 from bs4 import BeautifulSoup
 
 #first bulk: [5:9]
-fix1 = ['viktor', 'kaisa', 'ryze'] # [7:11]
+fix1 = ['viktor', 'kaisa'] # [7:11]
 fix2 = ['ahri', 'anivia', 'annie', 'aphelios', 'ashe', 'aurelionsol', 'azir', 'blitzcrank', 'brand', 'caitlyn', 'corki', 'draven', 'elise', 'graves', 'heimerdinger', 'jhin', 'jinx', 'kalista', 'karma', 'karthus', 'kassadin', 'kayle', 'kindred', 'kogmaw', 'leblanc', 'lillia', 'lissandra', 'lucian', 'lux', 'malzahar', 'maokai', 'missfortune', 'mordekaiser', 'morgana', 'nasus', 'neeko', 'nidalee', 'orianna', 'quinn', 'ryze', 'samira', 'senna', 'seraphine', 'shaco', 'singed', 'sivir', 'swain', 'sylas', 'syndra', 'taliyah', 'teemo', 'tristana', 'tryndamere', 'twistedfate', 'twitch', 'vayne', 'veigar', 'velkoz', 'viego', 'xayah', 'xerath', 'yasuo', 'yone', 'ziggs', 'zilean', 'zoe', 'zyra'] #[4:8]
-#bardo??
 fix3 = ['corki', 'ezreal', 'gangplank', 'irelia', 'jayce', 'varus'] #[6:10]
 fix4 = ['khazix'] #[8:12]
 
@@ -12,7 +11,7 @@ testheim = ['heimerdinger']
 
 filestofix = []
 
-for champ in testheim:
+for champ in fix4:
     filename = champ + '.txt'
     filestofix.append(filename)
 
@@ -503,7 +502,7 @@ for champ in filestofix:
 
         ## BOTAS
         botas = soup.find_all('div', "championSpell")
-        imgbotas = botas[8].find('img', alt=True)
+        imgbotas = botas[12].find('img', alt=True)
         botas = imgbotas.get('alt')
 
         ### OBJETOS PRINCIPALES
@@ -513,7 +512,7 @@ for champ in filestofix:
             imgprincipales = principales[obj].find('img', alt=True)
             principalts = imgprincipales.get('alt')
             objs.append(principalts)
-        objpr = objs[4:8]
+        objpr = objs[8:12]
         objpr = " > ".join(objpr)
 
         texto = (
