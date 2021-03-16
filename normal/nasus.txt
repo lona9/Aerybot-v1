@@ -1,21 +1,21 @@
 **Nasus ** *(Normal)*
 **Posición:** *Top*
-**Porcentaje de victorias:** 50.4%
+**Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:insp:804451124207681577> <:bruj:804451124236648478>
+**Runas:** <:insp:804451124207681577> <:valor:804451124245561394>
 
 >   :cd:<:insp12:804450563680501801>:cd:
 >   :cd:<:insp22:804450563793747989>:cd:
 >   :cd::cd:<:insp33:804450564049731594>
->   :cd:<:insp42:804450563965452369>:cd:
+>   <:insp41:804450563507879947>:cd::cd:
 
->   :cd::cd:<:bruj23:804448797425532928>
->   <:bruj31:804448797395910716>:cd::cd:
 >   :cd::cd::cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Brillo > Cercenador divino > Corazón de hielo > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Armadura pétrea, Guantelete de Sterak
+**Objetos finales:** Cota de espinas, Armadura pétrea, Presagio de Randuin

@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Punteras de acero revestidas
-**Objetos iniciales:** Centinela invisible, Hombreras de acero, Poción de vida
+**Objetos iniciales:** Centinela invisible
 **Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Promesa del caballero, Redención, Convergencia de Zeke
+**Objetos finales:** Hombreras de acero, Poción de vida, Máscara abisal

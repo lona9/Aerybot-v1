@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Poción de corrupción
 **Objetos principales:** Cetro vampírico > Hoja del rey arruinado > Fuerza de la trinidad > Guantelete de Sterak
-**Objetos finales:** Ángel Guardián, Danza de la muerte, Sierraespada Quimopunk
+**Objetos finales:** Ángel Guardián, Danza de la muerte, Guantelete de Sterak
