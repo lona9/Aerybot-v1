@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Maldición del liche
-**Objetos finales:** Hoja del rey arruinado, Hoja de furia de Guinsoo, Sanguinaria
+**Objetos finales:** Hoja del rey arruinado, Hoja de furia de Guinsoo, Huracán de Runaan

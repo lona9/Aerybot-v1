@@ -7,8 +7,6 @@ fix2 = ['ahri', 'anivia', 'annie', 'aphelios', 'ashe', 'aurelionsol', 'azir', 'b
 fix3 = ['corki', 'ezreal', 'gangplank', 'irelia', 'jayce', 'varus'] #[6:10]
 fix4 = ['khazix'] #[8:12]
 
-testheim = ['heimerdinger']
-
 filestofix = []
 
 for champ in fix4:
