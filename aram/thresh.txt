@@ -14,7 +14,7 @@
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
-**Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero
-**Objetos finales:** Armadura de Warmog, Cota de espinas, Armadura pétrea
+**Botas:** Armadura de Warmog
+**Objetos iniciales:** Carcaj del mediodía
+**Objetos principales:** Medallón de los Solari de Hierro > Convergencia de Zeke > Promesa de caballero > Botas de mercurio
+**Objetos finales:** Armadura de Warmog, Protector pétreo de gárgola, Malla de espinas

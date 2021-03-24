@@ -1,5 +1,5 @@
 **Nasus ** *(ARAM)*
-**Porcentaje de victorias:** 51.4%
+**Porcentaje de victorias:** 51.8%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
 
@@ -11,10 +11,10 @@
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
->   <:5007:804451180164022312> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Morellonomicón
-**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Apariencia espiritual
+**Objetos principales:** Bacteriófago > Desgarrador divino > Rostro espiritual > Malla de espinas
+**Objetos finales:** Fuerza de la naturaleza, Malla de espinas, Coraza del muerto

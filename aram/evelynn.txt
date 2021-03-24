@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
+**Botas:** Botas de hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Sombrero mortífero de Rabadon
-**Objetos finales:** Velo de la banshee, Báculo del vacío, Sombrero mortífero de Rabadon
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Perdición del liche > Sombrero mortal de Rabadon
+**Objetos finales:** Bastón del Vacío, Velo del hada de la muerte, Sombrero mortal de Rabadon

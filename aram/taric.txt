@@ -1,5 +1,5 @@
 **Taric ** *(ARAM)*
-**Porcentaje de victorias:** 51.0%
+**Porcentaje de victorias:** 50.2%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
@@ -11,10 +11,10 @@
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd:<:precision32:804446921737371648>:cd:
 >   :cd::cd::cd:
->   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
+>   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Promesa del caballero
-**Objetos iniciales:** Botas, Poción reutilizable, Gemaluz
-**Objetos principales:** Gemaluz > Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke
-**Objetos finales:** Cota de espinas, Apariencia espiritual, Corazón de hielo
+**Botas:** Promesa de caballero
+**Objetos iniciales:** Botas, Poción reutilizable, Gema avivadora
+**Objetos principales:** Gema avivadora > Gema avivadora > Medallón de los Solari de Hierro > Convergencia de Zeke
+**Objetos finales:** Corazón de hielo, Malla de espinas, Rostro espiritual

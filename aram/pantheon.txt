@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo férreo
-**Objetos principales:** Puñal serrado > Eclipse > Cuchilla oscura > Guantelete de Sterak
-**Objetos finales:** Sierraespada Quimopunk, Danza de la muerte, Cuchilla oscura
+**Objetos iniciales:** Poción reutilizable, Daga dentada
+**Objetos principales:** Daga dentada > Eclipse > Cuchilla negra > Calibrador de Sterak
+**Objetos finales:** Baile de la muerte, Mecanoespada punki, Cuchilla negra

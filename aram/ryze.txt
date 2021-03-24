@@ -1,5 +1,5 @@
 **Ryze ** *(ARAM)*
-**Porcentaje de victorias:** 46.2%
+**Porcentaje de victorias:** 45.3%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
 **Runas:** <:bruj:804451124236648478> <:dom:804451124085522442>
 
@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas del hechicero
+**Botas:** Botas de hechicero
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Báculo del arcángel > Reloj de arena de Zhonya
-**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Morellonomicón
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Bastón del arcángel > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Morellonomicón

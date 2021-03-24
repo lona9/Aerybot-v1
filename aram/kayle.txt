@@ -1,10 +1,10 @@
 **Kayle ** *(ARAM)*
-**Porcentaje de victorias:** 50.9%
+**Porcentaje de victorias:** 50.6%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Heal:804555480819040336>
 **Runas:** <:pres:804451123825606657> <:dom:804451124085522442>
 
-> :cd:<:precision12:804446921522675733>:cd::cd:
->   :cd:<:precision22:804446921414541333>:cd:
+> <:precision11:804445926906658886>:cd::cd::cd:
+>   :cd::cd:<:precision23:804446921628057630>
 >   <:precision31:804446921660956702>:cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
 
@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj de mediodía
-**Objetos principales:** Mirada absorbente > Agrietador > Diente de Nashor > Maldición del liche
-**Objetos finales:** Hoja del rey arruinado, Hoja de furia de Guinsoo, Huracán de Runaan
+**Objetos iniciales:** Carcaj del mediodía
+**Objetos principales:** Arco curvo > Diente de Nashor > Creagrietas > Perdición del liche
+**Objetos finales:** Hoja del rey arruinado, Hoja de furia de Guinsoo, Sanguinaria
