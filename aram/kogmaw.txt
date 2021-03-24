@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Huracán de Runaan > Hoja del rey arruinado
-**Objetos finales:** Sanguinaria, Sombrero mortal de Rabadon, Bastón del Vacío
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Hoja del rey arruinado
+**Objetos finales:** Sanguinaria, Sombrero mortífero de Rabadon, Báculo del vacío

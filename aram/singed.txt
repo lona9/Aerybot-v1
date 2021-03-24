@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Desconsuelo de Liandry > Abrazo demoníaco > Cetro de cristal de Rylai
-**Objetos finales:** Fuerza de la naturaleza, Morellonomicón, Malla de espinas
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Cetro de cristal de Rylai
+**Objetos finales:** Fuerza de la naturaleza, Morellonomicón, Cota de espinas

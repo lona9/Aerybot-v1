@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
+**Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Capítulo perdido > Tempestad de Luden > Morellonomicón > Reloj de arena de Zhonya
-**Objetos finales:** Bastón del Vacío, Sombrero mortal de Rabadon, Velo del hada de la muerte
+**Objetos finales:** Báculo del vacío, Sombrero mortífero de Rabadon, Velo de la banshee

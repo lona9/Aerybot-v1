@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas jonias de la lucidez
 **Objetos iniciales:** Poción reutilizable, Brillo, Lágrima de la diosa
-**Objetos principales:** Brillo > Segador de esencia > Manamune > Filoscuro de Draktharr
-**Objetos finales:** Rencor de Serylda, Hidra voraz, Mecanoespada punki
+**Objetos principales:** Brillo > Saqueador de esencias > Manamune > Filoscuro de Draktharr
+**Objetos finales:** Rencor de Serylda, Hidra voraz, Sierraespada Quimopunk

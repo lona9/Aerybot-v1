@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Armadura de Warmog
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Medallón de los Solari de Hierro > Convergencia de Zeke > Promesa de caballero > Botas de mercurio
-**Objetos finales:** Armadura de Warmog, Protector pétreo de gárgola, Malla de espinas
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Relicario de los Solari de Hierro > Convergencia de Zeke > Promesa del caballero > Botas de mercurio
+**Objetos finales:** Armadura de Warmog, Armadura pétrea, Cota de espinas

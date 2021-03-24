@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Arcoescudo inmortal > Recaudadora > Filo infinito
-**Objetos finales:** Recordatorio letal, Recuerdos de lord Dominik, Filo infinito
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > El Coleccionista > Filo del infinito
+**Objetos finales:** Recordatorio mortal, Recuerdos de lord Dominik, Filo del infinito

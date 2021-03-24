@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Lapa maliciosa
-**Objetos principales:** Lapa maliciosa > Creagrietas > Abrazo demoníaco > Cetro de cristal de Rylai
-**Objetos finales:** Rostro espiritual, Malla de espinas, Morellonomicón
+**Objetos iniciales:** Mirada absorbente
+**Objetos principales:** Mirada absorbente > Agrietador > Abrazo demoníaco > Cetro de cristal de Rylai
+**Objetos finales:** Apariencia espiritual, Cota de espinas, Morellonomicón

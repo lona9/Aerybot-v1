@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Hoja de furia de Guinsoo > Cañón de fuego rápido
-**Objetos finales:** Recordatorio letal, Recuerdos de lord Dominik, Sanguinaria
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja de furia de Guinsoo > Cañón de fuego rápido
+**Objetos finales:** Recordatorio mortal, Recuerdos de lord Dominik, Sanguinaria

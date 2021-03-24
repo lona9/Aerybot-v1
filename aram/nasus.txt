@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Bacteriófago > Desgarrador divino > Rostro espiritual > Malla de espinas
-**Objetos finales:** Fuerza de la naturaleza, Malla de espinas, Coraza del muerto
+**Objetos principales:** Bacteriófago > Cercenador divino > Apariencia espiritual > Cota de espinas
+**Objetos finales:** Fuerza de la naturaleza, Cota de espinas, Coraza del muerto

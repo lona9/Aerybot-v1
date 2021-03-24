@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
-**Objetos principales:** Bacteriófago > Desgarrador divino > Rostro espiritual > Malla de espinas
-**Objetos finales:** Malla de espinas, Calibrador de Sterak, Hoja del rey arruinado
+**Objetos principales:** Bacteriófago > Cercenador divino > Apariencia espiritual > Cota de espinas
+**Objetos finales:** Cota de espinas, Guantelete de Sterak, Hoja del rey arruinado

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Filo fantasmal de Youmuu
-**Objetos iniciales:** Perla de rejuvenecimiento, Poción de vida, Látigo puntahierro
-**Objetos principales:** Látigo puntahierro > Daga dentada > Filoscuro de Draktharr > Recaudadora
+**Objetos iniciales:** Perla de rejuvenecimiento, Poción de vida, Látigo férreo
+**Objetos principales:** Látigo férreo > Puñal serrado > Filoscuro de Draktharr > El Coleccionista
 **Objetos finales:** Filo de la noche, Rencor de Serylda, Filo fantasmal de Youmuu

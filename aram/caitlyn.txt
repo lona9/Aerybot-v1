@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Cañón de fuego rápido > Filo infinito
-**Objetos finales:** Sanguinaria, Filo infinito, Recuerdos de lord Dominik
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Cañón de fuego rápido > Filo del infinito
+**Objetos finales:** Sanguinaria, Filo del infinito, Recuerdos de lord Dominik

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Arcoescudo inmortal > Huracán de Runaan > Sanguinaria
-**Objetos finales:** Recordatorio letal, Sanguinaria, Recuerdos de lord Dominik
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Arcoescudo inmortal > Huracán de Runaan > Sanguinaria
+**Objetos finales:** Recordatorio mortal, Sanguinaria, Recuerdos de lord Dominik

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
-**Objetos principales:** Rescoldo de Bami > Guantelete de fuego escarchado > Malla de espinas > Armadura de Warmog
-**Objetos finales:** Protector pétreo de gárgola, Armadura de Warmog, Malla de espinas
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
+**Objetos principales:** Ceniza de Bami > Guantelete de fuego escarchado > Cota de espinas > Armadura de Warmog
+**Objetos finales:** Armadura pétrea, Armadura de Warmog, Cota de espinas

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Arco curvo > Diente de Nashor > Creagrietas > Perdición del liche
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Arco curvo > Diente de Nashor > Agrietador > Maldición del liche
 **Objetos finales:** Hoja del rey arruinado, Hoja de furia de Guinsoo, Sanguinaria

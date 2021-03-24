@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
+**Botas:** Botas del hechicero
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Desconsuelo de Liandry > Abrazo demoníaco > Sombrero mortal de Rabadon
-**Objetos finales:** Bastón del Vacío, Morellonomicón, Sombrero mortal de Rabadon
+**Objetos principales:** Capítulo perdido > Angustia de Liandry > Abrazo demoníaco > Sombrero mortífero de Rabadon
+**Objetos finales:** Báculo del vacío, Morellonomicón, Sombrero mortífero de Rabadon

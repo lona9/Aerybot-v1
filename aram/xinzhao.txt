@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo puntahierro
-**Objetos principales:** Daga dentada > Eclipse > Hoja del rey arruinado > Calibrador de Sterak
-**Objetos finales:** Baile de la muerte, Rostro espiritual, Final del ingenio
+**Objetos iniciales:** Poción reutilizable, Látigo férreo
+**Objetos principales:** Puñal serrado > Eclipse > Hoja del rey arruinado > Guantelete de Sterak
+**Objetos finales:** Danza de la muerte, Apariencia espiritual, Al filo de la Cordura

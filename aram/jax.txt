@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
-**Objetos principales:** Brillo > Fuerza de trinidad > Hoja del rey arruinado > Calibrador de Sterak
-**Objetos finales:** Baile de la muerte, Rostro espiritual, Final del ingenio
+**Objetos principales:** Brillo > Fuerza de la trinidad > Hoja del rey arruinado > Guantelete de Sterak
+**Objetos finales:** Danza de la muerte, Apariencia espiritual, Al filo de la Cordura

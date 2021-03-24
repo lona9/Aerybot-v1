@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Viento huracanado > Segador de esencia > Filo infinito
-**Objetos finales:** Sanguinaria, Filo infinito, Recordatorio letal
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Saqueador de esencias > Filo del infinito
+**Objetos finales:** Sanguinaria, Filo del infinito, Recordatorio mortal

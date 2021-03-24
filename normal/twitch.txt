@@ -16,6 +16,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Centinela invisible, Espada de Doran, Poción de vida
+**Objetos iniciales:** Centinela invisible, Anillo de Doran, Poción de vida
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Filo del infinito
 **Objetos finales:** Recuerdos de lord Dominik, Ángel Guardián, Reloj de arena de Zhonya

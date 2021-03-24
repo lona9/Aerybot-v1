@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Viento huracanado > Filoveloz de Navori > Filo infinito
-**Objetos finales:** Sanguinaria, Hoja del rey arruinado, Filo infinito
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > Filoveloz de Navori > Filo del infinito
+**Objetos finales:** Sanguinaria, Hoja del rey arruinado, Filo del infinito

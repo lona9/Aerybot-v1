@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Huracán de Runaan > Filo infinito
-**Objetos finales:** Sanguinaria, Recordatorio letal, Filo infinito
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Huracán de Runaan > Filo del infinito
+**Objetos finales:** Sanguinaria, Recordatorio mortal, Filo del infinito

@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Cristal de rubí, Espejo de cristal de Bandle
-**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Convergencia de Zeke > Promesa de caballero
-**Objetos finales:** Malla de espinas, Redención, Fuerza de la naturaleza
+**Objetos principales:** Espejo de cristal de Bandle > Canción de batalla de Shurelya > Convergencia de Zeke > Promesa del caballero
+**Objetos finales:** Cota de espinas, Redención, Fuerza de la naturaleza

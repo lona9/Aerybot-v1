@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Látigo puntahierro
-**Objetos principales:** Látigo puntahierro > Chupasangre > Hidra voraz > Calibrador de Sterak
-**Objetos finales:** Rostro espiritual, Baile de la muerte, Calibrador de Sterak
+**Objetos iniciales:** Poción reutilizable, Látigo férreo
+**Objetos principales:** Látigo férreo > Bebedor de sangre > Hidra voraz > Guantelete de Sterak
+**Objetos finales:** Apariencia espiritual, Danza de la muerte, Guantelete de Sterak

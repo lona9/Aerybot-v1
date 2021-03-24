@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Manamune
 **Objetos iniciales:** Lágrima de la diosa, Poción reutilizable, Espada larga
-**Objetos principales:** Poción reutilizable > Espada larga > Daga dentada > Filoscuro de Draktharr
-**Objetos finales:** Recordatorio letal, Filo infinito, Sanguinaria
+**Objetos principales:** Poción reutilizable > Espada larga > Puñal serrado > Filoscuro de Draktharr
+**Objetos finales:** Recordatorio mortal, Filo del infinito, Sanguinaria

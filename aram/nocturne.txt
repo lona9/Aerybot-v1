@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Daga dentada
-**Objetos principales:** Daga dentada > Filoscuro de Draktharr > Recaudadora > Filo de la noche
-**Objetos finales:** Hidra voraz, Rencor de Serylda, Calibrador de Sterak
+**Objetos iniciales:** Poción reutilizable, Puñal serrado
+**Objetos principales:** Puñal serrado > Filoscuro de Draktharr > El Coleccionista > Filo de la noche
+**Objetos finales:** Hidra voraz, Rencor de Serylda, Guantelete de Sterak

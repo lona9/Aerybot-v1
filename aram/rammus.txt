@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
-**Objetos principales:** Rescoldo de Bami > Quimiotanque turbo > Malla de espinas > Coraza del muerto
-**Objetos finales:** Protector pétreo de gárgola, Armadura de Warmog, Máscara abisal
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
+**Objetos principales:** Ceniza de Bami > Quimiotanque turbo > Cota de espinas > Coraza del muerto
+**Objetos finales:** Armadura pétrea, Armadura de Warmog, Máscara abisal

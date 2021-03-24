@@ -14,7 +14,7 @@
 >   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Botas de hechicero
+**Botas:** Botas del hechicero
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Perdición del liche > Reloj de arena de Zhonya
-**Objetos finales:** Sombrero mortal de Rabadon, Bastón del Vacío, Reloj de arena de Zhonya
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Maldición del liche > Reloj de arena de Zhonya
+**Objetos finales:** Sombrero mortífero de Rabadon, Báculo del vacío, Reloj de arena de Zhonya

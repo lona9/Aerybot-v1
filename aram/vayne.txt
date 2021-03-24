@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Grebas de berserker
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Verdugo de krakens > Hoja del rey arruinado > Hoja de furia de Guinsoo
-**Objetos finales:** Sanguinaria, Recordatorio letal, Cimitarra mercurial
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Matakrakens > Hoja del rey arruinado > Hoja de furia de Guinsoo
+**Objetos finales:** Sanguinaria, Recordatorio mortal, Cimitarra mercurial

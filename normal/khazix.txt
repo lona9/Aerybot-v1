@@ -18,4 +18,4 @@
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Hoja granizo, Poción reutilizable
 **Objetos principales:** Puñal serrado > Filoscuro de Draktharr > Filo fantasmal de Youmuu > Filo de la noche
-**Objetos finales:** Ángel Guardián, Rencor de Serylda, Sierraespada Quimopunk
+**Objetos finales:** Ángel Guardián, Sierraespada Quimopunk, Rencor de Serylda

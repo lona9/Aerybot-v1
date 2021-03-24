@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
-**Objetos principales:** Capítulo perdido > Tempestad de Luden > Perdición del liche > Reloj de arena de Zhonya
-**Objetos finales:** Armadura de Warmog, Malla de espinas, Máscara abisal
+**Objetos principales:** Capítulo perdido > Tempestad de Luden > Maldición del liche > Reloj de arena de Zhonya
+**Objetos finales:** Armadura de Warmog, Cota de espinas, Máscara abisal

@@ -2,20 +2,20 @@
 **Posición:** *Top*
 **Porcentaje de victorias:** 50.5%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Teleport:804555481699713034>
-**Runas:** <:insp:804451124207681577> <:valor:804451124245561394>
+**Runas:** <:valor:804451124245561394> <:insp:804451124207681577>
 
->   :cd:<:insp12:804450563680501801>:cd:
->   :cd:<:insp22:804450563793747989>:cd:
->   :cd::cd:<:insp33:804450564049731594>
->   <:insp41:804450563507879947>:cd::cd:
-
->   :cd::cd::cd:
+>   <:valor11:804449943376232509>:cd::cd:
+>   <:valor21:804449943984537690>:cd::cd:
 >   <:valor31:804449943666425907>:cd::cd:
 >   <:valor41:804449944298586143>:cd::cd:
+
+>   :cd:<:insp22:804450563793747989>:cd:
+>   :cd::cd:<:insp33:804450564049731594>
+>   :cd::cd::cd:
 >   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Punteras de acero revestidas
 **Objetos iniciales:** Centinela invisible, Escudo de Doran, Poción de vida
 **Objetos principales:** Brillo > Cercenador divino > Corazón de hielo > Apariencia espiritual
-**Objetos finales:** Cota de espinas, Armadura pétrea, Presagio de Randuin
+**Objetos finales:** Cota de espinas, Armadura pétrea, Guantelete de Sterak

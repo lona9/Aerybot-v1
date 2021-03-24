@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de rapidez
-**Objetos iniciales:** Carcaj del mediodía
-**Objetos principales:** Carcaj del mediodía > Viento huracanado > Recaudadora > Cañón de fuego rápido
-**Objetos finales:** Recuerdos de lord Dominik, Filo infinito, Sanguinaria
+**Objetos iniciales:** Carcaj de mediodía
+**Objetos principales:** Carcaj de mediodía > Fuerza del Viento > El Coleccionista > Cañón de fuego rápido
+**Objetos finales:** Recuerdos de lord Dominik, Filo del infinito, Sanguinaria

@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Poción reutilizable, Bacteriófago
-**Objetos principales:** Rescoldo de Bami > Égida de fuego solar > Rostro espiritual > Malla de espinas
-**Objetos finales:** Calibrador de Sterak, Malla de espinas, Rostro espiritual
+**Objetos principales:** Ceniza de Bami > Égida de fuego solar > Apariencia espiritual > Cota de espinas
+**Objetos finales:** Guantelete de Sterak, Cota de espinas, Apariencia espiritual

@@ -16,5 +16,5 @@
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Botas, Alternador hextech
-**Objetos principales:** Alternador hextech > Cosechador nocturno > Sombrero mortal de Rabadon > Bastón del Vacío
-**Objetos finales:** Malla de espinas, Reloj de arena de Zhonya, Coraza del muerto
+**Objetos principales:** Alternador hextech > Cosechador nocturno > Sombrero mortífero de Rabadon > Báculo del vacío
+**Objetos finales:** Cota de espinas, Reloj de arena de Zhonya, Coraza del muerto

@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Rescoldo de Bami
-**Objetos principales:** Gema avivadora > Medallón de los Solari de Hierro > Promesa de caballero > Convergencia de Zeke
-**Objetos finales:** Armadura de Warmog, Protector pétreo de gárgola, Malla de espinas
+**Objetos iniciales:** Poción reutilizable, Ceniza de Bami
+**Objetos principales:** Gemaluz > Relicario de los Solari de Hierro > Promesa del caballero > Convergencia de Zeke
+**Objetos finales:** Armadura de Warmog, Armadura pétrea, Cota de espinas

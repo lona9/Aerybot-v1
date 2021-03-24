@@ -14,7 +14,7 @@
 >   <:5005:804451179778015303> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
-**Botas:** Promesa de caballero
-**Objetos iniciales:** Botas, Poción reutilizable, Gema avivadora
-**Objetos principales:** Gema avivadora > Gema avivadora > Medallón de los Solari de Hierro > Convergencia de Zeke
-**Objetos finales:** Corazón de hielo, Malla de espinas, Rostro espiritual
+**Botas:** Promesa del caballero
+**Objetos iniciales:** Botas, Poción reutilizable, Gemaluz
+**Objetos principales:** Gemaluz > Gemaluz > Relicario de los Solari de Hierro > Convergencia de Zeke
+**Objetos finales:** Corazón de hielo, Cota de espinas, Apariencia espiritual
