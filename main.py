@@ -67,6 +67,7 @@ async def normal(ctx, *args):
     with open(path) as f:
       text = f.read()
       await ctx.channel.send(text)
+      
     print(str(ctx.message.content), ctx.guild)
   else:
     await ctx.channel.send("¡No existe ese archivo! ¿Escribiste bien el nombre?\nLa forma correcta de escribir el comando es *aery normal champ*, usa el nombre completo, sin importar mayúsculas ni carácteres especiales (Ej: Se puede escribir *aery normal Cho'Gath* o *aery normal chogath*, *aery normal Lee Sin* o *aery normal leesin* or incluso *aery normal LeEsIn*, se debe buscar *aery normal Nunu y Willump*, y no solo *aery normal Nunu*)")
