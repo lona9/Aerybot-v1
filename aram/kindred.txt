@@ -17,4 +17,4 @@
 **Botas:** Grebas de berserker
 **Objetos iniciales:** Carcaj de mediodía
 **Objetos principales:** Carcaj de mediodía > Matakrakens > Navaja de asalto > Cañón de fuego rápido
-**Objetos finales:** Filo del infinito, Sanguinaria, Recordatorio mortal
+**Objetos finales:** Sanguinaria, Filo del infinito, Recordatorio mortal

@@ -1,20 +1,20 @@
 **Nasus ** *(ARAM)*
-**Porcentaje de victorias:** 51.8%
+**Porcentaje de victorias:** 52.0%
 **Hechizos del Invocador:** <:Flash:804555481443336202> <:Mark:804555480965709835>
-**Runas:** <:dom:804451124085522442> <:pres:804451123825606657>
+**Runas:** <:valor:804451124245561394> <:pres:804451123825606657>
 
-> :cd::cd:<:dom13:804447179828625438>:cd:
->   :cd:<:dom22:804457129394176020>:cd:
->   :cd::cd:<:dom33:804457129578332160>
-> <:dom41:804457130379182120>:cd::cd::cd:
+>   <:valor11:804449943376232509>:cd::cd:
+>   :cd:<:valor22:804449944018223104>:cd:
+>   <:valor31:804449943666425907>:cd::cd:
+>   <:valor41:804449944298586143>:cd::cd:
 
 >   :cd::cd:<:precision23:804446921628057630>
 >   :cd::cd::cd:
 >   <:precision41:804446922151690300>:cd::cd:
->   <:5008:804451180172279808> <:5008:804451180172279808> <:5002:804451180104908870>
+>   <:5007:804451180164022312> <:5002:804451180104908870> <:5002:804451180104908870>
 
 **Build**
 **Botas:** Botas de mercurio
 **Objetos iniciales:** Capítulo perdido
 **Objetos principales:** Bacteriófago > Cercenador divino > Apariencia espiritual > Cota de espinas
-**Objetos finales:** Fuerza de la naturaleza, Cota de espinas, Coraza del muerto
+**Objetos finales:** Cota de espinas, Fuerza de la naturaleza, Armadura pétrea

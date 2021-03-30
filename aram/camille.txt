@@ -15,6 +15,6 @@
 
 **Build**
 **Botas:** Botas de mercurio
-**Objetos iniciales:** Poción reutilizable, Bacteriófago
+**Objetos iniciales:** Poción reutilizable, Hacha hogareña
 **Objetos principales:** Brillo > Fuerza de la trinidad > Hidra voraz > Guantelete de Sterak
 **Objetos finales:** Apariencia espiritual, Sierraespada Quimopunk, Danza de la muerte
